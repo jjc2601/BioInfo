@@ -1,0 +1,18 @@
+n_sequences, cluster_id, query_id, %_identity, alignment_length, mismatches, gap_opens, evalue, bit_score, subject_titles
+BLAST_out_clusters
+11	240  83.951 81 10 2 1.73e	15 75.0 Kuhlia xenura voucher USNM:FISH:442289 mitochondrion, complete genome OP035202.1
+11	664  98.049 205 3 1 5.37e	100 355 Poecilia sphenops mitochondrial DNA, complete genome ref|NC_026579.1|
+20	346  99.078 217 1 1 5.24e	110 388 Amatitlania nigrofasciata voucher AN15758 small subunit ribosomal RNA gene, partial sequence; mitochondrial OK576391.1
+46	111  97.549 204 4 1 8.32e	98 348 Poecilia sphenops mitochondrial DNA, complete genome ref|NC_026579.1|
+5	259  95.853 217 6 3 1.09e	97 348 Poecilia sphenops mitochondrial DNA, complete genome ref|NC_026579.1|
+5	570  85.526 76 9 2 1.37e	16 78.7 Sarotherodon melanotheron mitochondrion, complete genome ref|NC_015611.1|
+5	58  94.064 219 9 4 4.46e	92 329 Poecilia sphenops mitochondrial DNA, complete genome ref|NC_026579.1|
+5	888  98.537 205 1 2 1.06e	101 361 Amatitlania nigrofasciata voucher AN15758 small subunit ribosomal RNA gene, partial sequence; mitochondrial OK576391.1
+5	894  94.737 209 5 5 1.85e	89 320 Poecilia sphenops mitochondrial DNA, complete genome ref|NC_026579.1|
+5	897  97.696 217 1 4 1.93e	104 370 Amatitlania nigrofasciata voucher AN15758 small subunit ribosomal RNA gene, partial sequence; mitochondrial OK576391.1
+6	795  92.233 206 7 7 2.38e	78 283 Poecilia sphenops mitochondrial DNA, complete genome ref|NC_026579.1|
+7	1123  97.044 203 3 3 4.95e	95 339 Poecilia sphenops mitochondrial DNA, complete genome ref|NC_026579.1|
+7	392 
+7	718  98.500 200 3 0 1.75e	99 353 Micropterus dolomieu mitochondrion, complete genome ref|NC_011361.1|
+8	839  97.044 203 4 2 1.38e	95 340 Poecilia sphenops mitochondrial DNA, complete genome ref|NC_026579.1|
+ 

@@ -1,0 +1,7 @@
+barcode14_concatenated/report_barcode14_concatenated 2882 153	(5.31%)
+barcode15_concatenated/report_barcode15_concatenated 2405 246	(10.23%)
+barcode16_concatenated/report_barcode16_concatenated 3154 227	(7.20%)
+barcode17_concatenated/report_barcode17_concatenated 3826 435	(11.37%)
+barcode18_concatenated/report_barcode18_concatenated 2716 196	(7.22%)
+barcode19_concatenated/report_barcode19_concatenated 3006 297	(9.88%)
+barcode20_concatenated/report_barcode20_concatenated 3224 304	(9.43%)

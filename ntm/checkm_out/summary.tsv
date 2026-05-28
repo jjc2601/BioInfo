@@ -1,0 +1,2 @@
+Bin Id	Marker lineage	# genomes	# markers	# marker sets	Completeness	Contamination	Strain heterogeneity	Genome size (bp)	# ambiguous bases	# scaffolds	# contigs	N50 (scaffolds)	N50 (contigs)	Mean scaffold length (bp)	Mean contig length (bp)	Longest scaffold (bp)	Longest contig (bp)	GC	GC std (scaffolds > 1kbp)	Coding density	Translation table	# predicted genes	0	1	2	3	4	5+
+NTM_22-11	Bacteria	5449	104	58	97.13	0.00	0.00	4201960	0	1	1	4201960	4201960	4201960	4201960	4201960	4201960	66.7	0.00	88.34	11	4102	3	101	0	0	0	0

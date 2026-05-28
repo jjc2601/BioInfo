@@ -1,0 +1,603 @@
+IQ-TREE 2.4.0 built Feb  7 2025
+
+Input file name: musclecombined.fasta
+Type of analysis: ModelFinder + tree reconstruction + ultrafast bootstrap (1000 replicates)
+Random seed number: 239123
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+To cite ModelFinder please use: 
+
+Subha Kalyaanamoorthy, Bui Quang Minh, Thomas KF Wong, Arndt von Haeseler,
+and Lars S Jermiin (2017) ModelFinder: Fast model selection for
+accurate phylogenetic estimates. Nature Methods, 14:587–589.
+https://doi.org/10.1038/nmeth.4285
+
+Since you used ultrafast bootstrap (UFBoot) please also cite: 
+
+Diep Thi Hoang, Olga Chernomor, Arndt von Haeseler, Bui Quang Minh,
+and Le Sy Vinh (2018) UFBoot2: Improving the ultrafast bootstrap
+approximation. Mol. Biol. Evol., 35:518–522.
+https://doi.org/10.1093/molbev/msx281
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 105 sequences with 1625 nucleotide sites
+Number of constant sites: 1114 (= 68.5538% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 1114 (= 68.5538% of all sites)
+Number of parsimony informative sites: 412
+Number of distinct site patterns: 521
+
+ModelFinder
+-----------
+
+Best-fit model according to BIC: TIM3+F+I+G4
+
+List of models sorted by BIC scores: 
+
+Model                  LogL         AIC      w-AIC        AICc     w-AICc         BIC      w-BIC
+TIM3+F+I+G4       -9696.016   19822.033 +     0.19   19887.952 +    0.312   20981.584 +    0.978
+GTR+F+I+G4        -9692.565   19819.131 +     0.81   19886.374 +    0.687   20989.469 -    0.019
+TPM3u+F+I+G4      -9705.448   19838.897 - 4.13e-05   19904.159 - 9.45e-05   20993.055 -  0.00316
+TVM+F+I+G4        -9701.950   19835.901 - 0.000185   19902.481 - 0.000219   21000.846 - 6.42e-05
+TN+F+I+G4         -9711.707   19851.415 - 7.91e-08   19916.677 - 1.81e-07   21005.573 - 6.04e-06
+TIM2+F+I+G4       -9709.976   19849.952 - 1.64e-07   19915.871 -  2.7e-07   21009.504 - 8.46e-07
+TIM+F+I+G4        -9711.671   19853.342 - 3.02e-08   19919.262 - 4.96e-08   21012.894 - 1.55e-07
+HKY+F+I+G4        -9720.789   19867.577 - 2.45e-11   19932.187 - 7.75e-11   21016.342 - 2.77e-08
+TPM2u+F+I+G4      -9719.100   19866.199 - 4.87e-11   19931.462 - 1.11e-10   21020.358 - 3.72e-09
+K3Pu+F+I+G4       -9720.762   19869.524 - 9.24e-12   19934.786 - 2.11e-11   21023.682 - 7.06e-10
+TVMe+I+G4         -9739.524   19905.048 - 1.79e-19   19969.657 - 5.66e-19   21053.813 - 2.02e-16
+SYM+I+G4          -9737.075   19902.150 -  7.6e-19   19967.412 - 1.74e-18   21056.308 - 5.81e-17
+TPM2+I+G4         -9750.795   19923.591 - 1.68e-23   19986.906 - 1.02e-22   21061.569 - 4.18e-18
+TIM2e+I+G4        -9748.416   19920.832 - 6.67e-23   19984.792 - 2.92e-22   21064.204 - 1.12e-18
+TPM3+I+G4         -9754.626   19931.253 - 3.64e-25   19994.568 -  2.2e-24   21069.231 - 9.08e-20
+TIM3e+I+G4        -9752.040   19928.081 - 1.78e-24   19992.041 -  7.8e-24   21071.453 - 2.99e-20
+K2P+I+G4          -9763.922   19947.844 - 9.09e-29   20010.517 - 7.58e-28   21080.429 - 3.36e-22
+TNe+I+G4          -9761.373   19944.746 - 4.28e-28   20008.060 - 2.59e-27   21082.724 - 1.07e-22
+K3P+I+G4          -9763.899   19949.797 - 3.42e-29   20013.112 - 2.07e-28   21087.776 - 8.53e-24
+TIMe+I+G4         -9761.363   19946.725 - 1.59e-28   20010.686 - 6.97e-28   21090.097 - 2.67e-24
+GTR+F+G4          -9774.840   19981.680 - 4.09e-36   20048.260 - 4.83e-36   21146.625 - 1.42e-36
+F81+F+I+G4        -9942.994   20309.988 - 2.09e-107   20373.948 - 9.16e-107   21453.360 - 3.51e-103
+JC+I+G4           -9959.888   20337.776 - 1.93e-113   20399.812 - 2.22e-112   21464.968 - 1.06e-105
+GTR+F+I          -10299.113   21030.227 - 8.36e-264   21096.806 - 9.89e-264   22195.171 - 2.9e-264
+GTR+F            -11106.373   22642.746 -        0   22708.665 -        0   23802.298 -        0
+
+AIC, w-AIC   : Akaike information criterion scores and weights.
+AICc, w-AICc : Corrected AIC scores and weights.
+BIC, w-BIC   : Bayesian information criterion scores and weights.
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: TIM3+F+I+G4
+
+Rate parameter R:
+
+  A-C: 0.5342
+  A-G: 2.1666
+  A-T: 1.0000
+  C-G: 0.5342
+  C-T: 3.4464
+  G-T: 1.0000
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.2189
+  pi(C) = 0.2388
+  pi(G) = 0.3409
+  pi(T) = 0.2014
+
+Rate matrix Q:
+
+  A    -1.043    0.1247    0.7219    0.1968
+  C    0.1143   -0.9706     0.178    0.6783
+  G    0.4635    0.1247    -0.785    0.1968
+  T    0.2139    0.8045    0.3332    -1.352
+
+Model of rate heterogeneity: Invar+Gamma with 4 categories
+Proportion of invariable sites: 0.4944
+Gamma shape alpha: 0.2484
+
+ Category  Relative_rate  Proportion
+  0         0              0.4944
+  1         0.004029       0.1264
+  2         0.1296         0.1264
+  3         0.985          0.1264
+  4         6.793          0.1264
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -9632.0024 (s.e. 421.0532)
+Unconstrained log-likelihood (without tree): -7330.0360
+Number of free parameters (#branches + #model parameters): 215
+Akaike information criterion (AIC) score: 19694.0047
+Corrected Akaike information criterion (AICc) score: 19759.9238
+Bayesian information criterion (BIC) score: 20853.5563
+
+Total tree length (sum of branch lengths): 10.2198
+Sum of internal branch lengths: 9.3087 (91.0847% of tree length)
+
+WARNING: 16 near-zero internal branches (<0.0006) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'AOKDPPHH_04184' is drawn at root
+Numbers in parentheses are  ultrafast bootstrap support (%)
+
++--AOKDPPHH_04184
+|
++**AOKDPPHH_03798
+|
+|  +--AOKDPPHH_03803
++--| (90)
+   |  +--AOKDPPHH_04179
+   +**| (61)
+      |                                                                                                                          +--NR_044590.1_Hoyosella_altamirensis
+      |                                                                                                                       +--| (68)
+      |                                                                                                                       |  +--NR_158076.1_Mycobacterium_aquiterrae
+      |                                                                                                                    +--| (62)
+      |                                                                                                                    |  +--NR_179750.1_Mycobacterium_neglectum
+      |                                                                                                                 +--| (34)
+      |                                                                                                                 |  +--NR_180098.1_Mycobacterium_kyogaense
+      |                                                                                                              +--| (52)
+      |                                                                                                              |  |           +**NR_119148.1_Mycobacteroides_abscessus
+      |                                                                                                              |  |        +--| (100)
+      |                                                                                                              |  |        |  |        +**NR_119149.1_Mycobacteroides_chelonae
+      |                                                                                                              |  |        |  |     +**| (77)
+      |                                                                                                              |  |        |  |     |  +**NR_117923.1_Mycobacteroides_franklinii
+      |                                                                                                              |  |        |  |  +--| (100)
+      |                                                                                                              |  |        |  |  |  |  +--NR_043989.1_Mycobacteroides_salmoniphilum
+      |                                                                                                              |  |        |  |  |  +--| (99)
+      |                                                                                                              |  |        |  |  |     +**NR_157700.1__Mycobacterium__stephanolepidis
+      |                                                                                                              |  |        |  +--| (95)
+      |                                                                                                              |  |        |     |  +**NR_158073.1__Mycobacterium__chelonae
+      |                                                                                                              |  |        |     +**| (80)
+      |                                                                                                              |  |        |        +**NR_145859.1_Mycobacteroides_saopaulense
+      |                                                                                                              |  |     +--| (100)
+      |                                                                                                              |  |     |  +**NR_104876.1_Mycobacteroides_immunogenum
+      |                                                                                                              |  |  +--| (30)
+      |                                                                                                              |  |  |  +--NR_115184.1_Mycobacterium_hackensackense
+      |                                                                                                              |  +--| (69)
+      |                                                                                                              |     |  +--NR_178332.1_Mycobacterium_dioxanotrophicus
+      |                                                                                                              |     +--| (76)
+      |                                                                                                              |        +--NR_158005.1_Mycobacterium_aquaticum
+      |                                                                                                           +--| (78)
+      |                                                                                                           |  +--NR_179783.1_Mycobacterium_syngnathidarum
+      |                                                                                                        +--| (74)
+      |                                                                                                        |  |  +**NR_115330.1_Mycobacterium_barrassiae
+      |                                                                                                        |  +--| (96)
+      |                                                                                                        |     |  +**NR_159197.1_Mycobacterium_neumannii
+      |                                                                                                        |     +--| (100)
+      |                                                                                                        |        +**NR_159196.1_Mycobacterium_lehmannii
+      |                                                                                                     +--| (71)
+      |                                                                                                     |  +--NR_116504.1_Mycobacterium_paraterrae
+      |                                                                                                  +--| (80)
+      |                                                                                                  |  |  +**NR_157699.1_Mycobacterium_talmoniae
+      |                                                                                                  |  +--| (100)
+      |                                                                                                  |     +--NR_157985.1_Mycobacterium_eburneum
+      |                                                                                               +--| (68)
+      |                                                                                               |  |  +--NR_119156.1_Mycobacterium_shimoidei
+      |                                                                                               |  +--| (99)
+      |                                                                                               |     |        +--NR_118882.1_Mycobacterium_xenopi
+      |                                                                                               |     |     +--| (99)
+      |                                                                                               |     |     |  +--NR_028878.1_Mycobacterium_botniense
+      |                                                                                               |     |  +--| (100)
+      |                                                                                               |     |  |  +--NR_028759.1_Mycobacterium_heckeshornense
+      |                                                                                               |     +--| (100)
+      |                                                                                               |        +--NR_044442.1_Mycobacterium_noviomagense
+      |                                                                                            +--| (75)
+      |                                                                                            |  |  +--NR_114661.1_Mycobacterium_cookii
+      |                                                                                            |  +--| (94)
+      |                                                                                            |     |     +--NR_118426.1_Mycobacterium_fragae
+      |                                                                                            |     |  +--| (63)
+      |                                                                                            |     |  |  |  +--NR_041897.1_Mycobacterium_branderi
+      |                                                                                            |     |  |  +--| (95)
+      |                                                                                            |     |  |     +--NR_041663.1_Mycobacterium_kyorinense
+      |                                                                                            |     +--| (99)
+      |                                                                                            |        +--NR_114894.1_Mycobacterium_celatum
+      |                                                                                         +**| (58)
+      |                                                                                         |  +--NR_118917.1_Mycobacterium_asiaticum
+      |                                                                                      +--| (65)
+      |                                                                                      |  |  +--NR_118331.1_Mycobacterium_gordonae
+      |                                                                                      |  +--| (100)
+      |                                                                                      |     |  +--NR_178881.1_Mycobacterium_vicinigordonae
+      |                                                                                      |     +--| (94)
+      |                                                                                      |        +--NR_125667.1_Mycobacterium_paragordonae
+      |                                                                                   +--| (53)
+      |                                                                                   |  +--NR_147779.2_Mycobacterium_alsense
+      |                                                                                +--| (73)
+      |                                                                                |  |                       +--NR_178331.1_Mycobacterium_lepromatosis
+      |                                                                                |  |                    +--| (80)
+      |                                                                                |  |                    |  +--NR_104888.1_Mycobacterium_haemophilum
+      |                                                                                |  |                 +--| (58)
+      |                                                                                |  |                 |  |              +--NR_112623.1_Mycobacterium_shinjukuense
+      |                                                                                |  |                 |  |           +**| (51)
+      |                                                                                |  |                 |  |           |  |     +--NR_113136.1_Mycobacterium_pseudoshottsii
+      |                                                                                |  |                 |  |           |  |  +--| (99)
+      |                                                                                |  |                 |  |           |  |  |  |  +--NR_113138.1_Mycobacterium_ulcerans
+      |                                                                                |  |                 |  |           |  |  |  +**| (83)
+      |                                                                                |  |                 |  |           |  |  |     +**NR_114890.1_Mycobacterium_marinum
+      |                                                                                |  |                 |  |           |  +--| (100)
+      |                                                                                |  |                 |  |           |     +--NR_025636.1_Mycobacterium_shottsii
+      |                                                                                |  |                 |  |        +--| (87)
+      |                                                                                |  |                 |  |        |  |     +--NR_178462.1_Mycobacterium_spongiae
+      |                                                                                |  |                 |  |        |  |  +--| (67)
+      |                                                                                |  |                 |  |        |  |  |  +--NR_044826.2_Mycobacterium_tuberculosis
+      |                                                                                |  |                 |  |        |  +--| (69)
+      |                                                                                |  |                 |  |        |     +--NR_178632.1_Mycobacterium_decipiens
+      |                                                                                |  |                 |  |     +--| (93)
+      |                                                                                |  |                 |  |     |  +--NR_025175.1_Mycobacterium_lacus
+      |                                                                                |  |                 |  |  +--| (30)
+      |                                                                                |  |                 |  |  |  |     +--NR_181979.1_Mycobacterium_simulans
+      |                                                                                |  |                 |  |  |  |  +--| (94)
+      |                                                                                |  |                 |  |  |  |  |  +--NR_044449.1_Mycobacterium_riyadhense
+      |                                                                                |  |                 |  |  |  +--| (95)
+      |                                                                                |  |                 |  |  |     |  +**NR_145908.1_Mycobacterium_angelicum
+      |                                                                                |  |                 |  |  |     +--| (99)
+      |                                                                                |  |                 |  |  |        +**NR_118584.1_Mycobacterium_szulgai
+      |                                                                                |  |                 |  +**| (31)
+      |                                                                                |  |                 |     +--NR_117225.1_Mycobacterium_malmoense
+      |                                                                                |  |              +--| (66)
+      |                                                                                |  |              |  +--NR_026054.1_Mycobacterium_bohemicum
+      |                                                                                |  |           +--| (55)
+      |                                                                                |  |           |  +--NR_025767.1_Mycobacterium_nebraskense
+      |                                                                                |  |        +**| (29)
+      |                                                                                |  |        |  |  +**NR_115815.1_Mycobacterium_paraseoulense
+      |                                                                                |  |        |  +--| (99)
+      |                                                                                |  |        |     +**NR_043904.1_Mycobacterium_seoulense
+      |                                                                                |  |     +--| (54)
+      |                                                                                |  |     |  |     +--NR_119193.1_Mycobacterium_paraffinicum
+      |                                                                                |  |     |  |  +--| (100)
+      |                                                                                |  |     |  |  |  |  +--NR_118880.1_Mycobacterium_scrofulaceum
+      |                                                                                |  |     |  |  |  +--| (99)
+      |                                                                                |  |     |  |  |     +--NR_116538.1_Mycobacterium_mantenii
+      |                                                                                |  |     |  +--| (62)
+      |                                                                                |  |     |     |        +--NR_104956.1_Mycobacterium_timonense
+      |                                                                                |  |     |     |     +--| (94)
+      |                                                                                |  |     |     |     |  |        +--NR_117219.1_Mycobacterium_avium
+      |                                                                                |  |     |     |     |  |     +--| (87)
+      |                                                                                |  |     |     |     |  |     |  +--NR_179381.1_Mycobacterium_senriense
+      |                                                                                |  |     |     |     |  |  +--| (88)
+      |                                                                                |  |     |     |     |  |  |  |  +--NR_116063.1_Mycobacterium_bouchedurhonense
+      |                                                                                |  |     |     |     |  |  |  +**| (87)
+      |                                                                                |  |     |     |     |  |  |     +**NR_117222.1_Mycobacterium_colombiense
+      |                                                                                |  |     |     |     |  +--| (90)
+      |                                                                                |  |     |     |     |     +--NR_117221.1_Mycobacterium_arosiense
+      |                                                                                |  |     |     |  +--| (93)
+      |                                                                                |  |     |     |  |  +**NR_116262.1_Mycobacterium_marseillense
+      |                                                                                |  |     |     +--| (100)
+      |                                                                                |  |     |        |  +**NR_117228.1_Mycobacterium_intracellulare
+      |                                                                                |  |     |        +--| (89)
+      |                                                                                |  |     |           +--NR_146658.1_Mycobacterium_paraintracellulare
+      |                                                                                |  |  +--| (96)
+      |                                                                                |  |  |  |        +--NR_044840.1_Mycobacterium_intermedium
+      |                                                                                |  |  |  |     +--| (99)
+      |                                                                                |  |  |  |     |  +**NR_135729.1_Mycobacterium_bourgelatii
+      |                                                                                |  |  |  |  +**| (48)
+      |                                                                                |  |  |  |  |  |     +**NR_118879.1_Mycobacterium_gastri
+      |                                                                                |  |  |  |  |  |  +**| (83)
+      |                                                                                |  |  |  |  |  |  |  +**NR_121712.2_Mycobacterium_kansasii
+      |                                                                                |  |  |  |  |  +--| (100)
+      |                                                                                |  |  |  |  |     +--NR_179497.1_Mycobacterium_innocens
+      |                                                                                |  |  |  +--| (77)
+      |                                                                                |  |  |     |     +--NR_156953.1_Mycobacterium_persicum
+      |                                                                                |  |  |     |  +--| (100)
+      |                                                                                |  |  |     |  |  +**NR_179496.1_Mycobacterium_pseudokansasii
+      |                                                                                |  |  |     +--| (95)
+      |                                                                                |  |  |        +**NR_179498.1_Mycobacterium_attenuatum
+      |                                                                                |  +--| (88)
+      |                                                                                |     +--NR_029298.1_Mycobacterium_conspicuum
+      |                                                                             +**| (46)
+      |                                                                             |  +--NR_178718.1_Mycobacterium_paraense
+      |                                                                          +--| (81)
+      |                                                                          |  |  +--NR_042793.1_Mycobacterium_saskatchewanense
+      |                                                                          |  +--| (79)
+      |                                                                          |     |  +--NR_179522.1_Mycobacterium_terramassiliense
+      |                                                                          |     +--| (87)
+      |                                                                          |        +--NR_104909.1_Mycobacterium_interjectum
+      |                                                                       +**| (75)
+      |                                                                       |  |     +--NR_025000.1_Mycobacterium_kubicae
+      |                                                                       |  |  +--| (82)
+      |                                                                       |  |  |  +--NR_028940.1_Mycobacterium_palustre
+      |                                                                       |  +--| (100)
+      |                                                                       |     |  +--NR_125568.1_Mycobacterium_europaeum
+      |                                                                       |     +--| (99)
+      |                                                                       |        +--NR_118110.1_Mycobacterium_parascrofulaceum
+      |                                                                    +--| (71)
+      |                                                                    |  |  +--NR_025268.1_Mycobacterium_heidelbergense
+      |                                                                    |  +--| (92)
+      |                                                                    |     +--NR_025225.1_Mycobacterium_parmense
+      |                                                                 +--| (72)
+      |                                                                 |  |        +--NR_181114.1_Mycobacterium_helveticum
+      |                                                                 |  |     +--| (86)
+      |                                                                 |  |     |  |  +--NR_042665.1_Mycobacterium_stomatepiae
+      |                                                                 |  |     |  +**| (76)
+      |                                                                 |  |     |     +**NR_042223.1_Mycobacterium_florentinum
+      |                                                                 |  |  +--| (88)
+      |                                                                 |  |  |  |     +--NR_029223.1_Mycobacterium_genavense
+      |                                                                 |  |  |  |  +**| (79)
+      |                                                                 |  |  |  |  |  +--NR_044791.1_Mycobacterium_triplex
+      |                                                                 |  |  |  +--| (84)
+      |                                                                 |  |  |     +--NR_028808.1_Mycobacterium_montefiorense
+      |                                                                 |  +--| (80)
+      |                                                                 |     +--NR_115209.1_Mycobacterium_sherrisii
+      |                                                              +**| (56)
+      |                                                              |  +**NR_117227.1_Mycobacterium_simiae
+      |                                                           +--| (78)
+      |                                                           |  |     +--NR_179523.1_Mycobacterium_rhizamassiliense
+      |                                                           |  |  +--| (88)
+      |                                                           |  |  |  +--NR_179524.1_Mycobacterium_numidiamassiliense
+      |                                                           |  +--| (100)
+      |                                                           |     +**NR_146370.1_Mycobacterium_shigaense
+      |                                                        +--| (78)
+      |                                                        |  +**NR_041898.1_Mycobacterium_lentiflavum
+      +--------------------------------------------------------| (100)
+                                                               +**NR_179612.1_Mycobacterium_ahvazicum
+
+Tree in newick format:
+
+(AOKDPPHH_04184:0.0196104079,AOKDPPHH_03798:0.0000028991,(AOKDPPHH_03803:0.0011629846,(AOKDPPHH_04179:0.0010648902,(((((((((((((((((((((((NR_044590.1_Hoyosella_altamirensis:0.1625625061,NR_158076.1_Mycobacterium_aquiterrae:0.0160053154)68:0.0052132413,NR_179750.1_Mycobacterium_neglectum:0.0232687121)62:0.0168948458,NR_180098.1_Mycobacterium_kyogaense:0.0172191666)34:0.0022426190,((((NR_119148.1_Mycobacteroides_abscessus:0.0000021881,(((NR_119149.1_Mycobacteroides_chelonae:0.0000010036,NR_117923.1_Mycobacteroides_franklinii:0.0000023446)77:0.0000027887,(NR_043989.1_Mycobacteroides_salmoniphilum:0.0039302045,NR_157700.1__Mycobacterium__stephanolepidis:0.0000029753)99:0.0026054042)100:0.0039242643,(NR_158073.1__Mycobacterium__chelonae:0.0000029638,NR_145859.1_Mycobacteroides_saopaulense:0.0000029660)80:0.0000026377)95:0.0013031973)100:0.0093079055,NR_104876.1_Mycobacteroides_immunogenum:0.0000025059)100:0.0592069049,NR_115184.1_Mycobacterium_hackensackense:0.0052292558)30:0.0147013306,(NR_178332.1_Mycobacterium_dioxanotrophicus:0.0160634265,NR_158005.1_Mycobacterium_aquaticum:0.0175965366)76:0.0089234070)69:0.0201407803)52:0.0133052324,NR_179783.1_Mycobacterium_syngnathidarum:0.0034458089)78:0.0172539377,(NR_115330.1_Mycobacterium_barrassiae:0.0000020806,(NR_159197.1_Mycobacterium_neumannii:0.0000022430,NR_159196.1_Mycobacterium_lehmannii:0.0000022826)100:0.0365493915)96:0.0308836572)74:0.0053777596,NR_116504.1_Mycobacterium_paraterrae:0.0266406475)71:0.0175346085,(NR_157699.1_Mycobacterium_talmoniae:0.0000020110,NR_157985.1_Mycobacterium_eburneum:0.0014591714)100:0.0250073246)80:0.0141049635,(NR_119156.1_Mycobacterium_shimoidei:0.0068860610,(((NR_118882.1_Mycobacterium_xenopi:0.0236107069,NR_028878.1_Mycobacterium_botniense:0.0188970632)99:0.0171116920,NR_028759.1_Mycobacterium_heckeshornense:0.0247888404)100:0.0100025214,NR_044442.1_Mycobacterium_noviomagense:0.0218138596)100:0.0302514807)99:0.0184273806)68:0.0088359065,(NR_114661.1_Mycobacterium_cookii:0.0295383811,((NR_118426.1_Mycobacterium_fragae:0.0311098244,(NR_041897.1_Mycobacterium_branderi:0.0316476494,NR_041663.1_Mycobacterium_kyorinense:0.0108878451)95:0.0084232339)63:0.0089420927,NR_114894.1_Mycobacterium_celatum:0.0073318700)99:0.0166967587)94:0.0089479772)75:0.0215282789,NR_118917.1_Mycobacterium_asiaticum:0.0056811364)58:0.0003266441,(NR_118331.1_Mycobacterium_gordonae:0.0027917424,(NR_178881.1_Mycobacterium_vicinigordonae:0.0009711100,NR_125667.1_Mycobacterium_paragordonae:0.0029600726)94:0.0025845139)100:0.0159050256)65:0.0065780105,NR_147779.2_Mycobacterium_alsense:0.0023100603)53:0.0011938477,((((((((NR_178331.1_Mycobacterium_lepromatosis:0.0279685454,NR_104888.1_Mycobacterium_haemophilum:0.0036104593)80:0.0010035855,(((((NR_112623.1_Mycobacterium_shinjukuense:0.0259596763,((NR_113136.1_Mycobacterium_pseudoshottsii:0.0060055402,(NR_113138.1_Mycobacterium_ulcerans:0.0023808649,NR_114890.1_Mycobacterium_marinum:0.0000010036)83:0.0000010037)99:0.0011899928,NR_025636.1_Mycobacterium_shottsii:0.0023661228)100:0.0047593502)51:0.0000025422,((NR_178462.1_Mycobacterium_spongiae:0.0151981135,NR_044826.2_Mycobacterium_tuberculosis:0.0028824469)67:0.0021387478,NR_178632.1_Mycobacterium_decipiens:0.0036538042)69:0.0022111791)87:0.0075439776,NR_025175.1_Mycobacterium_lacus:0.0021975252)93:0.0091512905,((NR_181979.1_Mycobacterium_simulans:0.0061075614,NR_044449.1_Mycobacterium_riyadhense:0.0038788979)94:0.0010168087,(NR_145908.1_Mycobacterium_angelicum:0.0000010036,NR_118584.1_Mycobacterium_szulgai:0.0000022451)99:0.0026837778)95:0.0083661700)30:0.0008915152,NR_117225.1_Mycobacterium_malmoense:0.0047718125)31:0.0000024365)58:0.0029080689,NR_026054.1_Mycobacterium_bohemicum:0.0029846358)66:0.0037032338,NR_025767.1_Mycobacterium_nebraskense:0.0053492581)55:0.0054142768,(NR_115815.1_Mycobacterium_paraseoulense:0.0000010036,NR_043904.1_Mycobacterium_seoulense:0.0000010036)99:0.0023317176)29:0.0000024555,((NR_119193.1_Mycobacterium_paraffinicum:0.0012761473,(NR_118880.1_Mycobacterium_scrofulaceum:0.0012663898,NR_116538.1_Mycobacterium_mantenii:0.0080717702)99:0.0012453120)100:0.0083292585,(((NR_104956.1_Mycobacterium_timonense:0.0035972081,(((NR_117219.1_Mycobacterium_avium:0.0058483952,NR_179381.1_Mycobacterium_senriense:0.0022878779)87:0.0011591979,(NR_116063.1_Mycobacterium_bouchedurhonense:0.0044257263,NR_117222.1_Mycobacterium_colombiense:0.0000010036)87:0.0000027945)88:0.0022229358,NR_117221.1_Mycobacterium_arosiense:0.0023608881)90:0.0022332861)94:0.0022660041,NR_116262.1_Mycobacterium_marseillense:0.0000022342)93:0.0010855513,(NR_117228.1_Mycobacterium_intracellulare:0.0000020834,NR_146658.1_Mycobacterium_paraintracellulare:0.0011427693)89:0.0011859213)100:0.0085097644)62:0.0008600111)54:0.0009767946,(((NR_044840.1_Mycobacterium_intermedium:0.0195046445,NR_135729.1_Mycobacterium_bourgelatii:0.0000021721)99:0.0179165934,((NR_118879.1_Mycobacterium_gastri:0.0000010036,NR_121712.2_Mycobacterium_kansasii:0.0000010036)83:0.0000028117,NR_179497.1_Mycobacterium_innocens:0.0022814689)100:0.0081429795)48:0.0000020943,((NR_156953.1_Mycobacterium_persicum:0.0034900990,NR_179496.1_Mycobacterium_pseudokansasii:0.0000029196)100:0.0011415285,NR_179498.1_Mycobacterium_attenuatum:0.0000022099)95:0.0023075305)77:0.0036214207)96:0.0100118758,NR_029298.1_Mycobacterium_conspicuum:0.0081444497)88:0.0046544605)73:0.0159795570,NR_178718.1_Mycobacterium_paraense:0.0109508382)46:0.0000025974,(NR_042793.1_Mycobacterium_saskatchewanense:0.0119219870,(NR_179522.1_Mycobacterium_terramassiliense:0.0046549402,NR_104909.1_Mycobacterium_interjectum:0.0056123880)87:0.0013388349)79:0.0013206989)81:0.0129501685,((NR_025000.1_Mycobacterium_kubicae:0.0127048360,NR_028940.1_Mycobacterium_palustre:0.0025074824)82:0.0013132080,(NR_125568.1_Mycobacterium_europaeum:0.0016355449,NR_118110.1_Mycobacterium_parascrofulaceum:0.0075412625)99:0.0069058006)100:0.0124240519)75:0.0004481842,(NR_025268.1_Mycobacterium_heidelbergense:0.0058114003,NR_025225.1_Mycobacterium_parmense:0.0215297768)92:0.0066233931)71:0.0027626518,(((NR_181114.1_Mycobacterium_helveticum:0.0254805673,(NR_042665.1_Mycobacterium_stomatepiae:0.0054273081,NR_042223.1_Mycobacterium_florentinum:0.0000027254)76:0.0000028164)86:0.0067262846,((NR_029223.1_Mycobacterium_genavense:0.0082826260,NR_044791.1_Mycobacterium_triplex:0.0013379502)79:0.0000028087,NR_028808.1_Mycobacterium_montefiorense:0.0102111233)84:0.0025093779)88:0.0039013452,NR_115209.1_Mycobacterium_sherrisii:0.0025670625)80:0.0026353662)72:0.0016115515,NR_117227.1_Mycobacterium_simiae:0.0000028973)56:0.0000021406,((NR_179523.1_Mycobacterium_rhizamassiliense:0.0093630029,NR_179524.1_Mycobacterium_numidiamassiliense:0.0064551091)88:0.0089351281,NR_146370.1_Mycobacterium_shigaense:0.0000020899)100:0.0102104078)78:0.0080560618,NR_041898.1_Mycobacterium_lentiflavum:0.0000020446)78:0.0370131333,NR_179612.1_Mycobacterium_ahvazicum:0.0000021056)100:8.5918811300)61:0.0001097448)90:0.0011606146);
+
+CONSENSUS TREE
+--------------
+
+Consensus tree is constructed from 1000 bootstrap trees
+Log-likelihood of consensus tree: -9632.784193
+Robinson-Foulds distance between ML tree and consensus tree: 4
+
+Branches with support >0.000000% are kept (extended consensus)
+Branch lengths are optimized by maximum likelihood on original alignment
+Numbers in parentheses are bootstrap supports (%)
+
++--AOKDPPHH_04184
+|
++--AOKDPPHH_03798
+|
+|  +--AOKDPPHH_03803
++--| (90)
+   |  +--AOKDPPHH_04179
+   +--| (61)
+      |                                                                                                                          +--NR_044590.1_Hoyosella_altamirensis
+      |                                                                                                                       +--| (68)
+      |                                                                                                                       |  +--NR_158076.1_Mycobacterium_aquiterrae
+      |                                                                                                                    +--| (62)
+      |                                                                                                                    |  +--NR_179750.1_Mycobacterium_neglectum
+      |                                                                                                                 +--| (34)
+      |                                                                                                                 |  +--NR_180098.1_Mycobacterium_kyogaense
+      |                                                                                                              +--| (52)
+      |                                                                                                              |  |        +--NR_119148.1_Mycobacteroides_abscessus
+      |                                                                                                              |  |     +--| (100)
+      |                                                                                                              |  |     |  |        +--NR_119149.1_Mycobacteroides_chelonae
+      |                                                                                                              |  |     |  |     +--| (77)
+      |                                                                                                              |  |     |  |     |  +--NR_117923.1_Mycobacteroides_franklinii
+      |                                                                                                              |  |     |  |  +--| (100)
+      |                                                                                                              |  |     |  |  |  |  +--NR_043989.1_Mycobacteroides_salmoniphilum
+      |                                                                                                              |  |     |  |  |  +--| (99)
+      |                                                                                                              |  |     |  |  |     +--NR_157700.1__Mycobacterium__stephanolepidis
+      |                                                                                                              |  |     |  +--| (95)
+      |                                                                                                              |  |     |     |  +--NR_158073.1__Mycobacterium__chelonae
+      |                                                                                                              |  |     |     +--| (80)
+      |                                                                                                              |  |     |        +--NR_145859.1_Mycobacteroides_saopaulense
+      |                                                                                                              |  |  +--| (100)
+      |                                                                                                              |  |  |  +--NR_104876.1_Mycobacteroides_immunogenum
+      |                                                                                                              |  +--| (69)
+      |                                                                                                              |     |  +--NR_115184.1_Mycobacterium_hackensackense
+      |                                                                                                              |     +--| (67)
+      |                                                                                                              |        |  +--NR_178332.1_Mycobacterium_dioxanotrophicus
+      |                                                                                                              |        +--| (76)
+      |                                                                                                              |           +--NR_158005.1_Mycobacterium_aquaticum
+      |                                                                                                           +--| (78)
+      |                                                                                                           |  +--NR_179783.1_Mycobacterium_syngnathidarum
+      |                                                                                                        +--| (74)
+      |                                                                                                        |  |  +--NR_115330.1_Mycobacterium_barrassiae
+      |                                                                                                        |  +--| (96)
+      |                                                                                                        |     |  +--NR_159197.1_Mycobacterium_neumannii
+      |                                                                                                        |     +--| (100)
+      |                                                                                                        |        +--NR_159196.1_Mycobacterium_lehmannii
+      |                                                                                                     +--| (71)
+      |                                                                                                     |  +--NR_116504.1_Mycobacterium_paraterrae
+      |                                                                                                  +--| (80)
+      |                                                                                                  |  |  +--NR_157699.1_Mycobacterium_talmoniae
+      |                                                                                                  |  +--| (100)
+      |                                                                                                  |     +--NR_157985.1_Mycobacterium_eburneum
+      |                                                                                               +--| (68)
+      |                                                                                               |  |  +--NR_119156.1_Mycobacterium_shimoidei
+      |                                                                                               |  +--| (99)
+      |                                                                                               |     |        +--NR_118882.1_Mycobacterium_xenopi
+      |                                                                                               |     |     +--| (99)
+      |                                                                                               |     |     |  +--NR_028878.1_Mycobacterium_botniense
+      |                                                                                               |     |  +--| (100)
+      |                                                                                               |     |  |  +--NR_028759.1_Mycobacterium_heckeshornense
+      |                                                                                               |     +--| (100)
+      |                                                                                               |        +--NR_044442.1_Mycobacterium_noviomagense
+      |                                                                                            +--| (75)
+      |                                                                                            |  |  +--NR_114661.1_Mycobacterium_cookii
+      |                                                                                            |  +--| (94)
+      |                                                                                            |     |     +--NR_118426.1_Mycobacterium_fragae
+      |                                                                                            |     |  +--| (63)
+      |                                                                                            |     |  |  |  +--NR_041897.1_Mycobacterium_branderi
+      |                                                                                            |     |  |  +--| (95)
+      |                                                                                            |     |  |     +--NR_041663.1_Mycobacterium_kyorinense
+      |                                                                                            |     +--| (99)
+      |                                                                                            |        +--NR_114894.1_Mycobacterium_celatum
+      |                                                                                         +--| (58)
+      |                                                                                         |  +--NR_118917.1_Mycobacterium_asiaticum
+      |                                                                                      +--| (65)
+      |                                                                                      |  |  +--NR_118331.1_Mycobacterium_gordonae
+      |                                                                                      |  +--| (100)
+      |                                                                                      |     |  +--NR_178881.1_Mycobacterium_vicinigordonae
+      |                                                                                      |     +--| (94)
+      |                                                                                      |        +--NR_125667.1_Mycobacterium_paragordonae
+      |                                                                                   +--| (53)
+      |                                                                                   |  +--NR_147779.2_Mycobacterium_alsense
+      |                                                                                +--| (73)
+      |                                                                                |  |                       +--NR_178331.1_Mycobacterium_lepromatosis
+      |                                                                                |  |                    +--| (80)
+      |                                                                                |  |                    |  +--NR_104888.1_Mycobacterium_haemophilum
+      |                                                                                |  |                 +--| (58)
+      |                                                                                |  |                 |  |           +--NR_112623.1_Mycobacterium_shinjukuense
+      |                                                                                |  |                 |  |        +--| (51)
+      |                                                                                |  |                 |  |        |  |     +--NR_113136.1_Mycobacterium_pseudoshottsii
+      |                                                                                |  |                 |  |        |  |  +--| (99)
+      |                                                                                |  |                 |  |        |  |  |  |  +--NR_113138.1_Mycobacterium_ulcerans
+      |                                                                                |  |                 |  |        |  |  |  +--| (83)
+      |                                                                                |  |                 |  |        |  |  |     +--NR_114890.1_Mycobacterium_marinum
+      |                                                                                |  |                 |  |        |  +--| (100)
+      |                                                                                |  |                 |  |        |     +--NR_025636.1_Mycobacterium_shottsii
+      |                                                                                |  |                 |  |     +--| (87)
+      |                                                                                |  |                 |  |     |  |     +--NR_178462.1_Mycobacterium_spongiae
+      |                                                                                |  |                 |  |     |  |  +--| (67)
+      |                                                                                |  |                 |  |     |  |  |  +--NR_044826.2_Mycobacterium_tuberculosis
+      |                                                                                |  |                 |  |     |  +--| (69)
+      |                                                                                |  |                 |  |     |     +--NR_178632.1_Mycobacterium_decipiens
+      |                                                                                |  |                 |  |  +--| (93)
+      |                                                                                |  |                 |  |  |  +--NR_025175.1_Mycobacterium_lacus
+      |                                                                                |  |                 |  +--| (31)
+      |                                                                                |  |                 |     |  +--NR_117225.1_Mycobacterium_malmoense
+      |                                                                                |  |                 |     +--| (32)
+      |                                                                                |  |                 |        |     +--NR_181979.1_Mycobacterium_simulans
+      |                                                                                |  |                 |        |  +--| (94)
+      |                                                                                |  |                 |        |  |  +--NR_044449.1_Mycobacterium_riyadhense
+      |                                                                                |  |                 |        +--| (95)
+      |                                                                                |  |                 |           |  +--NR_145908.1_Mycobacterium_angelicum
+      |                                                                                |  |                 |           +--| (99)
+      |                                                                                |  |                 |              +--NR_118584.1_Mycobacterium_szulgai
+      |                                                                                |  |              +--| (66)
+      |                                                                                |  |              |  +--NR_026054.1_Mycobacterium_bohemicum
+      |                                                                                |  |           +--| (55)
+      |                                                                                |  |           |  +--NR_025767.1_Mycobacterium_nebraskense
+      |                                                                                |  |        +--| (29)
+      |                                                                                |  |        |  |  +--NR_115815.1_Mycobacterium_paraseoulense
+      |                                                                                |  |        |  +--| (99)
+      |                                                                                |  |        |     +--NR_043904.1_Mycobacterium_seoulense
+      |                                                                                |  |     +--| (54)
+      |                                                                                |  |     |  |     +--NR_119193.1_Mycobacterium_paraffinicum
+      |                                                                                |  |     |  |  +--| (100)
+      |                                                                                |  |     |  |  |  |  +--NR_118880.1_Mycobacterium_scrofulaceum
+      |                                                                                |  |     |  |  |  +--| (99)
+      |                                                                                |  |     |  |  |     +--NR_116538.1_Mycobacterium_mantenii
+      |                                                                                |  |     |  +--| (62)
+      |                                                                                |  |     |     |        +--NR_104956.1_Mycobacterium_timonense
+      |                                                                                |  |     |     |     +--| (94)
+      |                                                                                |  |     |     |     |  |        +--NR_117219.1_Mycobacterium_avium
+      |                                                                                |  |     |     |     |  |     +--| (87)
+      |                                                                                |  |     |     |     |  |     |  +--NR_179381.1_Mycobacterium_senriense
+      |                                                                                |  |     |     |     |  |  +--| (88)
+      |                                                                                |  |     |     |     |  |  |  |  +--NR_116063.1_Mycobacterium_bouchedurhonense
+      |                                                                                |  |     |     |     |  |  |  +--| (87)
+      |                                                                                |  |     |     |     |  |  |     +--NR_117222.1_Mycobacterium_colombiense
+      |                                                                                |  |     |     |     |  +--| (90)
+      |                                                                                |  |     |     |     |     +--NR_117221.1_Mycobacterium_arosiense
+      |                                                                                |  |     |     |  +--| (93)
+      |                                                                                |  |     |     |  |  +--NR_116262.1_Mycobacterium_marseillense
+      |                                                                                |  |     |     +--| (100)
+      |                                                                                |  |     |        |  +--NR_117228.1_Mycobacterium_intracellulare
+      |                                                                                |  |     |        +--| (89)
+      |                                                                                |  |     |           +--NR_146658.1_Mycobacterium_paraintracellulare
+      |                                                                                |  |  +--| (96)
+      |                                                                                |  |  |  |        +--NR_044840.1_Mycobacterium_intermedium
+      |                                                                                |  |  |  |     +--| (99)
+      |                                                                                |  |  |  |     |  +--NR_135729.1_Mycobacterium_bourgelatii
+      |                                                                                |  |  |  |  +--| (48)
+      |                                                                                |  |  |  |  |  |     +--NR_118879.1_Mycobacterium_gastri
+      |                                                                                |  |  |  |  |  |  +--| (83)
+      |                                                                                |  |  |  |  |  |  |  +--NR_121712.2_Mycobacterium_kansasii
+      |                                                                                |  |  |  |  |  +--| (100)
+      |                                                                                |  |  |  |  |     +--NR_179497.1_Mycobacterium_innocens
+      |                                                                                |  |  |  +--| (77)
+      |                                                                                |  |  |     |     +--NR_156953.1_Mycobacterium_persicum
+      |                                                                                |  |  |     |  +--| (100)
+      |                                                                                |  |  |     |  |  +--NR_179496.1_Mycobacterium_pseudokansasii
+      |                                                                                |  |  |     +--| (95)
+      |                                                                                |  |  |        +--NR_179498.1_Mycobacterium_attenuatum
+      |                                                                                |  +--| (88)
+      |                                                                                |     +--NR_029298.1_Mycobacterium_conspicuum
+      |                                                                             +--| (46)
+      |                                                                             |  +--NR_178718.1_Mycobacterium_paraense
+      |                                                                          +--| (81)
+      |                                                                          |  |  +--NR_042793.1_Mycobacterium_saskatchewanense
+      |                                                                          |  +--| (79)
+      |                                                                          |     |  +--NR_179522.1_Mycobacterium_terramassiliense
+      |                                                                          |     +--| (87)
+      |                                                                          |        +--NR_104909.1_Mycobacterium_interjectum
+      |                                                                       +--| (75)
+      |                                                                       |  |     +--NR_025000.1_Mycobacterium_kubicae
+      |                                                                       |  |  +--| (82)
+      |                                                                       |  |  |  +--NR_028940.1_Mycobacterium_palustre
+      |                                                                       |  +--| (100)
+      |                                                                       |     |  +--NR_125568.1_Mycobacterium_europaeum
+      |                                                                       |     +--| (99)
+      |                                                                       |        +--NR_118110.1_Mycobacterium_parascrofulaceum
+      |                                                                    +--| (71)
+      |                                                                    |  |  +--NR_025268.1_Mycobacterium_heidelbergense
+      |                                                                    |  +--| (92)
+      |                                                                    |     +--NR_025225.1_Mycobacterium_parmense
+      |                                                                 +--| (72)
+      |                                                                 |  |        +--NR_181114.1_Mycobacterium_helveticum
+      |                                                                 |  |     +--| (86)
+      |                                                                 |  |     |  |  +--NR_042665.1_Mycobacterium_stomatepiae
+      |                                                                 |  |     |  +--| (76)
+      |                                                                 |  |     |     +--NR_042223.1_Mycobacterium_florentinum
+      |                                                                 |  |  +--| (88)
+      |                                                                 |  |  |  |     +--NR_029223.1_Mycobacterium_genavense
+      |                                                                 |  |  |  |  +--| (79)
+      |                                                                 |  |  |  |  |  +--NR_044791.1_Mycobacterium_triplex
+      |                                                                 |  |  |  +--| (84)
+      |                                                                 |  |  |     +--NR_028808.1_Mycobacterium_montefiorense
+      |                                                                 |  +--| (80)
+      |                                                                 |     +--NR_115209.1_Mycobacterium_sherrisii
+      |                                                              +--| (56)
+      |                                                              |  +--NR_117227.1_Mycobacterium_simiae
+      |                                                           +--| (78)
+      |                                                           |  |     +--NR_179523.1_Mycobacterium_rhizamassiliense
+      |                                                           |  |  +--| (88)
+      |                                                           |  |  |  +--NR_179524.1_Mycobacterium_numidiamassiliense
+      |                                                           |  +--| (100)
+      |                                                           |     +--NR_146370.1_Mycobacterium_shigaense
+      |                                                        +--| (78)
+      |                                                        |  +--NR_041898.1_Mycobacterium_lentiflavum
+      +--------------------------------------------------------| (100)
+                                                               +--NR_179612.1_Mycobacterium_ahvazicum
+
+
+Consensus tree in newick format: 
+
+(AOKDPPHH_04184:0.0196120813,AOKDPPHH_03798:0.0000022025,(AOKDPPHH_03803:0.0011630810,(AOKDPPHH_04179:0.0000306779,(((((((((((((((((((((((NR_044590.1_Hoyosella_altamirensis:0.1628340565,NR_158076.1_Mycobacterium_aquiterrae:0.0165090138)68:0.0057664734,NR_179750.1_Mycobacterium_neglectum:0.0223396712)62:0.0172550648,NR_180098.1_Mycobacterium_kyogaense:0.0172695587)34:0.0097144125,(((NR_119148.1_Mycobacteroides_abscessus:0.0000022025,(((NR_119149.1_Mycobacteroides_chelonae:0.0000022025,NR_117923.1_Mycobacteroides_franklinii:0.0000022025)77:0.0000022025,(NR_043989.1_Mycobacteroides_salmoniphilum:0.0039269420,NR_157700.1__Mycobacterium__stephanolepidis:0.0000022025)99:0.0026029154)100:0.0039220377,(NR_158073.1__Mycobacterium__chelonae:0.0000022025,NR_145859.1_Mycobacteroides_saopaulense:0.0000022025)80:0.0000022025)95:0.0013015281)100:0.0093014405,NR_104876.1_Mycobacteroides_immunogenum:0.0000023333)100:0.0527783409,(NR_115184.1_Mycobacterium_hackensackense:0.0118014697,(NR_178332.1_Mycobacterium_dioxanotrophicus:0.0170561738,NR_158005.1_Mycobacterium_aquaticum:0.0184283263)76:0.0156999333)67:0.0080474633)69:0.0161706818)52:0.0068403427,NR_179783.1_Mycobacterium_syngnathidarum:0.0029612255)78:0.0174906933,(NR_115330.1_Mycobacterium_barrassiae:0.0000022346,(NR_159197.1_Mycobacterium_neumannii:0.0000022025,NR_159196.1_Mycobacterium_lehmannii:0.0000022025)100:0.0365612529)96:0.0318688141)74:0.0048449039,NR_116504.1_Mycobacterium_paraterrae:0.0263253473)71:0.0175897169,(NR_157699.1_Mycobacterium_talmoniae:0.0000022025,NR_157985.1_Mycobacterium_eburneum:0.0014578222)100:0.0243640987)80:0.0145828037,(NR_119156.1_Mycobacterium_shimoidei:0.0068936523,(((NR_118882.1_Mycobacterium_xenopi:0.0236164692,NR_028878.1_Mycobacterium_botniense:0.0189018914)99:0.0171024551,NR_028759.1_Mycobacterium_heckeshornense:0.0247887248)100:0.0100106018,NR_044442.1_Mycobacterium_noviomagense:0.0218018878)100:0.0302481512)99:0.0184504581)68:0.0088840801,(NR_114661.1_Mycobacterium_cookii:0.0294700848,((NR_118426.1_Mycobacterium_fragae:0.0310989436,(NR_041897.1_Mycobacterium_branderi:0.0316338364,NR_041663.1_Mycobacterium_kyorinense:0.0108929137)95:0.0084276389)63:0.0089477246,NR_114894.1_Mycobacterium_celatum:0.0072938859)99:0.0167612290)94:0.0088544156)75:0.0216793343,NR_118917.1_Mycobacterium_asiaticum:0.0056835023)58:0.0003222399,(NR_118331.1_Mycobacterium_gordonae:0.0027909256,(NR_178881.1_Mycobacterium_vicinigordonae:0.0009713516,NR_125667.1_Mycobacterium_paragordonae:0.0029591220)94:0.0025838263)100:0.0158988225)65:0.0065731400,NR_147779.2_Mycobacterium_alsense:0.0023109230)53:0.0011923977,((((((((NR_178331.1_Mycobacterium_lepromatosis:0.0279647600,NR_104888.1_Mycobacterium_haemophilum:0.0036031566)80:0.0010315825,((((NR_112623.1_Mycobacterium_shinjukuense:0.0259534978,((NR_113136.1_Mycobacterium_pseudoshottsii:0.0060035094,(NR_113138.1_Mycobacterium_ulcerans:0.0023791811,NR_114890.1_Mycobacterium_marinum:0.0000022025)83:0.0000022025)99:0.0011888052,NR_025636.1_Mycobacterium_shottsii:0.0023642796)100:0.0047549962)51:0.0000022116,((NR_178462.1_Mycobacterium_spongiae:0.0151980250,NR_044826.2_Mycobacterium_tuberculosis:0.0028735542)67:0.0021376131,NR_178632.1_Mycobacterium_decipiens:0.0036492738)69:0.0022054107)87:0.0075443953,NR_025175.1_Mycobacterium_lacus:0.0021772612)93:0.0100224294,(NR_117225.1_Mycobacterium_malmoense:0.0023304002,((NR_181979.1_Mycobacterium_simulans:0.0057751042,NR_044449.1_Mycobacterium_riyadhense:0.0048929527)94:0.0028193242,(NR_145908.1_Mycobacterium_angelicum:0.0000022025,NR_118584.1_Mycobacterium_szulgai:0.0000022025)99:0.0000023821)95:0.0090518803)32:0.0029339910)31:0.0000025178)58:0.0028973184,NR_026054.1_Mycobacterium_bohemicum:0.0030045917)66:0.0036735361,NR_025767.1_Mycobacterium_nebraskense:0.0053435865)55:0.0053987785,(NR_115815.1_Mycobacterium_paraseoulense:0.0000022025,NR_043904.1_Mycobacterium_seoulense:0.0000022025)99:0.0023298044)29:0.0000029907,((NR_119193.1_Mycobacterium_paraffinicum:0.0012761254,(NR_118880.1_Mycobacterium_scrofulaceum:0.0012655239,NR_116538.1_Mycobacterium_mantenii:0.0080685557)99:0.0012437867)100:0.0083253419,(((NR_104956.1_Mycobacterium_timonense:0.0035962757,(((NR_117219.1_Mycobacterium_avium:0.0058467669,NR_179381.1_Mycobacterium_senriense:0.0022864267)87:0.0011589377,(NR_116063.1_Mycobacterium_bouchedurhonense:0.0044260029,NR_117222.1_Mycobacterium_colombiense:0.0000022025)87:0.0000026428)88:0.0022218285,NR_117221.1_Mycobacterium_arosiense:0.0023593121)90:0.0022321251)94:0.0022648005,NR_116262.1_Mycobacterium_marseillense:0.0000022025)93:0.0010855981,(NR_117228.1_Mycobacterium_intracellulare:0.0000022025,NR_146658.1_Mycobacterium_paraintracellulare:0.0011424517)89:0.0011854059)100:0.0085099149)62:0.0008600212)54:0.0009762141,(((NR_044840.1_Mycobacterium_intermedium:0.0194972572,NR_135729.1_Mycobacterium_bourgelatii:0.0000020670)99:0.0179129809,((NR_118879.1_Mycobacterium_gastri:0.0000022025,NR_121712.2_Mycobacterium_kansasii:0.0000022025)83:0.0000022025,NR_179497.1_Mycobacterium_innocens:0.0022812831)100:0.0081439296)48:0.0000022025,((NR_156953.1_Mycobacterium_persicum:0.0034896491,NR_179496.1_Mycobacterium_pseudokansasii:0.0000022025)100:0.0011415858,NR_179498.1_Mycobacterium_attenuatum:0.0000022025)95:0.0023072098)77:0.0036211622)96:0.0100119719,NR_029298.1_Mycobacterium_conspicuum:0.0081412367)88:0.0046551334)73:0.0159786077,NR_178718.1_Mycobacterium_paraense:0.0109458241)46:0.0000022221,(NR_042793.1_Mycobacterium_saskatchewanense:0.0119149356,(NR_179522.1_Mycobacterium_terramassiliense:0.0046522965,NR_104909.1_Mycobacterium_interjectum:0.0056096578)87:0.0013379481)79:0.0013194925)81:0.0129500937,((NR_025000.1_Mycobacterium_kubicae:0.0127009457,NR_028940.1_Mycobacterium_palustre:0.0025057561)82:0.0013133149,(NR_125568.1_Mycobacterium_europaeum:0.0016339727,NR_118110.1_Mycobacterium_parascrofulaceum:0.0075388644)99:0.0069017752)100:0.0124161571)75:0.0004488174,(NR_025268.1_Mycobacterium_heidelbergense:0.0058090298,NR_025225.1_Mycobacterium_parmense:0.0215288668)92:0.0066229472)71:0.0027617669,(((NR_181114.1_Mycobacterium_helveticum:0.0254703882,(NR_042665.1_Mycobacterium_stomatepiae:0.0054242526,NR_042223.1_Mycobacterium_florentinum:0.0000022025)76:0.0000028133)86:0.0067225817,((NR_029223.1_Mycobacterium_genavense:0.0082798420,NR_044791.1_Mycobacterium_triplex:0.0013369192)79:0.0000022025,NR_028808.1_Mycobacterium_montefiorense:0.0102084547)84:0.0025091431)88:0.0039002521,NR_115209.1_Mycobacterium_sherrisii:0.0025654857)80:0.0026349187)72:0.0016115785,NR_117227.1_Mycobacterium_simiae:0.0000022025)56:0.0000020036,((NR_179523.1_Mycobacterium_rhizamassiliense:0.0093626667,NR_179524.1_Mycobacterium_numidiamassiliense:0.0064524229)88:0.0089347932,NR_146370.1_Mycobacterium_shigaense:0.0000022060)100:0.0102094272)78:0.0080531130,NR_041898.1_Mycobacterium_lentiflavum:0.0000022116)78:0.0345055764,NR_179612.1_Mycobacterium_ahvazicum:0.0022906390)100:8.5799249775)61:0.0011369317)90:0.0011607380);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t musclecombined.fasta.treefile -m "TIM3{0.534197,2.16657,3.44639}+F{0.218896,0.238832,0.340891,0.201381}+I{0.494389}+G4{0.248374}" --length 1625
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s musclecombined.fasta --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s musclecombined.fasta --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Sat Dec 13 00:37:42 2025
+Total CPU time used: 500.483163 seconds (0h:8m:20s)
+Total wall-clock time used: 69.82525799 seconds (0h:1m:9s)
+

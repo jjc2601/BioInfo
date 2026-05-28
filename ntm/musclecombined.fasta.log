@@ -1,0 +1,349 @@
+IQ-TREE multicore version 2.4.0 for Linux x86 64-bit built Feb  7 2025
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor, Heiko Schmidt,
+Dominik Schrempf, Michael Woodhams, Ly Trong Nhan, Thomas Wong
+
+Host:    3c92ea64e8b3 (SSE4.2, 7 GB RAM)
+Command: iqtree2 -s musclecombined.fasta -m TEST -B 1000 -T 8
+Seed:    239123 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Sat Dec 13 00:36:32 2025
+Kernel:  SSE2 - 8 threads (10 CPU cores detected)
+
+Reading alignment file musclecombined.fasta ... Fasta format detected
+Reading fasta file: done in 0.00468733 secs using 96.09% CPU
+Alignment most likely contains DNA/RNA sequences
+WARNING: 1 sites contain only gaps or ambiguous characters.
+Alignment has 105 sequences with 1625 columns, 521 distinct patterns
+412 parsimony-informative, 99 singleton sites, 1114 constant sites
+WARNING: Some sequence names are changed as follows:
+NR_158073.1_[Mycobacterium]_chelonae -> NR_158073.1__Mycobacterium__chelonae
+NR_157700.1_[Mycobacterium]_stephanolepidis -> NR_157700.1__Mycobacterium__stephanolepidis
+
+                                              Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 0.000710042 secs using 233.9% CPU
+   1  AOKDPPHH_04184                                  4.80%    failed      2.06%
+   2  AOKDPPHH_03798                                  5.17%    failed      4.51%
+   3  AOKDPPHH_03803                                  5.17%    passed      5.21%
+   4  AOKDPPHH_04179                                  5.17%    failed      3.69%
+   5  NR_044590.1_Hoyosella_altamirensis             17.97%    passed     90.32%
+   6  NR_119148.1_Mycobacteroides_abscessus          34.71%    passed     87.60%
+   7  NR_119149.1_Mycobacteroides_chelonae           34.71%    passed     89.70%
+   8  NR_104876.1_Mycobacteroides_immunogenum         6.95%    passed     94.25%
+   9  NR_158073.1__Mycobacterium__chelonae            9.60%    passed     83.15%
+  10  NR_145859.1_Mycobacteroides_saopaulense        14.83%    passed     97.36%
+  11  NR_043989.1_Mycobacteroides_salmoniphilum       9.66%    passed     81.23%
+  12  NR_157700.1__Mycobacterium__stephanolepidis     9.72%    passed     81.20%
+  13  NR_117923.1_Mycobacteroides_franklinii         13.48%    passed     90.66%
+  14  NR_119156.1_Mycobacterium_shimoidei            12.31%    passed     88.19%
+  15  NR_157699.1_Mycobacterium_talmoniae             6.22%    passed     95.41%
+  16  NR_157985.1_Mycobacterium_eburneum             14.22%    passed     99.53%
+  17  NR_178331.1_Mycobacterium_lepromatosis          5.35%    passed     84.83%
+  18  NR_179612.1_Mycobacterium_ahvazicum             7.02%    passed     99.86%
+  19  NR_112623.1_Mycobacterium_shinjukuense          7.38%    passed     99.41%
+  20  NR_044840.1_Mycobacterium_intermedium          13.60%    passed     97.82%
+  21  NR_135729.1_Mycobacterium_bourgelatii          20.98%    passed     96.04%
+  22  NR_181114.1_Mycobacterium_helveticum            7.32%    passed     88.37%
+  23  NR_025268.1_Mycobacterium_heidelbergense       11.14%    passed     95.85%
+  24  NR_029223.1_Mycobacterium_genavense            11.69%    passed     98.93%
+  25  NR_179523.1_Mycobacterium_rhizamassiliense     13.66%    passed     99.33%
+  26  NR_028808.1_Mycobacterium_montefiorense         6.71%    passed     99.78%
+  27  NR_179524.1_Mycobacterium_numidiamassiliense   11.88%    passed     99.29%
+  28  NR_042665.1_Mycobacterium_stomatepiae           9.48%    passed     94.65%
+  29  NR_042223.1_Mycobacterium_florentinum           7.32%    passed     98.90%
+  30  NR_044791.1_Mycobacterium_triplex               9.29%    passed     95.06%
+  31  NR_041898.1_Mycobacterium_lentiflavum          10.65%    passed     99.32%
+  32  NR_146370.1_Mycobacterium_shigaense             9.48%    passed     94.21%
+  33  NR_117227.1_Mycobacterium_simiae                8.74%    passed     97.00%
+  34  NR_115209.1_Mycobacterium_sherrisii             7.08%    passed     96.11%
+  35  NR_025225.1_Mycobacterium_parmense              5.91%    passed     99.18%
+  36  NR_025000.1_Mycobacterium_kubicae              18.71%    passed     98.42%
+  37  NR_028940.1_Mycobacterium_palustre              7.26%    passed     94.79%
+  38  NR_125568.1_Mycobacterium_europaeum             8.06%    passed     94.86%
+  39  NR_118110.1_Mycobacterium_parascrofulaceum     14.89%    passed     95.09%
+  40  NR_178718.1_Mycobacterium_paraense              8.92%    passed     99.88%
+  41  NR_042793.1_Mycobacterium_saskatchewanense      7.02%    passed     99.74%
+  42  NR_179522.1_Mycobacterium_terramassiliense     14.58%    passed     94.98%
+  43  NR_104909.1_Mycobacterium_interjectum          11.94%    passed     97.57%
+  44  NR_119193.1_Mycobacterium_paraffinicum         13.23%    passed     99.63%
+  45  NR_118880.1_Mycobacterium_scrofulaceum          8.49%    passed     99.40%
+  46  NR_116538.1_Mycobacterium_mantenii              9.48%    passed     99.54%
+  47  NR_118331.1_Mycobacterium_gordonae              9.42%    passed     99.66%
+  48  NR_178881.1_Mycobacterium_vicinigordonae       14.28%    passed     98.97%
+  49  NR_125667.1_Mycobacterium_paragordonae         14.28%    passed     98.76%
+  50  NR_178462.1_Mycobacterium_spongiae             13.97%    passed     99.11%
+  51  NR_025175.1_Mycobacterium_lacus                 9.54%    passed     99.17%
+  52  NR_113136.1_Mycobacterium_pseudoshottsii        9.23%    passed     99.99%
+  53  NR_025636.1_Mycobacterium_shottsii              8.25%    passed     99.23%
+  54  NR_113138.1_Mycobacterium_ulcerans              9.23%    passed     99.68%
+  55  NR_114890.1_Mycobacterium_marinum              13.23%    passed     99.27%
+  56  NR_178632.1_Mycobacterium_decipiens             7.45%    passed     99.98%
+  57  NR_044826.2_Mycobacterium_tuberculosis          5.72%    passed     99.79%
+  58  NR_029298.1_Mycobacterium_conspicuum           14.09%    passed     91.54%
+  59  NR_104956.1_Mycobacterium_timonense             8.86%    passed     99.18%
+  60  NR_116262.1_Mycobacterium_marseillense         11.38%    passed     98.95%
+  61  NR_117228.1_Mycobacterium_intracellulare        8.00%    passed     99.03%
+  62  NR_146658.1_Mycobacterium_paraintracellulare    6.22%    passed     98.83%
+  63  NR_117219.1_Mycobacterium_avium                 7.88%    passed     99.22%
+  64  NR_117221.1_Mycobacterium_arosiense             8.00%    passed     97.50%
+  65  NR_179381.1_Mycobacterium_senriense             5.97%    passed     93.32%
+  66  NR_116063.1_Mycobacterium_bouchedurhonense      7.82%    passed     95.62%
+  67  NR_117222.1_Mycobacterium_colombiense           8.00%    passed     94.78%
+  68  NR_025767.1_Mycobacterium_nebraskense           7.32%    passed     99.64%
+  69  NR_118879.1_Mycobacterium_gastri               10.46%    passed     99.74%
+  70  NR_115815.1_Mycobacterium_paraseoulense         6.34%    passed     99.34%
+  71  NR_043904.1_Mycobacterium_seoulense             6.34%    passed     99.34%
+  72  NR_179497.1_Mycobacterium_innocens              6.03%    passed     98.68%
+  73  NR_121712.2_Mycobacterium_kansasii              5.78%    passed     98.78%
+  74  NR_156953.1_Mycobacterium_persicum              6.03%    passed     99.07%
+  75  NR_179498.1_Mycobacterium_attenuatum            6.15%    passed     98.53%
+  76  NR_179496.1_Mycobacterium_pseudokansasii        6.15%    passed     98.12%
+  77  NR_026054.1_Mycobacterium_bohemicum             6.71%    passed     99.81%
+  78  NR_104888.1_Mycobacterium_haemophilum           6.09%    passed     97.69%
+  79  NR_117225.1_Mycobacterium_malmoense             8.00%    passed     99.95%
+  80  NR_181979.1_Mycobacterium_simulans              7.20%    passed     99.46%
+  81  NR_044449.1_Mycobacterium_riyadhense            9.23%    passed     98.27%
+  82  NR_145908.1_Mycobacterium_angelicum             7.08%    passed     97.82%
+  83  NR_118584.1_Mycobacterium_szulgai               8.55%    passed     95.74%
+  84  NR_118917.1_Mycobacterium_asiaticum             9.66%    passed     97.55%
+  85  NR_147779.2_Mycobacterium_alsense               5.78%    passed     96.85%
+  86  NR_116504.1_Mycobacterium_paraterrae           12.80%    passed     96.28%
+  87  NR_179750.1_Mycobacterium_neglectum             6.40%    passed     98.39%
+  88  NR_158076.1_Mycobacterium_aquiterrae           11.51%    passed     97.12%
+  89  NR_115184.1_Mycobacterium_hackensackense       10.46%    passed     99.67%
+  90  NR_178332.1_Mycobacterium_dioxanotrophicus     15.75%    passed     91.82%
+  91  NR_158005.1_Mycobacterium_aquaticum             6.58%    passed     98.80%
+  92  NR_180098.1_Mycobacterium_kyogaense             6.46%    passed     99.88%
+  93  NR_179783.1_Mycobacterium_syngnathidarum        6.58%    passed     98.94%
+  94  NR_115330.1_Mycobacterium_barrassiae            8.37%    passed     98.22%
+  95  NR_159197.1_Mycobacterium_neumannii             6.22%    passed     96.58%
+  96  NR_159196.1_Mycobacterium_lehmannii             6.22%    passed     96.58%
+  97  NR_114661.1_Mycobacterium_cookii                9.48%    passed     85.26%
+  98  NR_118426.1_Mycobacterium_fragae               10.65%    passed     88.50%
+  99  NR_041897.1_Mycobacterium_branderi              9.60%    passed     90.33%
+ 100  NR_114894.1_Mycobacterium_celatum              12.31%    passed     83.42%
+ 101  NR_041663.1_Mycobacterium_kyorinense            9.54%    passed     90.24%
+ 102  NR_118882.1_Mycobacterium_xenopi                9.60%    passed     76.54%
+ 103  NR_028878.1_Mycobacterium_botniense             7.02%    passed     70.48%
+ 104  NR_028759.1_Mycobacterium_heckeshornense        6.03%    passed     88.01%
+ 105  NR_044442.1_Mycobacterium_noviomagense          9.05%    passed     88.02%
+****  TOTAL                                           9.74%  3 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: NR_043904.1_Mycobacterium_seoulense is identical to NR_115815.1_Mycobacterium_paraseoulense but kept for subsequent analysis
+NOTE: NR_159196.1_Mycobacterium_lehmannii is identical to NR_159197.1_Mycobacterium_neumannii but kept for subsequent analysis
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.011 seconds
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+Perform fast likelihood tree search using GTR+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -9703.264
+2. Current log-likelihood: -9699.697
+3. Current log-likelihood: -9697.072
+4. Current log-likelihood: -9695.240
+5. Current log-likelihood: -9694.052
+Optimal log-likelihood: -9693.296
+Rate parameters:  A-C: 0.35233  A-G: 2.18460  A-T: 0.96291  C-G: 0.61118  C-T: 3.39124  G-T: 1.00000
+Base frequencies:  A: 0.219  C: 0.239  G: 0.341  T: 0.201
+Proportion of invariable sites: 0.469
+Gamma shape alpha: 0.240
+Parameters optimization took 5 rounds (0.098 sec)
+Time for fast ML tree search: 0.417 seconds
+
+NOTE: ModelFinder requires 9 MB RAM!
+ModelFinder will test up to 88 DNA models (sample size: 1625 epsilon: 0.100) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+  1  GTR+F         11106.373    215 22642.746    22708.665    23802.298
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+  2  GTR+F+I       10299.113    216 21030.227    21096.806    22195.171
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+  3  GTR+F+G4      9774.840     216 19981.680    20048.260    21146.625
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+  4  GTR+F+I+G4    9692.565     217 19819.131    19886.374    20989.469
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+  8  SYM+I+G4      9737.075     214 19902.150    19967.412    21056.308
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 12  TVM+F+I+G4    9701.950     216 19835.901    19902.481    21000.846
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 16  TVMe+I+G4     9739.524     213 19905.048    19969.657    21053.813
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 20  TIM3+F+I+G4   9696.016     215 19822.033    19887.952    20981.584
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 24  TIM3e+I+G4    9752.040     212 19928.081    19992.041    21071.453
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 28  TIM2+F+I+G4   9709.976     215 19849.952    19915.871    21009.504
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 32  TIM2e+I+G4    9748.416     212 19920.832    19984.792    21064.204
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 36  TIM+F+I+G4    9711.671     215 19853.342    19919.262    21012.894
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 40  TIMe+I+G4     9761.363     212 19946.725    20010.686    21090.097
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 44  TPM3u+F+I+G4  9705.448     214 19838.897    19904.159    20993.055
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 48  TPM3+I+G4     9754.626     211 19931.253    19994.568    21069.231
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 52  TPM2u+F+I+G4  9719.100     214 19866.199    19931.462    21020.358
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 56  TPM2+I+G4     9750.795     211 19923.591    19986.906    21061.569
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 60  K3Pu+F+I+G4   9720.762     214 19869.524    19934.786    21023.682
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 64  K3P+I+G4      9763.899     211 19949.797    20013.112    21087.776
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 68  TN+F+I+G4     9711.707     214 19851.415    19916.677    21005.573
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 72  TNe+I+G4      9761.373     211 19944.746    20008.060    21082.724
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 76  HKY+F+I+G4    9720.789     213 19867.577    19932.187    21016.342
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 80  K2P+I+G4      9763.922     210 19947.844    20010.517    21080.429
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 84  F81+F+I+G4    9942.994     212 20309.988    20373.948    21453.360
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 88  JC+I+G4       9959.888     209 20337.776    20399.812    21464.968
+Akaike Information Criterion:           GTR+F+I+G4
+Corrected Akaike Information Criterion: GTR+F+I+G4
+Bayesian Information Criterion:         TIM3+F+I+G4
+Best-fit model: TIM3+F+I+G4 chosen according to BIC
+
+All model information printed to musclecombined.fasta.model.gz
+CPU time for ModelFinder: 15.447 seconds (0h:0m:15s)
+Wall-clock time for ModelFinder: 2.069 seconds (0h:0m:2s)
+Generating 1000 samples for ultrafast bootstrap (seed: 239123)...
+
+NOTE: 9 MB RAM (0 GB) is required!
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+Estimate model parameters (epsilon = 0.100)
+Thoroughly optimizing +I+G parameters from 10 start values...
+Init pinv, alpha: 0.000, 0.257 / Estimate: 0.000, 0.139 / LogL: -9778.579
+Init pinv, alpha: 0.076, 0.257 / Estimate: 0.480, 0.263 / LogL: -9697.553
+Init pinv, alpha: 0.152, 0.257 / Estimate: 0.484, 0.261 / LogL: -9697.004
+Init pinv, alpha: 0.229, 0.257 / Estimate: 0.486, 0.258 / LogL: -9696.560
+Init pinv, alpha: 0.305, 0.257 / Estimate: 0.487, 0.254 / LogL: -9696.247
+Init pinv, alpha: 0.381, 0.257 / Estimate: 0.490, 0.251 / LogL: -9696.084
+Init pinv, alpha: 0.457, 0.257 / Estimate: 0.490, 0.249 / LogL: -9696.088
+Init pinv, alpha: 0.533, 0.257 / Estimate: 0.506, 0.259 / LogL: -9696.084
+Init pinv, alpha: 0.609, 0.257 / Estimate: 0.581, 0.384 / LogL: -9700.579
+Init pinv, alpha: 0.686, 0.257 / Estimate: 0.590, 0.391 / LogL: -9698.497
+Optimal pinv,alpha: 0.490, 0.251 / LogL: -9696.084
+
+Parameters optimization took 2.115 sec
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.014448 secs using 396.6% CPU
+Computing ML distances took 0.015152 sec (of wall-clock time) 0.059173 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 0.002746 secs using 6.3% CPU
+Computing RapidNJ tree took 0.143692 sec (of wall-clock time) 0.240129 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -9866.627
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.811 second
+Computing log-likelihood of 98 initial trees ... 0.938 seconds
+Current best score: -9696.084
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -9692.224
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 2: -9644.922
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 3: -9640.776
+Iteration 10 / LogL: -9655.982 / Time: 0h:0m:9s
+Iteration 20 / LogL: -9655.397 / Time: 0h:0m:11s
+Finish initializing candidate tree set (20)
+Current best tree score: -9640.776 / CPU time: 7.337
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 23: -9640.216
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 26: -9638.762
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 30: -9637.482
+Iteration 30 / LogL: -9637.482 / Time: 0h:0m:15s (0h:0m:44s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 35: -9633.561
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 36: -9632.724
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 40: -9632.453
+Iteration 40 / LogL: -9632.453 / Time: 0h:0m:18s (0h:0m:41s left)
+Iteration 50 / LogL: -10363.871 / Time: 0h:0m:21s (0h:0m:35s left)
+Log-likelihood cutoff on original alignment: -9728.654
+Iteration 60 / LogL: -9652.461 / Time: 0h:0m:24s (0h:0m:29s left)
+Iteration 70 / LogL: -9638.343 / Time: 0h:0m:26s (0h:0m:25s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 74: -9632.272
+Iteration 80 / LogL: -9696.426 / Time: 0h:0m:29s (0h:0m:32s left)
+BETTER TREE FOUND at iteration 81: -9632.268
+Iteration 90 / LogL: -9640.164 / Time: 0h:0m:32s (0h:0m:31s left)
+Iteration 100 / LogL: -9632.652 / Time: 0h:0m:35s (0h:0m:27s left)
+Log-likelihood cutoff on original alignment: -9728.654
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.993
+Estimate model parameters (epsilon = 0.100)
+UPDATE BEST LOG-LIKELIHOOD: -9632.142
+Iteration 110 / LogL: -9634.946 / Time: 0h:0m:38s (0h:0m:30s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 115: -9632.036
+Iteration 120 / LogL: -9639.212 / Time: 0h:0m:41s (0h:0m:31s left)
+Iteration 130 / LogL: -9656.604 / Time: 0h:0m:44s (0h:0m:27s left)
+Iteration 140 / LogL: -9689.527 / Time: 0h:0m:47s (0h:0m:24s left)
+Iteration 150 / LogL: -9655.408 / Time: 0h:0m:50s (0h:0m:20s left)
+Log-likelihood cutoff on original alignment: -9728.654
+Iteration 160 / LogL: -9763.041 / Time: 0h:0m:53s (0h:0m:17s left)
+Iteration 170 / LogL: -9637.481 / Time: 0h:0m:56s (0h:0m:14s left)
+Estimate model parameters (epsilon = 0.100)
+UPDATE BEST LOG-LIKELIHOOD: -9632.003
+Iteration 180 / LogL: -9641.007 / Time: 0h:0m:58s (0h:0m:11s left)
+Iteration 190 / LogL: -9700.393 / Time: 0h:1m:1s (0h:0m:7s left)
+Iteration 200 / LogL: -9664.507 / Time: 0h:1m:4s (0h:0m:4s left)
+Log-likelihood cutoff on original alignment: -9728.654
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.999
+Iteration 210 / LogL: -9682.963 / Time: 0h:1m:7s (0h:0m:28s left)
+TREE SEARCH COMPLETED AFTER 216 ITERATIONS / Time: 0h:1m:9s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -9632.003
+Optimal log-likelihood: -9632.002
+Rate parameters:  A-C: 0.53420  A-G: 2.16657  A-T: 1.00000  C-G: 0.53420  C-T: 3.44639  G-T: 1.00000
+Base frequencies:  A: 0.219  C: 0.239  G: 0.341  T: 0.201
+Proportion of invariable sites: 0.494
+Gamma shape alpha: 0.248
+Parameters optimization took 1 rounds (0.033 sec)
+BEST SCORE FOUND : -9632.002
+Creating bootstrap support values...
+Split supports printed to NEXUS file musclecombined.fasta.splits.nex
+Total tree length: 10.220
+
+Total number of iterations: 216
+CPU time used for tree search: 466.681 sec (0h:7m:46s)
+Wall-clock time used for tree search: 64.907 sec (0h:1m:4s)
+Total CPU time used: 500.483 sec (0h:8m:20s)
+Total wall-clock time used: 69.642 sec (0h:1m:9s)
+
+Computing bootstrap consensus tree...
+Reading input file musclecombined.fasta.splits.nex...
+105 taxa and 832 splits.
+Consensus tree written to musclecombined.fasta.contree
+Reading input trees file musclecombined.fasta.contree
+Log-likelihood of consensus tree: -9632.784
+
+Analysis results written to: 
+  IQ-TREE report:                musclecombined.fasta.iqtree
+  Maximum-likelihood tree:       musclecombined.fasta.treefile
+  Likelihood distances:          musclecombined.fasta.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          musclecombined.fasta.splits.nex
+  Consensus tree:                musclecombined.fasta.contree
+  Screen log file:               musclecombined.fasta.log
+
+Date and Time: Sat Dec 13 00:37:42 2025

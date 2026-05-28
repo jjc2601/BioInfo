@@ -1,0 +1,1799 @@
+>NR_181979.1_Mycobacterium_simulans_1 # 11 # 184 # -1 # ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.580
+MRLEVLSGIRPSFPGLSRSAGQITHVLLTRSPLEYPRRGLSVRLACVKHAASVRPEP*
+>NR_181979.1_Mycobacterium_simulans_2 # 189 # 302 # -1 # ID=1_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.640
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLST*
+>NR_181979.1_Mycobacterium_simulans_3 # 256 # 360 # -1 # ID=1_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_181979.1_Mycobacterium_simulans_4 # 362 # 586 # 1 # ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.582
+MGASLMQRRRVGDDGLRVVNLFHHRRRSGFLGLTVGGEEAPANYVPAAAVIRRVRALSGI
+TGRKELVGGLSRCS*
+>NR_181979.1_Mycobacterium_simulans_5 # 564 # 728 # 1 # ID=1_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.576
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_181979.1_Mycobacterium_simulans_6 # 701 # 808 # 1 # ID=1_6;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_181979.1_Mycobacterium_simulans_7 # 992 # 1102 # -1 # ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_181979.1_Mycobacterium_simulans_8 # 1117 # 1269 # 1 # ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.556
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAVRLSESF*
+>NR_181979.1_Mycobacterium_simulans_9 # 1278 # 1508 # -1 # ID=1_9;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.589
+PHLPVRLPCYDFVPIADPTFDSSLPRVRPLASGVTDFHDVTGGVYKARERIHRSVADLRL
+LATPTSRGRVADPDPN*
+>NR_181114.1_Mycobacterium_helveticum_1 # 3 # 182 # -1 # ID=2_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.567
+MRLEVLFGIRPSFPGLSRSAGQIAHVLLTRSPLEYLRRGLSVRLACVKHAASVRPEPGSN
+>NR_181114.1_Mycobacterium_helveticum_2 # 154 # 300 # -1 # ID=2_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.633
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTSGHASRGPIRY*
+>NR_181114.1_Mycobacterium_helveticum_3 # 254 # 358 # -1 # ID=2_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_181114.1_Mycobacterium_helveticum_4 # 360 # 506 # 1 # ID=2_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.605
+MGASLMQRRRVGDDGLRVVNLFQQGRSESDGTCRRSTGQLRASSRGNT*
+>NR_181114.1_Mycobacterium_helveticum_5 # 445 # 573 # 1 # ID=2_5;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.574
+MTVPAEEAPANYVPAAAVIRRVRALSGITGRKELVGGLSRCS*
+>NR_181114.1_Mycobacterium_helveticum_6 # 551 # 715 # 1 # ID=2_6;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.594
+MVCRVVRENRGLNPRRAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_181114.1_Mycobacterium_helveticum_7 # 688 # 795 # 1 # ID=2_7;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_181114.1_Mycobacterium_helveticum_8 # 949 # 1089 # -1 # ID=2_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.567
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNRHLCRRPVHVKPR*
+>NR_181114.1_Mycobacterium_helveticum_9 # 1107 # 1394 # 1 # ID=2_9;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.576
+MGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARWSESFKAGLSSDRGLQ
+LDPVKSESLVIADQQRCGEYVPGPCTHRPSRHESR*
+>NR_180098.1_Mycobacterium_kyogaense_1 # 48 # 179 # -1 # ID=3_1;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.553
+MVLSGIRPSFPGLSQSAGQITHVLLTRSPLEYPEGPFRSTCMC*
+>NR_180098.1_Mycobacterium_kyogaense_2 # 160 # 306 # -1 # ID=3_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.619
+MAGHPLRPATRRRLGRPLPHQQADRPRAHPTPQKLSTTAHECRGPIRY*
+>NR_180098.1_Mycobacterium_kyogaense_3 # 260 # 364 # -1 # ID=3_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRSPSQAGYPSSPW*
+>NR_180098.1_Mycobacterium_kyogaense_4 # 451 # 579 # 1 # ID=3_4;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.574
+MTVPGEEGPANYVPAAAVIRRVRALSGITGRKELVGGLSRCS*
+>NR_180098.1_Mycobacterium_kyogaense_5 # 557 # 721 # 1 # ID=3_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCRVVRENSQLNCGRAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_180098.1_Mycobacterium_kyogaense_6 # 694 # 801 # 1 # ID=3_6;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_180098.1_Mycobacterium_kyogaense_7 # 994 # 1095 # -1 # ID=3_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.569
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGN*
+>NR_180098.1_Mycobacterium_kyogaense_8 # 1113 # 1349 # 1 # ID=3_8;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.582
+MGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAVRWSESFQSRSQFGSGSA
+TRPREVGVASNRRSATLR*
+>NR_180098.1_Mycobacterium_kyogaense_9 # 1346 # 1486 # 1 # ID=3_9;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.596
+MNTFPGLVHTARHVMKVGNTRSRWPNPLWEGAVEGGIGDWDEVVTR*
+>NR_179783.1_Mycobacterium_syngnathidarum_1 # 48 # 179 # -1 # ID=4_1;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.545
+MVLFGIRPSFPGLSQSAGQITHVLLTRSPLEYPEGPFRSTCMC*
+>NR_179783.1_Mycobacterium_syngnathidarum_2 # 160 # 306 # -1 # ID=4_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.605
+MAGHPLRPATRRRLGRPLPHQQADRPRAHPTPQKLSTTHHEMRGPIRY*
+>NR_179783.1_Mycobacterium_syngnathidarum_3 # 260 # 364 # -1 # ID=4_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRSPSQAGYPSSPW*
+>NR_179783.1_Mycobacterium_syngnathidarum_4 # 451 # 579 # 1 # ID=4_4;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.558
+MTVPIEEGPANYVPAAAVIRRVRALSGITGRKELVGGLSRCS*
+>NR_179783.1_Mycobacterium_syngnathidarum_5 # 557 # 721 # 1 # ID=4_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCRVVRENSQLNCGRAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_179783.1_Mycobacterium_syngnathidarum_6 # 694 # 801 # 1 # ID=4_6;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_179783.1_Mycobacterium_syngnathidarum_7 # 955 # 1095 # -1 # ID=4_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.546
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNQYLYRRPVHVKPR*
+>NR_179783.1_Mycobacterium_syngnathidarum_8 # 1113 # 1349 # 1 # ID=4_8;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.582
+MGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAVRWSESFQSRSQFGSGSA
+TRPREVGVASNRRSATLR*
+>NR_179783.1_Mycobacterium_syngnathidarum_9 # 1346 # 1516 # 1 # ID=4_9;partial=01;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.602
+MNTFPGLVHTARHVMKVGNTRSRWPNPCGGSRRRWDRRLGRSRNKVAVPEGAAGSPP
+>NR_179750.1_Mycobacterium_neglectum_1 # 261 # 365 # -1 # ID=5_1;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.610
+MQYSPLLPPVGVWAVSQSQCGRSPSQAGYPSSPW*
+>NR_179750.1_Mycobacterium_neglectum_2 # 367 # 513 # 1 # ID=5_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.599
+MGASLMQRRRVRDDGLRVVNLFQQGRSASDGTCRRRTGQLRASSRGNT*
+>NR_179750.1_Mycobacterium_neglectum_3 # 452 # 580 # 1 # ID=5_3;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.566
+MTVPVEEGPANYVPAAAVIRRVRALSGITGRKELVGGLSRCS*
+>NR_179750.1_Mycobacterium_neglectum_4 # 558 # 722 # 1 # ID=5_4;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.576
+MVCRVVRENSQLNCGRAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_179750.1_Mycobacterium_neglectum_5 # 695 # 802 # 1 # ID=5_5;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_179750.1_Mycobacterium_neglectum_6 # 986 # 1084 # -1 # ID=5_6;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.566
+MRSLRDLTQHLTTRADDSHAPPAHRPQGNTYL*
+>NR_179750.1_Mycobacterium_neglectum_7 # 1111 # 1350 # 1 # ID=5_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.583
+MAGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAVRWSESFQSRSQFGSGS
+ATRPREVGVASNRRSATLR*
+>NR_179750.1_Mycobacterium_neglectum_8 # 1347 # 1487 # 1 # ID=5_8;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.596
+MNTFPGLVHTARHVMKVGNTRSRWPNPLWEGAVEGGIGDWDEVVTR*
+>NR_179612.1_Mycobacterium_ahvazicum_1 # 1 # 183 # -1 # ID=6_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.557
+MRQKVLSGIRPSFPGLSRSAGQITHVLLTRSPLEYLRRGLSVRLACVKHAASVRPEPGSN
+S
+>NR_179612.1_Mycobacterium_ahvazicum_2 # 155 # 301 # -1 # ID=6_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.626
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTKRHAPKGPIRY*
+>NR_179612.1_Mycobacterium_ahvazicum_3 # 255 # 359 # -1 # ID=6_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_179612.1_Mycobacterium_ahvazicum_4 # 693 # 800 # 1 # ID=6_4;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_179612.1_Mycobacterium_ahvazicum_5 # 954 # 1094 # -1 # ID=6_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.567
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNRHLCRRPVHVKPR*
+>NR_179612.1_Mycobacterium_ahvazicum_6 # 1109 # 1261 # 1 # ID=6_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.549
+MAGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAVRLSESF*
+>NR_179612.1_Mycobacterium_ahvazicum_7 # 1270 # 1509 # -1 # ID=6_7;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.583
+VIQPHLPVRLPCYDFVPIADPTFDSSLQKVRPLASGVTDFHDVTGGVYKARERIHRSVAD
+LRLLATPTSRGRVADPDPN*
+>NR_179524.1_Mycobacterium_numidiamassiliense_1 # 1 # 177 # -1 # ID=7_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.537
+MVLFGIRPSFPGLSRSAGQITHVLLTRSPLEYLRRGLSVRLACVKHAASVRPEPGSKLY
+>NR_179524.1_Mycobacterium_numidiamassiliense_2 # 158 # 304 # -1 # ID=7_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.605
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTIKHALNGPIRY*
+>NR_179524.1_Mycobacterium_numidiamassiliense_3 # 258 # 362 # -1 # ID=7_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_179524.1_Mycobacterium_numidiamassiliense_4 # 364 # 510 # 1 # ID=7_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.612
+MGASLMQRRRVGDDGLRVVNLFQQGRSASDGTCRRSTGQLRASSRGNT*
+>NR_179524.1_Mycobacterium_numidiamassiliense_5 # 449 # 577 # 1 # ID=7_5;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.574
+MTVPAEEAPANYVPAAAVIRRVRALSGITGRKELVGGLSRCS*
+>NR_179524.1_Mycobacterium_numidiamassiliense_6 # 555 # 719 # 1 # ID=7_6;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.600
+MVCRVVRENRGLNPRRAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_179524.1_Mycobacterium_numidiamassiliense_7 # 692 # 799 # 1 # ID=7_7;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_179524.1_Mycobacterium_numidiamassiliense_8 # 953 # 1081 # -1 # ID=7_8;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.581
+MRSLRDLTQHLTTRADDSHAPPAHRPQGNRHLCRRPVHVKPR*
+>NR_179524.1_Mycobacterium_numidiamassiliense_9 # 1108 # 1260 # 1 # ID=7_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.549
+MAGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAVRLSESF*
+>NR_179524.1_Mycobacterium_numidiamassiliense_10 # 1269 # 1430 # -1 # ID=7_10;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.574
+SKKVRPLASGVTDFHDVTGGVYKARERIHRSVADLRLLATPTSRGRVADPDPN*
+>NR_179523.1_Mycobacterium_rhizamassiliense_1 # 2 # 178 # -1 # ID=8_1;partial=10;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.554
+MVLFGIRPSFPGLSRSAGQITHVLLTRSPLEYPRRGLSVRLACVKHAASVRPEPGSKLY
+>NR_179523.1_Mycobacterium_rhizamassiliense_2 # 159 # 305 # -1 # ID=8_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.619
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTTKHALSGPIRY*
+>NR_179523.1_Mycobacterium_rhizamassiliense_3 # 259 # 363 # -1 # ID=8_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_179523.1_Mycobacterium_rhizamassiliense_4 # 365 # 511 # 1 # ID=8_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.612
+MGASLMQRRRVGDDGLRVVNLFQQGRSASDGTCRRSTGQLRASSRGNT*
+>NR_179523.1_Mycobacterium_rhizamassiliense_5 # 450 # 578 # 1 # ID=8_5;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.574
+MTVPAEEAPANYVPAAAVIRRVRALSGITGRKELVGGLSRCS*
+>NR_179523.1_Mycobacterium_rhizamassiliense_6 # 556 # 720 # 1 # ID=8_6;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.600
+MVCRVVRENRGLNPRRAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_179523.1_Mycobacterium_rhizamassiliense_7 # 693 # 800 # 1 # ID=8_7;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_179523.1_Mycobacterium_rhizamassiliense_8 # 993 # 1082 # -1 # ID=8_8;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.589
+MRSLRDLTQHLTTRADDSHAPPAHRPQGN*
+>NR_179523.1_Mycobacterium_rhizamassiliense_9 # 1109 # 1261 # 1 # ID=8_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.556
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESF*
+>NR_179523.1_Mycobacterium_rhizamassiliense_10 # 1270 # 1401 # -1 # ID=8_10;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.576
+VTDFHDVTGGVYKARERIHRSVADLRLLATPTSRGRVADPDPN*
+>NR_179522.1_Mycobacterium_terramassiliense_1 # 151 # 297 # -1 # ID=9_1;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.646
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTTRHAPRGPIRY*
+>NR_179522.1_Mycobacterium_terramassiliense_2 # 251 # 355 # -1 # ID=9_2;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_179522.1_Mycobacterium_terramassiliense_3 # 357 # 503 # 1 # ID=9_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.612
+MGASLMQRRRVGDDGLRVVNLFQQGRSASDGTCRRSTGQLRASSRGNT*
+>NR_179522.1_Mycobacterium_terramassiliense_4 # 442 # 570 # 1 # ID=9_4;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.574
+MTVPAEEAPANYVPAAAVIRRVRALSGITGRKELVGGLSRCS*
+>NR_179522.1_Mycobacterium_terramassiliense_5 # 548 # 712 # 1 # ID=9_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.576
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_179522.1_Mycobacterium_terramassiliense_6 # 685 # 780 # 1 # ID=9_6;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.604
+MAKAGLWAVTDAEERKRGERTGLDTPGSPTP*
+>NR_179522.1_Mycobacterium_terramassiliense_7 # 950 # 1090 # -1 # ID=9_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.567
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNRHLCRRPVHVKPR*
+>NR_179522.1_Mycobacterium_terramassiliense_8 # 1105 # 1257 # 1 # ID=9_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.556
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESF*
+>NR_179522.1_Mycobacterium_terramassiliense_9 # 1266 # 1388 # -1 # ID=9_9;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.569
+FHDVTGGVYKDRERIHRSVADLRLLATPTSRGRVADPDPN*
+>NR_179498.1_Mycobacterium_attenuatum_1 # 45 # 176 # -1 # ID=10_1;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.553
+MVLSGIRPSFPGLSRCAGQIAHVLLTRSPLEYPEGPFRSTCMC*
+>NR_179498.1_Mycobacterium_attenuatum_2 # 157 # 303 # -1 # ID=10_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.639
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTTRHAPSGPIRY*
+>NR_179498.1_Mycobacterium_attenuatum_3 # 257 # 361 # -1 # ID=10_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_179498.1_Mycobacterium_attenuatum_4 # 363 # 521 # 1 # ID=10_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.597
+MGASLMQRRRVGDDGLRVVNLFHHRRRSGFSRIDGRWRRSTGQLRASSRGNT*
+>NR_179498.1_Mycobacterium_attenuatum_5 # 566 # 730 # 1 # ID=10_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_179498.1_Mycobacterium_attenuatum_6 # 703 # 810 # 1 # ID=10_6;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_179498.1_Mycobacterium_attenuatum_7 # 994 # 1104 # -1 # ID=10_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_179498.1_Mycobacterium_attenuatum_8 # 1119 # 1271 # 1 # ID=10_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.562
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESF*
+>NR_179498.1_Mycobacterium_attenuatum_9 # 1280 # 1519 # -1 # ID=10_9;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.592
+MIQPHLPVRLPCYDFVPIADPTFDSSLPRVRPLASGVTDFHDVTGGVYKARERIHRSVAD
+LRLLATPTSRGRVADPDPN*
+>NR_179497.1_Mycobacterium_innocens_1 # 2 # 178 # -1 # ID=11_1;partial=10;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.559
+MVLSGIRPSFPGLSRCAGQIAHVLLTRSPLECLRRDLSVRLACVKHAASVRPEPGSNSP
+>NR_179497.1_Mycobacterium_innocens_2 # 159 # 305 # -1 # ID=11_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.639
+MAGHPLRPATRRRLGGPSPHQQADRPRAHPTPQKLSTTRHAPSGPIRY*
+>NR_179497.1_Mycobacterium_innocens_3 # 365 # 523 # 1 # ID=11_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.604
+MGASLMQRRRVGDDGLRVVNLFHHRRRSGFSRIDGRWRRSTGQLRASSRGNT*
+>NR_179497.1_Mycobacterium_innocens_4 # 568 # 732 # 1 # ID=11_4;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_179497.1_Mycobacterium_innocens_5 # 705 # 812 # 1 # ID=11_5;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_179497.1_Mycobacterium_innocens_6 # 996 # 1106 # -1 # ID=11_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_179497.1_Mycobacterium_innocens_7 # 1121 # 1273 # 1 # ID=11_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.562
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESF*
+>NR_179497.1_Mycobacterium_innocens_8 # 1282 # 1521 # -1 # ID=11_8;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.596
+MIQPHLPVRLPCYDFVPIADPTFDSSLPRVRPLASGVTDFHDVTGGVYKARERIHRSVAD
+LRLLATPTSRGRVADPDPN*
+>NR_179496.1_Mycobacterium_pseudokansasii_1 # 45 # 176 # -1 # ID=12_1;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.553
+MVLSGIRPSFPGLSRCAGQIAHVLLTRSPLEYPEGPFRSTCMC*
+>NR_179496.1_Mycobacterium_pseudokansasii_2 # 157 # 303 # -1 # ID=12_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.639
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTTRHAPSGPIRY*
+>NR_179496.1_Mycobacterium_pseudokansasii_3 # 257 # 361 # -1 # ID=12_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_179496.1_Mycobacterium_pseudokansasii_4 # 363 # 521 # 1 # ID=12_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.597
+MGASLMQRRRVGDDGLRVVNLFHHRRRSGFSRIDGRWRRSTGQLRASSRGNT*
+>NR_179496.1_Mycobacterium_pseudokansasii_5 # 566 # 730 # 1 # ID=12_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_179496.1_Mycobacterium_pseudokansasii_6 # 703 # 810 # 1 # ID=12_6;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_179496.1_Mycobacterium_pseudokansasii_7 # 994 # 1104 # -1 # ID=12_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_179496.1_Mycobacterium_pseudokansasii_8 # 1119 # 1271 # 1 # ID=12_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.562
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESF*
+>NR_179496.1_Mycobacterium_pseudokansasii_9 # 1280 # 1519 # -1 # ID=12_9;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.596
+MIQPHLPVRLPCYDFVPIADPTFDSSLPRVRPLASGVTDFHDVTGGVYKARERIHRSVAD
+LRLLATPTSRGRVADPDPN*
+>NR_179381.1_Mycobacterium_senriense_1 # 2 # 187 # -1 # ID=13_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.554
+MRLKVLSGIRPSFPGLSRSAGQIAHVLLTRSPLEYLRRGLSVRLACVKHAASVRPEPGSN
+SP
+>NR_179381.1_Mycobacterium_senriense_2 # 177 # 305 # -1 # ID=13_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.612
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTKRHAS*
+>NR_179381.1_Mycobacterium_senriense_3 # 259 # 363 # -1 # ID=13_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_179381.1_Mycobacterium_senriense_4 # 365 # 523 # 1 # ID=13_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.597
+MGASLMQRRRVGDDGLRVVNLFHHRRRFGFSRTDGRWRRSTGQLRASSRGNT*
+>NR_179381.1_Mycobacterium_senriense_5 # 568 # 732 # 1 # ID=13_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_179381.1_Mycobacterium_senriense_6 # 705 # 812 # 1 # ID=13_6;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_179381.1_Mycobacterium_senriense_7 # 996 # 1106 # -1 # ID=13_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_179381.1_Mycobacterium_senriense_8 # 1121 # 1273 # 1 # ID=13_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.549
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAVRLSESF*
+>NR_179381.1_Mycobacterium_senriense_9 # 1282 # 1521 # -1 # ID=13_9;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.575
+MIQPHLPVRLPCYDFVPIADPTFDSSLQKVRPLASGVTDFHDVTGGVYKARERIHRSVAD
+LRLLATPTSWGRVADPNPN*
+>NR_178881.1_Mycobacterium_vicinigordonae_1 # 5 # 136 # -1 # ID=14_1;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.545
+MVLSGIRPSFPGLSRCAGQITHVLLTRSPLVYPEGPYRSTCMC*
+>NR_178881.1_Mycobacterium_vicinigordonae_2 # 117 # 263 # -1 # ID=14_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.619
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTTGHVFCGPIRY*
+>NR_178881.1_Mycobacterium_vicinigordonae_3 # 217 # 321 # -1 # ID=14_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_178881.1_Mycobacterium_vicinigordonae_4 # 323 # 481 # 1 # ID=14_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.585
+MGESLMQRRRVGDDGLRVVNLFHHRRRFGFSRIDGRWRRSTGQLRASSRGNT*
+>NR_178881.1_Mycobacterium_vicinigordonae_5 # 526 # 690 # 1 # ID=14_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_178881.1_Mycobacterium_vicinigordonae_6 # 663 # 770 # 1 # ID=14_6;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_178881.1_Mycobacterium_vicinigordonae_7 # 924 # 1064 # -1 # ID=14_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.567
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNRHLCRRPVHVKPR*
+>NR_178881.1_Mycobacterium_vicinigordonae_8 # 1079 # 1231 # 1 # ID=14_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.562
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESF*
+>NR_178881.1_Mycobacterium_vicinigordonae_9 # 1240 # 1392 # -1 # ID=14_9;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.582
+VRPLASGVTDFHDVTGGVYKARERIHRSVADLRLLATPTSRGRVADPDPN*
+>NR_178718.1_Mycobacterium_paraense_1 # 2 # 172 # -1 # ID=15_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.561
+MVLSGIRPSFPGLSRSAGQITHVLLTRSPLEYPRRGLSVRLACVKHAASVRPEPGSN
+>NR_178718.1_Mycobacterium_paraense_2 # 153 # 299 # -1 # ID=15_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.612
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTIKHALNGPIRY*
+>NR_178718.1_Mycobacterium_paraense_3 # 253 # 357 # -1 # ID=15_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_178718.1_Mycobacterium_paraense_4 # 359 # 505 # 1 # ID=15_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.612
+MGASLMQRRRVGDDGLRVVNLFQQGRSASDGTCRRSTGQLRASSRGNT*
+>NR_178718.1_Mycobacterium_paraense_5 # 444 # 572 # 1 # ID=15_5;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.574
+MTVPAEEAPANYVPAAAVIRRVRALSGITGRKELVGGLSRCS*
+>NR_178718.1_Mycobacterium_paraense_6 # 550 # 714 # 1 # ID=15_6;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.576
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_178718.1_Mycobacterium_paraense_7 # 687 # 794 # 1 # ID=15_7;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_178718.1_Mycobacterium_paraense_8 # 948 # 1088 # -1 # ID=15_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.567
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNRHLCRRPVHVKPR*
+>NR_178718.1_Mycobacterium_paraense_9 # 1103 # 1255 # 1 # ID=15_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.549
+MAGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAVRLSESF*
+>NR_178718.1_Mycobacterium_paraense_10 # 1264 # 1377 # -1 # ID=15_10;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.596
+MTGGVYKARERIHRSVADLRLLATPTSRGRVADPDPN*
+>NR_178632.1_Mycobacterium_decipiens_1 # 3 # 293 # -1 # ID=16_1;partial=10;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.584
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPLNRFPPQDMNPVVLFGIRPSFPGLSRSA
+GQITHVLLTRSPLEYLRRDLSVRLACVKHAASVRPEP
+>NR_178632.1_Mycobacterium_decipiens_2 # 247 # 351 # -1 # ID=16_2;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_178632.1_Mycobacterium_decipiens_3 # 353 # 511 # 1 # ID=16_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.604
+MGASLMQRRRVGDDGLRVVNLFHHRRRSGFSRIDGRWRRSTGQLRASSRGNT*
+>NR_178632.1_Mycobacterium_decipiens_4 # 556 # 720 # 1 # ID=16_4;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.576
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_178632.1_Mycobacterium_decipiens_5 # 693 # 800 # 1 # ID=16_5;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_178632.1_Mycobacterium_decipiens_6 # 984 # 1094 # -1 # ID=16_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_178632.1_Mycobacterium_decipiens_7 # 1112 # 1261 # 1 # ID=16_7;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.560
+MGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESF*
+>NR_178632.1_Mycobacterium_decipiens_8 # 1270 # 1383 # -1 # ID=16_8;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.596
+MTGGVYKARERIHRSVADLRLLATPTSRGRVADPDPN*
+>NR_178462.1_Mycobacterium_spongiae_1 # 1 # 255 # -1 # ID=17_1;partial=10;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.604
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPLNRFPPQDMRPEVIFGIRPGFPGLSRSA
+GQITHVLLTRSPLEYLRRDLSVRLA
+>NR_178462.1_Mycobacterium_spongiae_2 # 209 # 313 # -1 # ID=17_2;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_178462.1_Mycobacterium_spongiae_3 # 315 # 473 # 1 # ID=17_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.591
+MGASLMQRRRVGDDGLRVVNLFHHRRRFGFSRIDGRWRRSTGQLRASSRGNT*
+>NR_178462.1_Mycobacterium_spongiae_4 # 518 # 682 # 1 # ID=17_4;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_178462.1_Mycobacterium_spongiae_5 # 655 # 762 # 1 # ID=17_5;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_178462.1_Mycobacterium_spongiae_6 # 946 # 1056 # -1 # ID=17_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_178462.1_Mycobacterium_spongiae_7 # 1074 # 1223 # 1 # ID=17_7;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.567
+MGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESF*
+>NR_178462.1_Mycobacterium_spongiae_8 # 1232 # 1396 # -1 # ID=17_8;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.600
+SLPRVRPLASGVTDFHDVTGGVYKARERIHRSVADLRLLATPTSRGRVADPDPN*
+>NR_178332.1_Mycobacterium_dioxanotrophicus_1 # 46 # 186 # -1 # ID=18_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.553
+MKAMVLSGIRPSFPGLSQSAGQITHVLLTRSPLEHPEGPFRSTCMC*
+>NR_178332.1_Mycobacterium_dioxanotrophicus_2 # 158 # 304 # -1 # ID=18_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.619
+MAGHPLRPATRRRLGRPLPHQQADRPRAHPTPQKLSTTTHEGHGPIRY*
+>NR_178332.1_Mycobacterium_dioxanotrophicus_3 # 258 # 362 # -1 # ID=18_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRSPSQAGYPSSPW*
+>NR_178332.1_Mycobacterium_dioxanotrophicus_4 # 364 # 510 # 1 # ID=18_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.599
+MGASLMQRRRVGDDGLRVVNLFQHRRSVSDGMCRRSTGQLRASSRGNT*
+>NR_178332.1_Mycobacterium_dioxanotrophicus_5 # 449 # 577 # 1 # ID=18_5;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.566
+MTVCAEEAPANYVPAAAVIRRVRALSGITGRKELVGGLSRCS*
+>NR_178332.1_Mycobacterium_dioxanotrophicus_6 # 555 # 719 # 1 # ID=18_6;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.576
+MVCRVVRENSQLNCGRAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_178332.1_Mycobacterium_dioxanotrophicus_7 # 692 # 799 # 1 # ID=18_7;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_178332.1_Mycobacterium_dioxanotrophicus_8 # 992 # 1081 # -1 # ID=18_8;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.589
+MRSLRDLTQHLTTRADDSHAPPAHRPQGN*
+>NR_178332.1_Mycobacterium_dioxanotrophicus_9 # 1108 # 1347 # 1 # ID=18_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.579
+MPGTRRRLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDTVRWSESFQSRSQFGSGS
+ATRPREVGVASNRRSATLR*
+>NR_178331.1_Mycobacterium_lepromatosis_1 # 189 # 317 # -1 # ID=19_1;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.651
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPAPQKLSTTRHAP*
+>NR_178331.1_Mycobacterium_lepromatosis_2 # 271 # 375 # -1 # ID=19_2;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_178331.1_Mycobacterium_lepromatosis_3 # 580 # 744 # 1 # ID=19_3;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.576
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_178331.1_Mycobacterium_lepromatosis_4 # 717 # 824 # 1 # ID=19_4;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_178331.1_Mycobacterium_lepromatosis_5 # 1007 # 1117 # -1 # ID=19_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.550
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPKRNAYL*
+>NR_178331.1_Mycobacterium_lepromatosis_6 # 1135 # 1329 # 1 # ID=19_6;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.569
+MGTRERLPRSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESLLKPVSVRIGVC
+NSTP*
+>NR_178331.1_Mycobacterium_lepromatosis_7 # 1294 # 1536 # -1 # ID=19_7;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.597
+EVIQPHLPVRLPCYDFVPIADPTFDSSLPRVRPLASGVTDFHDVTGGVYKARERIHRSVA
+DLRLLATPASRGRVADPDPN*
+>NR_117228.1_Mycobacterium_intracellulare_1 # 1 # 183 # -1 # ID=20_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+MRLKVLSGIRPSFPGLSRSAGQIAHVLLTRSPLEYPRRGLSVRLACVKHAASVRPEPGSN
+S
+>NR_117228.1_Mycobacterium_intracellulare_2 # 188 # 301 # -1 # ID=20_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.632
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLST*
+>NR_117228.1_Mycobacterium_intracellulare_3 # 255 # 359 # -1 # ID=20_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_117228.1_Mycobacterium_intracellulare_4 # 361 # 519 # 1 # ID=20_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.591
+MGASLMQRRRVGDDGLRVVNLFHHRRRFGFSRIDGRWRRSTGQLRASSRGNT*
+>NR_117228.1_Mycobacterium_intracellulare_5 # 564 # 728 # 1 # ID=20_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_117228.1_Mycobacterium_intracellulare_6 # 701 # 808 # 1 # ID=20_6;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_117228.1_Mycobacterium_intracellulare_7 # 992 # 1102 # -1 # ID=20_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_117228.1_Mycobacterium_intracellulare_8 # 1117 # 1269 # 1 # ID=20_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.556
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESF*
+>NR_117228.1_Mycobacterium_intracellulare_9 # 1278 # 1493 # -1 # ID=20_9;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.574
+RLPCYDFVPIADPTFDSSLPRVRPLASGVTDFHDVTGGVYKARERIHRSVADLRLLATPT
+SWGRVADPNPN*
+>NR_116504.1_Mycobacterium_paraterrae_1 # 3 # 137 # -1 # ID=21_1;partial=10;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.556
+MVLFGIRPSFPGLSQSAGQITHVLLTRSPLEYPRKGLSVRLACVK
+>NR_116504.1_Mycobacterium_paraterrae_2 # 118 # 264 # -1 # ID=21_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.619
+MAGHPLRPATRRRLGRPLPHQQADRPRAHPTPQKLSTTHHEARGPIRY*
+>NR_116504.1_Mycobacterium_paraterrae_3 # 218 # 322 # -1 # ID=21_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_116504.1_Mycobacterium_paraterrae_4 # 324 # 551 # 1 # ID=21_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.575
+MGASLMQRRRVGDDGLRVVNLFQYRRSSRILLGVTVGTEEAPANYVPAAAVIRRVRALSG
+ITGRKELVGGLSRCP*
+>NR_116504.1_Mycobacterium_paraterrae_5 # 529 # 693 # 1 # ID=21_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.564
+MVCHVVRENSQLNCGRAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRKRVSGQ*
+>NR_116504.1_Mycobacterium_paraterrae_6 # 666 # 773 # 1 # ID=21_6;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.583
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_116504.1_Mycobacterium_paraterrae_7 # 929 # 1069 # -1 # ID=21_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.560
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNRYLYRRPVHVKPR*
+>NR_116504.1_Mycobacterium_paraterrae_8 # 1087 # 1374 # 1 # ID=21_8;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.566
+MGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDPVRVSESFKAGLSSDWGLQ
+LDPMKSESLVIADQQRCGEYVPGPCTHRPSRHESR*
+>NR_158076.1_Mycobacterium_aquiterrae_1 # 152 # 298 # -1 # ID=22_1;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.599
+MAGHPLRPATRRRLGRPLPHQQADRPRAHPTPQKLSTTTHEGHDHIRY*
+>NR_158076.1_Mycobacterium_aquiterrae_2 # 252 # 356 # -1 # ID=22_2;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_158076.1_Mycobacterium_aquiterrae_3 # 358 # 504 # 1 # ID=22_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.599
+MGASLMQRRRVRDDGLRVVNLFQQGRSASDGTCRRRTGQLRASSRGNT*
+>NR_158076.1_Mycobacterium_aquiterrae_4 # 443 # 571 # 1 # ID=22_4;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.566
+MTVPVEEGPANYVPAAAVIRRVRALSGITGRKELVGGLSRCS*
+>NR_158076.1_Mycobacterium_aquiterrae_5 # 549 # 713 # 1 # ID=22_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.576
+MVCRVVRENSQLNCGRAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_158076.1_Mycobacterium_aquiterrae_6 # 686 # 793 # 1 # ID=22_6;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_158076.1_Mycobacterium_aquiterrae_7 # 1105 # 1254 # 1 # ID=22_7;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.567
+MGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAVRWSESF*
+>NR_158076.1_Mycobacterium_aquiterrae_8 # 1263 # 1376 # -1 # ID=22_8;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.596
+MTGGVYKARERIHRSVADLRLLATPTSRGRVADPDPN*
+>NR_158005.1_Mycobacterium_aquaticum_1 # 46 # 186 # -1 # ID=23_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.553
+MKAGVLFGIRPSFPGLSQSAGQITHVLLTRSPLEHPEGPFRSTCMC*
+>NR_158005.1_Mycobacterium_aquaticum_2 # 158 # 304 # -1 # ID=23_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.626
+MAGHPLRPATRRRLGRPLPHQQADRPRAHPTPQKLSTPTHEGRSPIRY*
+>NR_158005.1_Mycobacterium_aquaticum_3 # 258 # 362 # -1 # ID=23_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRSPSQAGYPSSPW*
+>NR_158005.1_Mycobacterium_aquaticum_4 # 364 # 510 # 1 # ID=23_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.592
+MGASLMQRRRVGDDGLRVVNLFQHRRSVSDGMCRRSTGQLRASSRGNT*
+>NR_158005.1_Mycobacterium_aquaticum_5 # 449 # 577 # 1 # ID=23_5;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.566
+MTVCAEEAPANYVPAAAVIRRVRALSGITGRKELVGGLSRCS*
+>NR_158005.1_Mycobacterium_aquaticum_6 # 555 # 719 # 1 # ID=23_6;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.576
+MVCRVVRENSQLNCGRAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_158005.1_Mycobacterium_aquaticum_7 # 692 # 799 # 1 # ID=23_7;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_158005.1_Mycobacterium_aquaticum_8 # 983 # 1081 # -1 # ID=23_8;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.556
+MRSLRDLTQHLTTRADDSHAPPAHRPQGNTYL*
+>NR_158005.1_Mycobacterium_aquaticum_9 # 1108 # 1347 # 1 # ID=23_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.579
+MPGTRRRLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDTVRWSESFQSRSQFGSGS
+ATRPREVGVASNRRSATLR*
+>NR_158005.1_Mycobacterium_aquaticum_10 # 1344 # 1484 # 1 # ID=23_10;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.596
+MNTFPGLVHTARHVMKVGNTRSRWPNPLWEGAVEGGIGDWDEVVTR*
+>NR_157700.1_[Mycobacterium]_stephanolepidis_1 # 20 # 160 # -1 # ID=24_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.546
+MKCVVLSGIRPSFPGLSQSAGQITHVLLTRSPLEYPEGPFRSTCMC*
+>NR_157700.1_[Mycobacterium]_stephanolepidis_2 # 208 # 336 # -1 # ID=24_2;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.612
+MQYSPLLPPVGVWAVSQSQCGRSPSQAGYPSSPWWAITPPTS*
+>NR_157700.1_[Mycobacterium]_stephanolepidis_3 # 423 # 551 # 1 # ID=24_3;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.558
+MTVPTEEGPANYVPAAAVIRRVRALSGITGRKELVGGLSRCS*
+>NR_157700.1_[Mycobacterium]_stephanolepidis_4 # 529 # 693 # 1 # ID=24_4;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCHVVRENPQLNCGRAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_157700.1_[Mycobacterium]_stephanolepidis_5 # 957 # 1115 # -1 # ID=24_5;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.585
+MTPAVSYESPALPAGNIGQGLRSLRDLTQHLTTRADDSHAPPARRPQGNTYL*
+>NR_157700.1_[Mycobacterium]_stephanolepidis_6 # 1242 # 1466 # -1 # ID=24_6;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.569
+LPVRLPCYDFVPIADPTFDSSLQKVRPLASGVTDFHDVTGGVYKARERIHRSVADLRLLA
+TPTSWGRVADPNPN*
+>NR_157699.1_Mycobacterium_talmoniae_1 # 2 # 190 # -1 # ID=25_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.566
+MQHVVLSGIRPSFPGLSQSAGQITHVLLTRSPLEHPRKGLSVRLACVKHAASVRPEPGSN
+SPN
+>NR_157699.1_Mycobacterium_talmoniae_2 # 178 # 312 # -1 # ID=25_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.630
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPLHNAFHHTPCSM*
+>NR_157699.1_Mycobacterium_talmoniae_3 # 266 # 370 # -1 # ID=25_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_157699.1_Mycobacterium_talmoniae_4 # 372 # 518 # 1 # ID=25_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.599
+MGASLMQRRRVGDDGLRVVNLFQQGRSGSDGTCRRSTGQLRASSRGNT*
+>NR_157699.1_Mycobacterium_talmoniae_5 # 457 # 585 # 1 # ID=25_5;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.566
+MTVPVEEAPANYVPAAAVIRRVRALSGITGRKELVGGLSRCS*
+>NR_157699.1_Mycobacterium_talmoniae_6 # 563 # 727 # 1 # ID=25_6;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCRVVRENSQLNCGRAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_157699.1_Mycobacterium_talmoniae_7 # 700 # 807 # 1 # ID=25_7;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_157699.1_Mycobacterium_talmoniae_8 # 797 # 904 # 1 # ID=25_8;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.537
+MGTRCGFPSLGIRAVANALSTPPGEYGRKAKTQRN*
+>NR_157699.1_Mycobacterium_talmoniae_9 # 962 # 1102 # -1 # ID=25_9;partial=00;start_type=ATG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.539
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNQYLYWRPVHVKPR*
+>NR_157699.1_Mycobacterium_talmoniae_10 # 1162 # 1407 # 1 # ID=25_10;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.557
+MGMTSSHHAPYVQGFTHATMAGTKGCDAVRLSESFKAGLSSDRGLQLDPVKSESLVIADQ
+QRCGEYVPGPCTHRPSRHESR*
+>NR_156953.1_Mycobacterium_persicum_1 # 46 # 177 # -1 # ID=26_1;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.553
+MVLSGIRPSFPGLSRCAGQIAHVLLTRSPLEYPEGPFRSTCMC*
+>NR_156953.1_Mycobacterium_persicum_2 # 158 # 304 # -1 # ID=26_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.639
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTTRHAPSGPIRY*
+>NR_156953.1_Mycobacterium_persicum_3 # 258 # 362 # -1 # ID=26_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_156953.1_Mycobacterium_persicum_4 # 364 # 522 # 1 # ID=26_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.604
+MGASLMQRRRVGDDGLRVVNLFHHRRRSGLSRIDGRWRRSTGQLRASSRGNT*
+>NR_156953.1_Mycobacterium_persicum_5 # 567 # 731 # 1 # ID=26_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_156953.1_Mycobacterium_persicum_6 # 704 # 811 # 1 # ID=26_6;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_156953.1_Mycobacterium_persicum_7 # 995 # 1105 # -1 # ID=26_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_156953.1_Mycobacterium_persicum_8 # 1120 # 1272 # 1 # ID=26_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.562
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESF*
+>NR_156953.1_Mycobacterium_persicum_9 # 1281 # 1520 # -1 # ID=26_9;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.592
+MIQPHLPVRLPCYDFVPIADPTFDSSLPRVRPLASGVTDFHDVTGGVYKARERIHRSVAD
+LRLLATPTSRGRVADPDPN*
+>NR_147779.2_Mycobacterium_alsense_1 # 2 # 190 # -1 # ID=27_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.577
+MRLAVLFGIRPSFPGLSRSAGQITHVLLTRSPLEYPRRGLSVRLACVKHAASVRPEPGSN
+SPN
+>NR_147779.2_Mycobacterium_alsense_2 # 162 # 308 # -1 # ID=27_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.646
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTTRHAPRGPIRY*
+>NR_147779.2_Mycobacterium_alsense_3 # 262 # 366 # -1 # ID=27_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_147779.2_Mycobacterium_alsense_4 # 368 # 526 # 1 # ID=27_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.597
+MGASLMQRRRVGDDGLRVVNLFHHRRRSGFSRIDGRWRRSTGQLRASSRGNT*
+>NR_147779.2_Mycobacterium_alsense_5 # 571 # 735 # 1 # ID=27_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.576
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_147779.2_Mycobacterium_alsense_6 # 708 # 815 # 1 # ID=27_6;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_147779.2_Mycobacterium_alsense_7 # 969 # 1109 # -1 # ID=27_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.567
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNRHLCRRPVHVKPR*
+>NR_147779.2_Mycobacterium_alsense_8 # 1124 # 1414 # 1 # ID=27_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.570
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESFKAGLSSDRGL
+QLDPVKSESLVIADQQRCGEYVPGPCTHRPSRHESR*
+>NR_146370.1_Mycobacterium_shigaense_1 # 2 # 154 # -1 # ID=28_1;partial=10;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.575
+MVLSGIRPSFPGLSRSAGQITHVLLTRSPLEYPRRGLSVRLACVKHAASVR
+>NR_146370.1_Mycobacterium_shigaense_2 # 135 # 281 # -1 # ID=28_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.626
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTTKHALSGPIRY*
+>NR_146370.1_Mycobacterium_shigaense_3 # 235 # 339 # -1 # ID=28_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_146370.1_Mycobacterium_shigaense_4 # 341 # 487 # 1 # ID=28_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.612
+MGASLMQRRRVGDDGLRVVNLFQQGRSASDGTCRRSTGQLRASSRGNT*
+>NR_146370.1_Mycobacterium_shigaense_5 # 426 # 554 # 1 # ID=28_5;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.574
+MTVPAEEAPANYVPAAAVIRRVRALSGITGRKELVGGLSRCS*
+>NR_146370.1_Mycobacterium_shigaense_6 # 532 # 696 # 1 # ID=28_6;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.600
+MVCRVVRENRGLNPRRAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_146370.1_Mycobacterium_shigaense_7 # 669 # 776 # 1 # ID=28_7;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_146370.1_Mycobacterium_shigaense_8 # 930 # 1070 # -1 # ID=28_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.567
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNRHLCRRPVHVKPR*
+>NR_146370.1_Mycobacterium_shigaense_9 # 1085 # 1237 # 1 # ID=28_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.556
+MAGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESF*
+>NR_146370.1_Mycobacterium_shigaense_10 # 1246 # 1470 # -1 # ID=28_10;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.578
+LPVRLPCYDFVPIADPTFDSSLQKVRPLASGVTDFHDVTGGVYKARERIHRSVADLRLLA
+TPTSRGRVADPDPN*
+>NR_135729.1_Mycobacterium_bourgelatii_1 # 1 # 129 # -1 # ID=29_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.597
+MRREVLSGIRPSFPGLSQCAGQITHVLLTRSPLEYPRRGLSVR
+>NR_135729.1_Mycobacterium_bourgelatii_2 # 132 # 248 # -1 # ID=29_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.650
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTS*
+>NR_135729.1_Mycobacterium_bourgelatii_3 # 202 # 306 # -1 # ID=29_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_135729.1_Mycobacterium_bourgelatii_4 # 308 # 466 # 1 # ID=29_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.610
+MGASLMQRRRVGDDGLRVVNLFHHRRRSGVPQADGRWRRSTGQLRASSRGNT*
+>NR_135729.1_Mycobacterium_bourgelatii_5 # 511 # 675 # 1 # ID=29_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_135729.1_Mycobacterium_bourgelatii_6 # 648 # 755 # 1 # ID=29_6;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_135729.1_Mycobacterium_bourgelatii_7 # 939 # 1049 # -1 # ID=29_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_135729.1_Mycobacterium_bourgelatii_8 # 1064 # 1216 # 1 # ID=29_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.562
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESF*
+>NR_125667.1_Mycobacterium_paragordonae_1 # 5 # 136 # -1 # ID=30_1;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.545
+MVLFGIRPSFPGLSRCAGQITHVLLTRSPLVYPEGPYRPTCMC*
+>NR_125667.1_Mycobacterium_paragordonae_2 # 117 # 263 # -1 # ID=30_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.619
+MAGHPLRPATRRRLGGPSPHQQADRPRAHPTPQKLSTTGHVFCGPIRY*
+>NR_125667.1_Mycobacterium_paragordonae_3 # 323 # 481 # 1 # ID=30_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.585
+MGESLMQRRRVGDDGLRVVNLFHHRRRFGFSRIDGRWRRSTGQLRASSRGNT*
+>NR_125667.1_Mycobacterium_paragordonae_4 # 526 # 690 # 1 # ID=30_4;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_125667.1_Mycobacterium_paragordonae_5 # 663 # 770 # 1 # ID=30_5;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_125667.1_Mycobacterium_paragordonae_6 # 924 # 1064 # -1 # ID=30_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.567
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNRHLCRRPVHVKPR*
+>NR_125667.1_Mycobacterium_paragordonae_7 # 1079 # 1231 # 1 # ID=30_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.562
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESF*
+>NR_125667.1_Mycobacterium_paragordonae_8 # 1240 # 1392 # -1 # ID=30_8;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.582
+VRPLASGVTDFHDVTGGVYKARERIHRSVADLRLLATPTSRGRVADPDPN*
+>NR_118426.1_Mycobacterium_fragae_1 # 44 # 307 # -1 # ID=31_1;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.583
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKAFHHKTCIPWSYPVLDPVSQAYPEVQ
+GRSPTCYSPVRHSSTLRREPFRSTCMC*
+>NR_118426.1_Mycobacterium_fragae_2 # 261 # 365 # -1 # ID=31_2;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_118426.1_Mycobacterium_fragae_3 # 568 # 732 # 1 # ID=31_3;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.588
+MVCRVVREIPWLNWGRAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_118426.1_Mycobacterium_fragae_4 # 705 # 812 # 1 # ID=31_4;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_118426.1_Mycobacterium_fragae_5 # 966 # 1106 # -1 # ID=31_5;partial=00;start_type=ATG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.553
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGKPHLYGRPVHVKPR*
+>NR_118426.1_Mycobacterium_fragae_6 # 1124 # 1318 # 1 # ID=31_6;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.579
+MGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAVRLSESLVKPVSVRIGVC
+NSTP*
+>NR_118426.1_Mycobacterium_fragae_7 # 1283 # 1450 # -1 # ID=31_7;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.589
+LPPKRVGPWASGVTDFHDVTGGVYKARERIHRSVADLRLLATPTSRGRVADPDPN*
+>NR_116538.1_Mycobacterium_mantenii_1 # 1 # 162 # -1 # ID=32_1;partial=10;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.562
+MVLFGIRPSFPGLSRSAGQIAHVLLTRSPLEYLRRGLSVRLACVKHAASVRPEP
+>NR_116538.1_Mycobacterium_mantenii_2 # 143 # 289 # -1 # ID=32_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.626
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTTRHAPSGPIRY*
+>NR_116538.1_Mycobacterium_mantenii_3 # 243 # 347 # -1 # ID=32_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_116538.1_Mycobacterium_mantenii_4 # 349 # 504 # 1 # ID=32_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.596
+MGASLMQRRRVGDDGLRVVNLFHHRRRLTLWVDGRWRRSTGQLRASSRGNT*
+>NR_116538.1_Mycobacterium_mantenii_5 # 549 # 713 # 1 # ID=32_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_116538.1_Mycobacterium_mantenii_6 # 686 # 793 # 1 # ID=32_6;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_116538.1_Mycobacterium_mantenii_7 # 977 # 1087 # -1 # ID=32_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_116538.1_Mycobacterium_mantenii_8 # 1102 # 1254 # 1 # ID=32_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.549
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAVRLSESF*
+>NR_116538.1_Mycobacterium_mantenii_9 # 1263 # 1376 # -1 # ID=32_9;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.579
+MTGGVYKARERIHRSVADLRLLATPTSWGRVADPNPN*
+>NR_116262.1_Mycobacterium_marseillense_1 # 1 # 138 # -1 # ID=33_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.558
+MRLKVLSGIRPSFPGLSRSAGQIAHVLLTRSPLEYPRRGLSVRLAC
+>NR_116262.1_Mycobacterium_marseillense_2 # 110 # 256 # -1 # ID=33_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.605
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTKRHASKGPIRY*
+>NR_116262.1_Mycobacterium_marseillense_3 # 210 # 314 # -1 # ID=33_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_116262.1_Mycobacterium_marseillense_4 # 316 # 474 # 1 # ID=33_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.591
+MGASLMQRRRVGDDGLRVVNLFHHRRRFGFSRIDGRWRRSTGQLRASSRGNT*
+>NR_116262.1_Mycobacterium_marseillense_5 # 519 # 683 # 1 # ID=33_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_116262.1_Mycobacterium_marseillense_6 # 656 # 763 # 1 # ID=33_6;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_116262.1_Mycobacterium_marseillense_7 # 947 # 1057 # -1 # ID=33_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_116262.1_Mycobacterium_marseillense_8 # 1072 # 1224 # 1 # ID=33_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.556
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESF*
+>NR_116262.1_Mycobacterium_marseillense_9 # 1233 # 1439 # -1 # ID=33_9;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.570
+CYDFVPIADPTFDSSLPRVRPLASGVTDFHDVTGGVYKARERIHRSVADLRLLATPTSWG
+RVADPNPN*
+>NR_116063.1_Mycobacterium_bouchedurhonense_1 # 1 # 186 # -1 # ID=34_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.548
+MRLKVLSGIRPSFPGLSRSAGQIAHVLLTRSPLEYLRRGLSVRLACVKHAASVRPEPGSN
+SI
+>NR_116063.1_Mycobacterium_bouchedurhonense_2 # 158 # 304 # -1 # ID=34_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.605
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTKRHASKGPIRY*
+>NR_116063.1_Mycobacterium_bouchedurhonense_3 # 258 # 362 # -1 # ID=34_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_116063.1_Mycobacterium_bouchedurhonense_4 # 364 # 522 # 1 # ID=34_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.597
+MGASLMQRRRVGDDGLRVVNLFHHRRRSGFSRIDGRWRRSTGQLRASSRGNT*
+>NR_116063.1_Mycobacterium_bouchedurhonense_5 # 567 # 731 # 1 # ID=34_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_116063.1_Mycobacterium_bouchedurhonense_6 # 704 # 811 # 1 # ID=34_6;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_116063.1_Mycobacterium_bouchedurhonense_7 # 995 # 1105 # -1 # ID=34_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.577
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_116063.1_Mycobacterium_bouchedurhonense_8 # 1120 # 1272 # 1 # ID=34_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.549
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAVRLSESF*
+>NR_116063.1_Mycobacterium_bouchedurhonense_9 # 1281 # 1496 # -1 # ID=34_9;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.565
+RLPCYDFVPIADPTFDSSLQKVRPLASGVTDFHDVTGGVYKARERIHRSVADLRLLATPT
+SWGRVADPNPN*
+>NR_115815.1_Mycobacterium_paraseoulense_1 # 2 # 175 # -1 # ID=35_1;partial=10;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.563
+MVLFGIRPSFPGLSRSAGQIAHVLLTRSPLEYPRRGLSVRLACVKHAASVRPEPGSNS
+>NR_115815.1_Mycobacterium_paraseoulense_2 # 156 # 302 # -1 # ID=35_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.626
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTTRHAPSGPIRY*
+>NR_115815.1_Mycobacterium_paraseoulense_3 # 256 # 360 # -1 # ID=35_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_115815.1_Mycobacterium_paraseoulense_4 # 362 # 586 # 1 # ID=35_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.587
+MGASLMQRRRVGDDGLRVVNLFHHRRRSGFLGLTVGGEEAPANYVPAAAVIRRVRALSGI
+TGRKELVGGLSRCS*
+>NR_115815.1_Mycobacterium_paraseoulense_5 # 564 # 728 # 1 # ID=35_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_115815.1_Mycobacterium_paraseoulense_6 # 701 # 808 # 1 # ID=35_6;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_115815.1_Mycobacterium_paraseoulense_7 # 992 # 1102 # -1 # ID=35_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_115815.1_Mycobacterium_paraseoulense_8 # 1117 # 1269 # 1 # ID=35_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.556
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESF*
+>NR_115815.1_Mycobacterium_paraseoulense_9 # 1278 # 1391 # -1 # ID=35_9;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.596
+MTGGVYKARERIHRSVADLRLLATPTSRGRVADPDPN*
+>NR_115184.1_Mycobacterium_hackensackense_1 # 3 # 161 # -1 # ID=36_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.566
+MRSYSVLDPVSQAYPKVQGRSPTCYSPVRHSSTPKGLSVRLACVKHAASVRPE
+>NR_115184.1_Mycobacterium_hackensackense_2 # 140 # 286 # -1 # ID=36_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.605
+MAGHPLRPATRRRLGRPLPHQQADRPRAHPTPQKLSTTPHEECGHIRY*
+>NR_115184.1_Mycobacterium_hackensackense_3 # 240 # 344 # -1 # ID=36_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRSPSQAGYPSSPW*
+>NR_115184.1_Mycobacterium_hackensackense_4 # 346 # 492 # 1 # ID=36_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.592
+MGASLMQRRRVRDDGLRVVNLFQHRRSASDGMCRRRTGQLRASSRGNT*
+>NR_115184.1_Mycobacterium_hackensackense_5 # 431 # 559 # 1 # ID=36_5;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.566
+MTVCAEEGPANYVPAAAVIRRVRALSGITGRKELVGGLSRCS*
+>NR_115184.1_Mycobacterium_hackensackense_6 # 537 # 701 # 1 # ID=36_6;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCRVVRENSQLNCGRAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_115184.1_Mycobacterium_hackensackense_7 # 674 # 781 # 1 # ID=36_7;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_115184.1_Mycobacterium_hackensackense_8 # 935 # 1063 # -1 # ID=36_8;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.550
+MRSLRDLTQHLTTRADDSHAPPAHRPQGNQYLYWRPVHVKPR*
+>NR_115184.1_Mycobacterium_hackensackense_9 # 1090 # 1242 # 1 # ID=36_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.575
+MPGTRRRLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAVRWSESL*
+>NR_115184.1_Mycobacterium_hackensackense_10 # 1251 # 1364 # -1 # ID=36_10;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.596
+MTGGVYKARERIHRSVADLRLLATPTSRGRVADPDPN*
+>NR_044791.1_Mycobacterium_triplex_1 # 3 # 152 # -1 # ID=37_1;partial=10;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.547
+MVISGIRPSFPGLSRSAGQITHVLLTRSPLEYLRRGLSVRLACVKHAASV
+>NR_044791.1_Mycobacterium_triplex_2 # 133 # 279 # -1 # ID=37_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.633
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTTGHASRGHIRY*
+>NR_044791.1_Mycobacterium_triplex_3 # 233 # 337 # -1 # ID=37_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_044791.1_Mycobacterium_triplex_4 # 339 # 485 # 1 # ID=37_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.612
+MGASLMQRRRVGDDGLRVVNLFQQGRSASDGTCRRSTGQLRASSRGNT*
+>NR_044791.1_Mycobacterium_triplex_5 # 424 # 552 # 1 # ID=37_5;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.574
+MTVPAEEAPANYVPAAAVIRRVRALSGITGRKELVGGLSRCS*
+>NR_044791.1_Mycobacterium_triplex_6 # 530 # 694 # 1 # ID=37_6;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.600
+MVCRVVRENRGLNPRRAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_044791.1_Mycobacterium_triplex_7 # 667 # 774 # 1 # ID=37_7;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_044791.1_Mycobacterium_triplex_8 # 928 # 1068 # -1 # ID=37_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.567
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNRHLCRRPVHVKPR*
+>NR_044791.1_Mycobacterium_triplex_9 # 1083 # 1235 # 1 # ID=37_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.549
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAVRLSESF*
+>NR_044791.1_Mycobacterium_triplex_10 # 1244 # 1474 # -1 # ID=37_10;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.580
+PHLPVRLPCYDFVPIADPTFDSSLQKVRPLASGVTDFHDVTGGVYKARERIHRSVADLRL
+LATPTSRGRVADPDPN*
+>NR_044449.1_Mycobacterium_riyadhense_1 # 143 # 289 # -1 # ID=38_1;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.639
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTTRHAPLGPIRY*
+>NR_044449.1_Mycobacterium_riyadhense_2 # 243 # 347 # -1 # ID=38_2;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_044449.1_Mycobacterium_riyadhense_3 # 349 # 507 # 1 # ID=38_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.591
+MGASLMQRRRVGDDGLRVVNLFHHRRRFGFSRIDGRWRRSTGQLRASSRGNT*
+>NR_044449.1_Mycobacterium_riyadhense_4 # 552 # 716 # 1 # ID=38_4;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.576
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_044449.1_Mycobacterium_riyadhense_5 # 689 # 796 # 1 # ID=38_5;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_044449.1_Mycobacterium_riyadhense_6 # 980 # 1090 # -1 # ID=38_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_044449.1_Mycobacterium_riyadhense_7 # 1105 # 1257 # 1 # ID=38_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.556
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAVRLSESF*
+>NR_044449.1_Mycobacterium_riyadhense_8 # 1266 # 1475 # -1 # ID=38_8;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.581
+PCYDFVPIADPTFDSSLPRVRPLASGVTDFHDVTGGVYKARERIHRSVADLRLLATPTSR
+GRVADPDPN*
+>NR_044442.1_Mycobacterium_noviomagense_1 # 27 # 293 # -1 # ID=39_1;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.596
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPLQNAFHHPTCMEWSYPVLDPVSQAYPKV
+QGRSPTCYSPVRHSSTPRKGPFRSTCMC*
+>NR_044442.1_Mycobacterium_noviomagense_2 # 247 # 351 # -1 # ID=39_2;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_044442.1_Mycobacterium_noviomagense_3 # 451 # 594 # 1 # ID=39_3;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.562
+MTVGGEEAPANYVPAAAVIRRVRALSGITGRKELVGGLSRCSWKSTA*
+>NR_044442.1_Mycobacterium_noviomagense_4 # 557 # 721 # 1 # ID=39_4;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.588
+MVCRVVRGSPQLNCGGAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_044442.1_Mycobacterium_noviomagense_5 # 694 # 801 # 1 # ID=39_5;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_044442.1_Mycobacterium_noviomagense_6 # 985 # 1143 # -1 # ID=39_6;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.591
+MTPAVSHESPPSRAGNMGQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_044442.1_Mycobacterium_noviomagense_7 # 1155 # 1307 # 1 # ID=39_7;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.569
+MGMTSSHHAPYVQGFTHATMAGTKGCDAVRLSESSLKPVSVRIGVCNSTP*
+>NR_044442.1_Mycobacterium_noviomagense_8 # 1272 # 1478 # -1 # ID=39_8;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.585
+LRLRPNRRSHLRRLPPIRVRPAASGVTDFHDVTGGVYKARERIHRSIADLRLLATPTSRG
+RVADPDPN*
+>NR_041663.1_Mycobacterium_kyorinense_1 # 3 # 167 # -1 # ID=40_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.576
+MHLGVLSGIRPSFPSLSRSAGQITHVLLTRSPLEHPPKGAFPFDLHVLSTPPAFV
+>NR_041663.1_Mycobacterium_kyorinense_2 # 139 # 285 # -1 # ID=40_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.626
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTPRHASRSPIRY*
+>NR_041663.1_Mycobacterium_kyorinense_3 # 239 # 343 # -1 # ID=40_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_041663.1_Mycobacterium_kyorinense_4 # 345 # 503 # 1 # ID=40_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.604
+MGASLMQRRRVGDDGLRVVNLFHHRRSFGFSRGDGRWRRSTGQLRASSRGNT*
+>NR_041663.1_Mycobacterium_kyorinense_5 # 548 # 712 # 1 # ID=40_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.588
+MVCRVVREIPWLNWGRAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_041663.1_Mycobacterium_kyorinense_6 # 685 # 792 # 1 # ID=40_6;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_041663.1_Mycobacterium_kyorinense_7 # 976 # 1086 # -1 # ID=40_7;partial=00;start_type=ATG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.550
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGKRYL*
+>NR_041663.1_Mycobacterium_kyorinense_8 # 1098 # 1391 # 1 # ID=40_8;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+MMAGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAVRFSESFKAGLSSDRG
+LQLDPVKSESLVIADQQCCGEYVPGPCTHRPSRHESR*
+>NR_043904.1_Mycobacterium_seoulense_1 # 2 # 175 # -1 # ID=41_1;partial=10;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.563
+MVLFGIRPSFPGLSRSAGQIAHVLLTRSPLEYPRRGLSVRLACVKHAASVRPEPGSNS
+>NR_043904.1_Mycobacterium_seoulense_2 # 156 # 302 # -1 # ID=41_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.626
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTTRHAPSGPIRY*
+>NR_043904.1_Mycobacterium_seoulense_3 # 256 # 360 # -1 # ID=41_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_043904.1_Mycobacterium_seoulense_4 # 362 # 586 # 1 # ID=41_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.587
+MGASLMQRRRVGDDGLRVVNLFHHRRRSGFLGLTVGGEEAPANYVPAAAVIRRVRALSGI
+TGRKELVGGLSRCS*
+>NR_043904.1_Mycobacterium_seoulense_5 # 564 # 728 # 1 # ID=41_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_043904.1_Mycobacterium_seoulense_6 # 701 # 808 # 1 # ID=41_6;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_043904.1_Mycobacterium_seoulense_7 # 992 # 1102 # -1 # ID=41_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_043904.1_Mycobacterium_seoulense_8 # 1117 # 1269 # 1 # ID=41_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.556
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESF*
+>NR_043904.1_Mycobacterium_seoulense_9 # 1278 # 1391 # -1 # ID=41_9;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.596
+MTGGVYKARERIHRSVADLRLLATPTSRGRVADPDPN*
+>NR_025767.1_Mycobacterium_nebraskense_1 # 2 # 154 # -1 # ID=42_1;partial=10;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.542
+MVLFGIRPSFPGLSRSAGQITHVLLTRSPLEYLRRDLSVRLACVKHAASVR
+>NR_025767.1_Mycobacterium_nebraskense_2 # 135 # 281 # -1 # ID=42_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.626
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTTRHAPSGPIRY*
+>NR_025767.1_Mycobacterium_nebraskense_3 # 235 # 339 # -1 # ID=42_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_025767.1_Mycobacterium_nebraskense_4 # 341 # 499 # 1 # ID=42_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.597
+MGASLMQRRRVGDDGLRVVNLFHHRRRSGFSRIDGRWRRSTGQLRASSRGNT*
+>NR_025767.1_Mycobacterium_nebraskense_5 # 544 # 708 # 1 # ID=42_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_025767.1_Mycobacterium_nebraskense_6 # 681 # 788 # 1 # ID=42_6;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_025767.1_Mycobacterium_nebraskense_7 # 972 # 1082 # -1 # ID=42_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.586
+MRRGLRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_025767.1_Mycobacterium_nebraskense_8 # 1097 # 1249 # 1 # ID=42_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.556
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESF*
+>NR_025767.1_Mycobacterium_nebraskense_9 # 1258 # 1497 # -1 # ID=42_9;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.592
+MIQPHLPVRLPCYDFVPIADPTFDSSLPRVRPLASGVTDFHDVTGGVYKARERIHRSVAD
+LRLLATPTSRGRVADPDPN*
+>NR_159197.1_Mycobacterium_neumannii_1 # 264 # 368 # -1 # ID=43_1;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.610
+MQYSPLLPPVGVWAVSQSQCGRSPSQAGYPSSPW*
+>NR_159197.1_Mycobacterium_neumannii_2 # 370 # 516 # 1 # ID=43_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.605
+MGASLMQRRRVGDDGLRVVNLFQCRRSVSDGRHRRRTGQLRASSRGNT*
+>NR_159197.1_Mycobacterium_neumannii_3 # 455 # 583 # 1 # ID=43_3;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.581
+MTVGTEEGPANYVPAAAVIRRVRALSGITGRKELVGGLSRCP*
+>NR_159197.1_Mycobacterium_neumannii_4 # 561 # 725 # 1 # ID=43_4;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.576
+MVCRVVRENSQLNCGRAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_159197.1_Mycobacterium_neumannii_5 # 698 # 805 # 1 # ID=43_5;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_159197.1_Mycobacterium_neumannii_6 # 959 # 1099 # -1 # ID=43_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.546
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGKPHLCSRPVHVKPR*
+>NR_159197.1_Mycobacterium_neumannii_7 # 1114 # 1353 # 1 # ID=43_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.583
+MAGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAVRWSESFQSRSQFGSGS
+ATRPREVGVASNRRSATLR*
+>NR_159197.1_Mycobacterium_neumannii_8 # 1350 # 1490 # 1 # ID=43_8;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.596
+MNTFPGLVHTARHVMKVGNTRSRWPNPLWEGAVEGGIGDWDEVVTR*
+>NR_159196.1_Mycobacterium_lehmannii_1 # 264 # 368 # -1 # ID=44_1;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.610
+MQYSPLLPPVGVWAVSQSQCGRSPSQAGYPSSPW*
+>NR_159196.1_Mycobacterium_lehmannii_2 # 370 # 516 # 1 # ID=44_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.605
+MGASLMQRRRVGDDGLRVVNLFQCRRSVSDGRHRRRTGQLRASSRGNT*
+>NR_159196.1_Mycobacterium_lehmannii_3 # 455 # 583 # 1 # ID=44_3;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.581
+MTVGTEEGPANYVPAAAVIRRVRALSGITGRKELVGGLSRCP*
+>NR_159196.1_Mycobacterium_lehmannii_4 # 561 # 725 # 1 # ID=44_4;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.576
+MVCRVVRENSQLNCGRAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_159196.1_Mycobacterium_lehmannii_5 # 698 # 805 # 1 # ID=44_5;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_159196.1_Mycobacterium_lehmannii_6 # 959 # 1099 # -1 # ID=44_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.546
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGKPHLCSRPVHVKPR*
+>NR_159196.1_Mycobacterium_lehmannii_7 # 1114 # 1353 # 1 # ID=44_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.583
+MAGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAVRWSESFQSRSQFGSGS
+ATRPREVGVASNRRSATLR*
+>NR_159196.1_Mycobacterium_lehmannii_8 # 1350 # 1490 # 1 # ID=44_8;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.596
+MNTFPGLVHTARHVMKVGNTRSRWPNPLWEGAVEGGIGDWDEVVTR*
+>NR_158073.1_[Mycobacterium]_chelonae_1 # 22 # 162 # -1 # ID=45_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.546
+MKCVVLSGIRPSFPGLSQSAGQITHVLLTRSPLEYPEGPFRSTCMC*
+>NR_158073.1_[Mycobacterium]_chelonae_2 # 210 # 338 # -1 # ID=45_2;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.612
+MQYSPLLPPVGVWAVSQSQCGRSPSQAGYPSSPWWAITPPTS*
+>NR_158073.1_[Mycobacterium]_chelonae_3 # 425 # 553 # 1 # ID=45_3;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.566
+MTVPTEEGPANYVPAAAVIRRVRALSGITGRKELVGGLSRCS*
+>NR_158073.1_[Mycobacterium]_chelonae_4 # 531 # 695 # 1 # ID=45_4;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCRVVRENSQLNCGRAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_158073.1_[Mycobacterium]_chelonae_5 # 959 # 1117 # -1 # ID=45_5;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.579
+MTPAVSYESPALPAGNIGQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNTYL*
+>NR_158073.1_[Mycobacterium]_chelonae_6 # 1244 # 1468 # -1 # ID=45_6;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.569
+LPVRLPCYDFVPIADPTFDSSLQKVRPLASGVTDFHDVTGGVYKARERIHRSVADLRLLA
+TPTSWGRVADPNPN*
+>NR_157985.1_Mycobacterium_eburneum_1 # 3 # 164 # -1 # ID=46_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.580
+MQHVVLSGIRPSFPGLSQSAGQITHVLLTRSPLEHPRKGLSVRLACVKHAASVR
+>NR_157985.1_Mycobacterium_eburneum_2 # 152 # 286 # -1 # ID=46_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.630
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPLHNAFHHTPCSM*
+>NR_157985.1_Mycobacterium_eburneum_3 # 240 # 344 # -1 # ID=46_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_157985.1_Mycobacterium_eburneum_4 # 346 # 492 # 1 # ID=46_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.599
+MGASLMQRRRVGDDGLRVVNLFQQGRSGSDGTCRRSTGQLRASSRGNT*
+>NR_157985.1_Mycobacterium_eburneum_5 # 431 # 559 # 1 # ID=46_5;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.566
+MTVPVEEAPANYVPAAAVIRRVRALSGITGRKELVGGLSRCS*
+>NR_157985.1_Mycobacterium_eburneum_6 # 537 # 701 # 1 # ID=46_6;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCRVVRENSQLNCGRAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_157985.1_Mycobacterium_eburneum_7 # 674 # 781 # 1 # ID=46_7;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_157985.1_Mycobacterium_eburneum_8 # 771 # 878 # 1 # ID=46_8;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.537
+MGTRCGFPSLGIRAVANALSTPPGEYGRKAKTQRN*
+>NR_157985.1_Mycobacterium_eburneum_9 # 936 # 1124 # -1 # ID=46_9;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.571
+MTPAVSHESPASRAGNMRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNQYLYWRPVHVK
+PR*
+>NR_157985.1_Mycobacterium_eburneum_10 # 1136 # 1381 # 1 # ID=46_10;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.557
+MGMTSSHHAPYVQGFTHATMAGTKGCDAVRLSESFKAGLSSDRGLQLDPVKSESLVIADQ
+QRCGEYVPGPCTHRPSRHESR*
+>NR_044826.2_Mycobacterium_tuberculosis_1 # 2 # 310 # -1 # ID=47_1;partial=10;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.589
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPLKRFPPQDMHPVVLSGIRPSFPGLSRSA
+GQITHVLLTRSPLEYLRRDLSVRLACVKHAASVRPEPGSNSPN
+>NR_044826.2_Mycobacterium_tuberculosis_2 # 264 # 368 # -1 # ID=47_2;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_044826.2_Mycobacterium_tuberculosis_3 # 370 # 528 # 1 # ID=47_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.604
+MGASLMQRRRVGDDGLRVVNLFHHRRRSGFSRIDGRWRRSTGQLRASSRGNT*
+>NR_044826.2_Mycobacterium_tuberculosis_4 # 573 # 737 # 1 # ID=47_4;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_044826.2_Mycobacterium_tuberculosis_5 # 710 # 817 # 1 # ID=47_5;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_044826.2_Mycobacterium_tuberculosis_6 # 1001 # 1111 # -1 # ID=47_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_044826.2_Mycobacterium_tuberculosis_7 # 1129 # 1416 # 1 # ID=47_7;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.573
+MGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESLKAGLSSDRGLQ
+LDPVKSESLVIADQQRCGEYVPGPCTHRPSRHESR*
+>NR_121712.2_Mycobacterium_kansasii_1 # 2 # 181 # -1 # ID=48_1;partial=10;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.556
+MVLSGIRPSFPGLSRCAGQIAHVLLTRSPLECLRRDLSVRLACVKHAASVRPEPGSNSPN
+>NR_121712.2_Mycobacterium_kansasii_2 # 162 # 308 # -1 # ID=48_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.639
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTTRHAPSGPIRY*
+>NR_121712.2_Mycobacterium_kansasii_3 # 262 # 366 # -1 # ID=48_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_121712.2_Mycobacterium_kansasii_4 # 368 # 526 # 1 # ID=48_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.604
+MGASLMQRRRVGDDGLRVVNLFHHRRRSGFSRIDGRWRRSTGQLRASSRGNT*
+>NR_121712.2_Mycobacterium_kansasii_5 # 571 # 735 # 1 # ID=48_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_121712.2_Mycobacterium_kansasii_6 # 708 # 815 # 1 # ID=48_6;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_121712.2_Mycobacterium_kansasii_7 # 999 # 1109 # -1 # ID=48_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_121712.2_Mycobacterium_kansasii_8 # 1124 # 1276 # 1 # ID=48_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.562
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESF*
+>NR_121712.2_Mycobacterium_kansasii_9 # 1285 # 1524 # -1 # ID=48_9;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.596
+MIQPHLPVRLPCYDFVPIADPTFDSSLPRVRPLASGVTDFHDVTGGVYKARERIHRSVAD
+LRLLATPTSRGRVADPDPN*
+>NR_146658.1_Mycobacterium_paraintracellulare_1 # 1 # 183 # -1 # ID=49_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+MRLKVLSGIRPSFPGLSRSAGQIAHVLLTRSPLEYPRRGLSVRLACVKHAASVRPEPGSN
+S
+>NR_146658.1_Mycobacterium_paraintracellulare_2 # 188 # 301 # -1 # ID=49_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.632
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLST*
+>NR_146658.1_Mycobacterium_paraintracellulare_3 # 255 # 359 # -1 # ID=49_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_146658.1_Mycobacterium_paraintracellulare_4 # 361 # 519 # 1 # ID=49_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.597
+MGASLMQRRRVGDDGLRVVNLFHHRRRSGFSRIDGRWRRSTGQLRASSRGNT*
+>NR_146658.1_Mycobacterium_paraintracellulare_5 # 564 # 728 # 1 # ID=49_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_146658.1_Mycobacterium_paraintracellulare_6 # 701 # 808 # 1 # ID=49_6;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_146658.1_Mycobacterium_paraintracellulare_7 # 992 # 1102 # -1 # ID=49_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_146658.1_Mycobacterium_paraintracellulare_8 # 1117 # 1269 # 1 # ID=49_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.556
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESF*
+>NR_146658.1_Mycobacterium_paraintracellulare_9 # 1278 # 1517 # -1 # ID=49_9;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.583
+MIQPHLPVRLPCYDFVPIADPTFDSSLPRVRPLASGVTDFHDVTGGVYKARERIHRSVAD
+LRLLATPTSWGRVADPNPN*
+>NR_145908.1_Mycobacterium_angelicum_1 # 11 # 184 # -1 # ID=50_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.592
+MRLGVLSGIRPSFPGLSRSAGQITHVLLTRSPLEYPRRGLSVRLACVKHAASVRPEP*
+>NR_145908.1_Mycobacterium_angelicum_2 # 156 # 302 # -1 # ID=50_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.660
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTPRHAPRGPIRY*
+>NR_145908.1_Mycobacterium_angelicum_3 # 256 # 360 # -1 # ID=50_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_145908.1_Mycobacterium_angelicum_4 # 362 # 520 # 1 # ID=50_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.597
+MGASLMQRRRVGDDGLRVVNLFHHRRRSGFSRIDGRWRRSTGQLRASSRGNT*
+>NR_145908.1_Mycobacterium_angelicum_5 # 565 # 729 # 1 # ID=50_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.576
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_145908.1_Mycobacterium_angelicum_6 # 702 # 809 # 1 # ID=50_6;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_145908.1_Mycobacterium_angelicum_7 # 993 # 1103 # -1 # ID=50_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_145908.1_Mycobacterium_angelicum_8 # 1118 # 1270 # 1 # ID=50_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.562
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESF*
+>NR_145908.1_Mycobacterium_angelicum_9 # 1279 # 1509 # -1 # ID=50_9;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.589
+PHLPVRLPCYDFVPIADPTFDSSLPRVRPLASGVTDFHDVTGGVYKARERIHRSVADLRL
+LATPTSRGRVADPDPN*
+>NR_145859.1_Mycobacteroides_saopaulense_1 # 3 # 107 # -1 # ID=51_1;partial=10;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.590
+MVLSGIRPSFPGLSQSAGQITHVLLTRSPLEYPEG
+>NR_145859.1_Mycobacteroides_saopaulense_2 # 164 # 292 # -1 # ID=51_2;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.612
+MQYSPLLPPVGVWAVSQSQCGRSPSQAGYPSSPWWAITPPTS*
+>NR_145859.1_Mycobacteroides_saopaulense_3 # 379 # 507 # 1 # ID=51_3;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.566
+MTVPTEEGPANYVPAAAVIRRVRALSGITGRKELVGGLSRCS*
+>NR_145859.1_Mycobacteroides_saopaulense_4 # 485 # 649 # 1 # ID=51_4;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCRVVRENSQLNCGRAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_145859.1_Mycobacteroides_saopaulense_5 # 913 # 1071 # -1 # ID=51_5;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.579
+MTPAVSYESPALPAGNIGQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNTYL*
+>NR_145859.1_Mycobacteroides_saopaulense_6 # 1198 # 1383 # -1 # ID=51_6;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.575
+ADPTFDSSLQKVRPLASGVTDFHDVTGGVYKARERIHRSVADLRLLATPTSWGRVADPNP
+N*
+>NR_125568.1_Mycobacterium_europaeum_1 # 2 # 154 # -1 # ID=52_1;partial=10;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.582
+MVLSGIRPSFPGLSRSAGQIAHVLLTRSPLEYPRRGLSVRLACVKHAASVR
+>NR_125568.1_Mycobacterium_europaeum_2 # 135 # 281 # -1 # ID=52_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.633
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTTRHAPSGPIRY*
+>NR_125568.1_Mycobacterium_europaeum_3 # 235 # 339 # -1 # ID=52_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_125568.1_Mycobacterium_europaeum_4 # 341 # 487 # 1 # ID=52_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.605
+MGASLMQRRRVGDDGLRVVNLFQQGRSESDGTCRRSTGQLRASSRGNT*
+>NR_125568.1_Mycobacterium_europaeum_5 # 426 # 554 # 1 # ID=52_5;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.574
+MTVPAEEAPANYVPAAAVIRRVRALSGITGRKELVGGLSRCS*
+>NR_125568.1_Mycobacterium_europaeum_6 # 532 # 696 # 1 # ID=52_6;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.594
+MVCRVVRENRGLNPRRAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_125568.1_Mycobacterium_europaeum_7 # 669 # 776 # 1 # ID=52_7;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_125568.1_Mycobacterium_europaeum_8 # 960 # 1070 # -1 # ID=52_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_125568.1_Mycobacterium_europaeum_9 # 1085 # 1237 # 1 # ID=52_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.556
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESF*
+>NR_119193.1_Mycobacterium_paraffinicum_1 # 2 # 139 # -1 # ID=53_1;partial=10;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.558
+MVLSGIRPSFPGLSRSAGQIXXVLLTRSPLEYPRRGLSVRLACVKH
+>NR_119193.1_Mycobacterium_paraffinicum_2 # 120 # 266 # -1 # ID=53_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.633
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTTRHAPSGPIRY*
+>NR_119193.1_Mycobacterium_paraffinicum_3 # 220 # 324 # -1 # ID=53_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_119193.1_Mycobacterium_paraffinicum_4 # 526 # 690 # 1 # ID=53_4;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_119193.1_Mycobacterium_paraffinicum_5 # 663 # 770 # 1 # ID=53_5;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_119193.1_Mycobacterium_paraffinicum_6 # 954 # 1064 # -1 # ID=53_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_119193.1_Mycobacterium_paraffinicum_7 # 1079 # 1231 # 1 # ID=53_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.556
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESF*
+>NR_119193.1_Mycobacterium_paraffinicum_8 # 1240 # 1413 # -1 # ID=53_8;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.592
+FDSSLPRVRPLASGVTDFHDVTGGVYKARERIHRSVADLRLLATPTSRGRVADPDPN*
+>NR_119156.1_Mycobacterium_shimoidei_1 # 1 # 144 # -1 # ID=54_1;partial=10;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.556
+MVLSGIRPSFPSLSRSAGQITHVLLTRSPLEYPRKXLSVRLACVKHAA
+>NR_119156.1_Mycobacterium_shimoidei_2 # 125 # 271 # -1 # ID=54_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.626
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTTHHATCGPIRY*
+>NR_119156.1_Mycobacterium_shimoidei_3 # 225 # 329 # -1 # ID=54_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_119156.1_Mycobacterium_shimoidei_4 # 331 # 489 # 1 # ID=54_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.604
+MGASLMQRRRVGDDGLRVVNLFHHRRSCGFSRGDGRWRRSTGQLRASSRGNT*
+>NR_119156.1_Mycobacterium_shimoidei_5 # 534 # 698 # 1 # ID=54_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.588
+MVCRVVRGMPQLNCGRAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_119156.1_Mycobacterium_shimoidei_6 # 671 # 778 # 1 # ID=54_6;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_119156.1_Mycobacterium_shimoidei_7 # 961 # 1071 # -1 # ID=54_7;partial=00;start_type=ATG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.568
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_119156.1_Mycobacterium_shimoidei_8 # 1083 # 1283 # 1 # ID=54_8;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.577
+MMAGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAVXLSESLLKPVSVRIG
+VCNSTP*
+>NR_119156.1_Mycobacterium_shimoidei_9 # 1248 # 1361 # -1 # ID=54_9;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.596
+MTGGVYKARERIHRSVADLRLLATPTSRGRVADPDPN*
+>NR_119149.1_Mycobacteroides_chelonae_1 # 2 # 73 # -1 # ID=55_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.542
+MKCVVLSGIRPSFPGLSQSAGQIT
+>NR_119149.1_Mycobacteroides_chelonae_2 # 121 # 249 # -1 # ID=55_2;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.612
+MQYSPLLPPVGVWAVSQSQCGRSPSQAGYPSSPWWAITPPTS*
+>NR_119149.1_Mycobacteroides_chelonae_3 # 336 # 464 # 1 # ID=55_3;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.566
+MTVPTEEGPANYVPAAAVIRRVRALSGITGRKELVGGLSRCS*
+>NR_119149.1_Mycobacteroides_chelonae_4 # 730 # 1020 # 1 # ID=55_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.570
+MPGTRRRLPGSTRRKVGMTSSHHAPYVQGFTHATMASTEGCEAARWSESLKAGLSSDWGL
+QLDPMKSESLVIADQQRCGEYVPGPCTHRPSRHESR*
+>NR_119148.1_Mycobacteroides_abscessus_1 # 2 # 73 # -1 # ID=56_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.542
+MKCVVLSGIRPSFPGLSQSAGQIT
+>NR_119148.1_Mycobacteroides_abscessus_2 # 121 # 249 # -1 # ID=56_2;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.612
+MQYSPLLPPVGVWAVSQSQCGRSPSQAGYPSSPWWAITPPTS*
+>NR_119148.1_Mycobacteroides_abscessus_3 # 336 # 464 # 1 # ID=56_3;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.566
+MTVPTEEGPANYVPAAAVIRRVRALSGITGRKELVGGLSRCS*
+>NR_119148.1_Mycobacteroides_abscessus_4 # 730 # 1020 # 1 # ID=56_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.567
+MPGTRRRLPGSTRRKVGMTSSHHAPYVQGFTHATMASTEGCEAVRWSESLKAGLSSDWGL
+QLDPMKSESLVIADQQRCGEYVPGPCTHRPSRHESR*
+>NR_118917.1_Mycobacterium_asiaticum_1 # 49 # 306 # -1 # ID=57_1;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.597
+MAGHPLRPATRRRLGRPLPHQQADRPRAIPHRKSFPPQDMHPVVLSGIRPSFPGLSRSAG
+QITHVLLTRSPLEYPRRPFRSTCMC*
+>NR_118917.1_Mycobacterium_asiaticum_2 # 260 # 364 # -1 # ID=57_2;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_118917.1_Mycobacterium_asiaticum_3 # 568 # 732 # 1 # ID=57_3;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.576
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_118917.1_Mycobacterium_asiaticum_4 # 705 # 812 # 1 # ID=57_4;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_118917.1_Mycobacterium_asiaticum_5 # 964 # 1104 # -1 # ID=57_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.567
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNRHLCRRPVHVKPR*
+>NR_118917.1_Mycobacterium_asiaticum_6 # 1119 # 1271 # 1 # ID=57_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.562
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESF*
+>NR_118917.1_Mycobacterium_asiaticum_7 # 1280 # 1393 # -1 # ID=57_7;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.596
+MTGGVYKARERIHRSVADLRLLATPTSRGRVADPDPN*
+>NR_118882.1_Mycobacterium_xenopi_1 # 11 # 277 # -1 # ID=58_1;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.599
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPLPNXFHHPTCAEWSYPVLDPVSQAYPEV
+QGRSPTCYSPVRHSSTPKKGPFRSTCMC*
+>NR_118882.1_Mycobacterium_xenopi_2 # 231 # 335 # -1 # ID=58_2;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVXVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_118882.1_Mycobacterium_xenopi_3 # 678 # 785 # 1 # ID=58_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHXVNGGY*
+>NR_118882.1_Mycobacterium_xenopi_4 # 939 # 1079 # -1 # ID=58_4;partial=00;start_type=ATG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.560
+MGQGLRSLRDLTQHLTTRADDSHAPPAHRPQGKPYLYDRPVHVKPR*
+>NR_118882.1_Mycobacterium_xenopi_5 # 1255 # 1368 # -1 # ID=58_5;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.588
+MTGGVYKARERIHRSIADLRLLATPTSRGRVADPDPN*
+>NR_118880.1_Mycobacterium_scrofulaceum_1 # 1 # 144 # -1 # ID=59_1;partial=10;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.576
+MVLSGIRPSFPGLSRSAGQIAHVLLTRSPLEYPRRGLSVRLAXVKHAA
+>NR_118880.1_Mycobacterium_scrofulaceum_2 # 125 # 271 # -1 # ID=59_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.633
+MAGHPLRPATRRRLGRPSPHQLADRPRAHPTPQKLSTTRHAPSGPIRY*
+>NR_118880.1_Mycobacterium_scrofulaceum_3 # 225 # 329 # -1 # ID=59_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVXVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_118880.1_Mycobacterium_scrofulaceum_4 # 331 # 486 # 1 # ID=59_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.596
+MGASLMQRRRVGDDGLRVVNLFHHRRRLTLWVDGRWRRSTGQLRASSRXNT*
+>NR_118880.1_Mycobacterium_scrofulaceum_5 # 531 # 695 # 1 # ID=59_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_118880.1_Mycobacterium_scrofulaceum_6 # 668 # 775 # 1 # ID=59_6;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHXVNGGY*
+>NR_118880.1_Mycobacterium_scrofulaceum_7 # 959 # 1069 # -1 # ID=59_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_118880.1_Mycobacterium_scrofulaceum_8 # 1084 # 1236 # 1 # ID=59_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.556
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESF*
+>NR_118880.1_Mycobacterium_scrofulaceum_9 # 1245 # 1484 # -1 # ID=59_9;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.592
+MIQPHLPVRLPCYDFVPIADPTFDSSLPRVRPLASGVTDFHDVTGGVYKARERIHRSVAD
+LRLLATPTSRGRVADPDPN*
+>NR_118879.1_Mycobacterium_gastri_1 # 1 # 144 # -1 # ID=60_1;partial=10;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.556
+MVLSGIRPSFPGLSRCAGQIAHVLLTRSPLECLRRDLSVRLACVKHAA
+>NR_118879.1_Mycobacterium_gastri_2 # 125 # 271 # -1 # ID=60_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.639
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTTRHAPSGPIRY*
+>NR_118879.1_Mycobacterium_gastri_3 # 225 # 329 # -1 # ID=60_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLXPVXVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_118879.1_Mycobacterium_gastri_4 # 331 # 489 # 1 # ID=60_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.604
+MGASLMQRRRVGDDGLRVVNLFHHRRRSGFSRIDGRWRRSTGQLRASSRXNT*
+>NR_118879.1_Mycobacterium_gastri_5 # 534 # 698 # 1 # ID=60_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_118879.1_Mycobacterium_gastri_6 # 671 # 778 # 1 # ID=60_6;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHXVNGGY*
+>NR_118879.1_Mycobacterium_gastri_7 # 962 # 1072 # -1 # ID=60_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_118879.1_Mycobacterium_gastri_8 # 1087 # 1239 # 1 # ID=60_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.562
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESF*
+>NR_118879.1_Mycobacterium_gastri_9 # 1248 # 1460 # -1 # ID=60_9;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.582
+LPCYDFVPIADPTFDSSLPRVRPLASGVTDFHDVTGGVYKARERIHRSVADLRLLATPTS
+RGRVADPDPN*
+>NR_118584.1_Mycobacterium_szulgai_1 # 2 # 163 # -1 # ID=61_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.599
+MRLGVLSGIRPSFPGLSRSAGQITHVLLTRSPLEYPRRGLSVRLACVKHAASVR
+>NR_118584.1_Mycobacterium_szulgai_2 # 135 # 281 # -1 # ID=61_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.660
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTPRHAPRGPIRY*
+>NR_118584.1_Mycobacterium_szulgai_3 # 235 # 339 # -1 # ID=61_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_118584.1_Mycobacterium_szulgai_4 # 341 # 499 # 1 # ID=61_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.597
+MGASLMQRRRVGDDGLRVVNLFHHRRRSGFSRIDGRWRRSTGQLRASSRGNT*
+>NR_118584.1_Mycobacterium_szulgai_5 # 544 # 708 # 1 # ID=61_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.576
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_118584.1_Mycobacterium_szulgai_6 # 681 # 788 # 1 # ID=61_6;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_118584.1_Mycobacterium_szulgai_7 # 972 # 1082 # -1 # ID=61_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_118584.1_Mycobacterium_szulgai_8 # 1097 # 1249 # 1 # ID=61_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.562
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESF*
+>NR_118584.1_Mycobacterium_szulgai_9 # 1258 # 1485 # -1 # ID=61_9;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.588
+HLPVRLPCYDFVPIADPTFDSSLPRVRPLASGVTDFHDVTGGVYKARERIHRSVADLRLL
+ATPTSRGRVADPDPN*
+>NR_118331.1_Mycobacterium_gordonae_1 # 21 # 152 # -1 # ID=62_1;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.538
+MVLFGIRPSFPGLSRCAGQITHVLLTRSPLVYPEGPYRSTCMC*
+>NR_118331.1_Mycobacterium_gordonae_2 # 133 # 279 # -1 # ID=62_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.619
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTTGHVSCGPIRY*
+>NR_118331.1_Mycobacterium_gordonae_3 # 233 # 337 # -1 # ID=62_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_118331.1_Mycobacterium_gordonae_4 # 339 # 497 # 1 # ID=62_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.604
+MGESLMQRRRVGDDGLRVVNLFHHRRRSGFSRADGRWRRSTGQLRASSRGNT*
+>NR_118331.1_Mycobacterium_gordonae_5 # 542 # 706 # 1 # ID=62_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_118331.1_Mycobacterium_gordonae_6 # 679 # 786 # 1 # ID=62_6;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_118331.1_Mycobacterium_gordonae_7 # 940 # 1080 # -1 # ID=62_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.567
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNRHLCRRPVHVKPR*
+>NR_118331.1_Mycobacterium_gordonae_8 # 1095 # 1247 # 1 # ID=62_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.562
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESF*
+>NR_118331.1_Mycobacterium_gordonae_9 # 1256 # 1369 # -1 # ID=62_9;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.596
+MTGGVYKARERIHRSVADLRLLATPTSRGRVADPDPN*
+>NR_118110.1_Mycobacterium_parascrofulaceum_1 # 1 # 138 # -1 # ID=63_1;partial=10;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.529
+MVLSGIRPSFPGLSRSAGQIAHVLLTRSPLEYLRRDLSVRLACVKH
+>NR_118110.1_Mycobacterium_parascrofulaceum_2 # 119 # 265 # -1 # ID=63_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.633
+MAGHPLRPATRRRLGRPSPHQLADRPRAHPTPQKLSTTRHAPSGPIRY*
+>NR_118110.1_Mycobacterium_parascrofulaceum_3 # 219 # 323 # -1 # ID=63_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_118110.1_Mycobacterium_parascrofulaceum_4 # 325 # 471 # 1 # ID=63_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.612
+MGASLMQRRRVGDDGLRVVNLFQQGRSASDGTCRRSTGQLRASSRGNT*
+>NR_118110.1_Mycobacterium_parascrofulaceum_5 # 410 # 538 # 1 # ID=63_5;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.574
+MTVPAEEAPANYVPAAAVIRRVRALSGITGRKELVGGLSRCS*
+>NR_118110.1_Mycobacterium_parascrofulaceum_6 # 516 # 680 # 1 # ID=63_6;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.594
+MVCRVVRENRGLNPRRAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_118110.1_Mycobacterium_parascrofulaceum_7 # 653 # 760 # 1 # ID=63_7;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_118110.1_Mycobacterium_parascrofulaceum_8 # 944 # 1054 # -1 # ID=63_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_118110.1_Mycobacterium_parascrofulaceum_9 # 1069 # 1221 # 1 # ID=63_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.556
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESF*
+>NR_118110.1_Mycobacterium_parascrofulaceum_10 # 1230 # 1382 # -1 # ID=63_10;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.582
+VRPLASGVTDFHDVTGGVYKARERIHRSVADLRLLATPTSRGRVADPDPN*
+>NR_117923.1_Mycobacteroides_franklinii_1 # 1 # 129 # -1 # ID=64_1;partial=10;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.566
+MVLSGIRPSFPGLSQSAGQITHVLLTRSPLEYPEGPFRSTCMC
+>NR_117923.1_Mycobacteroides_franklinii_2 # 186 # 314 # -1 # ID=64_2;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.612
+MQYSPLLPPVGVWAVSQSQCGRSPSQAGYPSSPWWAITPPTS*
+>NR_117923.1_Mycobacteroides_franklinii_3 # 401 # 529 # 1 # ID=64_3;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.566
+MTVPTEEGPANYVPAAAVIRRVRALSGITGRKELVGGLSRCS*
+>NR_117923.1_Mycobacteroides_franklinii_4 # 507 # 671 # 1 # ID=64_4;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCRVVRENSQLNCGRAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_117923.1_Mycobacteroides_franklinii_5 # 935 # 1093 # -1 # ID=64_5;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.585
+MTPAVSYESPALPAGNIGQGLRSLRDLTQHLTTRADDSHAPPARRPQGNTYL*
+>NR_117923.1_Mycobacteroides_franklinii_6 # 1220 # 1405 # -1 # ID=64_6;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.575
+ADPTFDSSLQKVRPLASGVTDFHDVTGGVYKARERIHRSVADLRLLATPTSWGRVADPNP
+N*
+>NR_117227.1_Mycobacterium_simiae_1 # 1 # 174 # -1 # ID=65_1;partial=10;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.563
+MVLSGIRPSFPGLSRSAGQITHVLLTRSPLEYPRRGLSVRLACVKHAASVRPEPGSNS
+>NR_117227.1_Mycobacterium_simiae_2 # 155 # 301 # -1 # ID=65_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.639
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTTRHAPSGPIRY*
+>NR_117227.1_Mycobacterium_simiae_3 # 255 # 359 # -1 # ID=65_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_117227.1_Mycobacterium_simiae_4 # 361 # 507 # 1 # ID=65_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.612
+MGASLMQRRRVGDDGLRVVNLFQQGRSASDGTCRRSTGQLRASSRGNT*
+>NR_117227.1_Mycobacterium_simiae_5 # 446 # 574 # 1 # ID=65_5;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.574
+MTVPAEEAPANYVPAAAVIRRVRALSGITGRKELVGGLSRCS*
+>NR_117227.1_Mycobacterium_simiae_6 # 552 # 716 # 1 # ID=65_6;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.600
+MVCRVVRENRGLNPRRAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_117227.1_Mycobacterium_simiae_7 # 689 # 796 # 1 # ID=65_7;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_117227.1_Mycobacterium_simiae_8 # 950 # 1090 # -1 # ID=65_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.567
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNRHLCRRPVHVKPR*
+>NR_117227.1_Mycobacterium_simiae_9 # 1105 # 1257 # 1 # ID=65_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.556
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESF*
+>NR_117227.1_Mycobacterium_simiae_10 # 1266 # 1481 # -1 # ID=65_10;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.574
+RLPCYDFVPIADPTFDSSLQKVRPLASGVTDFHDVTGGVYKARERIHRSVADLRLLATPT
+SRGRVADPDPN*
+>NR_117225.1_Mycobacterium_malmoense_1 # 1 # 183 # -1 # ID=66_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.557
+MRLGVLFGIRPSFPGLSRSAGQITHVLLTRSPLEYLRRDLSVRLACVKHAASVRPEPGSN
+S
+>NR_117225.1_Mycobacterium_malmoense_2 # 155 # 301 # -1 # ID=66_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.653
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTPRHAPRGPIRY*
+>NR_117225.1_Mycobacterium_malmoense_3 # 255 # 359 # -1 # ID=66_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_117225.1_Mycobacterium_malmoense_4 # 361 # 519 # 1 # ID=66_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.597
+MGASLMQRRRVGDDGLRVVNLFHHRRRSGFSRIDGRWRRSTGQLRASSRGNT*
+>NR_117225.1_Mycobacterium_malmoense_5 # 564 # 728 # 1 # ID=66_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.576
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_117225.1_Mycobacterium_malmoense_6 # 701 # 808 # 1 # ID=66_6;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_117225.1_Mycobacterium_malmoense_7 # 992 # 1102 # -1 # ID=66_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_117225.1_Mycobacterium_malmoense_8 # 1117 # 1269 # 1 # ID=66_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.556
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESF*
+>NR_117225.1_Mycobacterium_malmoense_9 # 1278 # 1493 # -1 # ID=66_9;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.588
+RLPCYDFVPIADPTFDSSLPRVRPLASGVTDFHDVTGGVYKARERIHRSVADLRLLATPT
+SRGRVADPDPN*
+>NR_117222.1_Mycobacterium_colombiense_1 # 1 # 183 # -1 # ID=67_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.552
+MRLKVLSGIRPSFPGLSRSAGQIAHVLLTRSPLEYLRRGLSVRLACVKHAASVRPEPGSN
+S
+>NR_117222.1_Mycobacterium_colombiense_2 # 155 # 301 # -1 # ID=67_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.605
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTKRHASKGPIRY*
+>NR_117222.1_Mycobacterium_colombiense_3 # 255 # 359 # -1 # ID=67_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_117222.1_Mycobacterium_colombiense_4 # 361 # 519 # 1 # ID=67_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.597
+MGASLMQRRRVGDDGLRVVNLFHHRRRSGFSRIDGRWRRSTGQLRASSRGNT*
+>NR_117222.1_Mycobacterium_colombiense_5 # 564 # 728 # 1 # ID=67_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_117222.1_Mycobacterium_colombiense_6 # 701 # 808 # 1 # ID=67_6;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_117222.1_Mycobacterium_colombiense_7 # 992 # 1102 # -1 # ID=67_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_117222.1_Mycobacterium_colombiense_8 # 1117 # 1269 # 1 # ID=67_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.549
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAVRLSESF*
+>NR_117222.1_Mycobacterium_colombiense_9 # 1278 # 1493 # -1 # ID=67_9;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.565
+RLPCYDFVPIADPTFDSSLQKVRPLASGVTDFHDVTGGVYKARERIHRSVADLRLLATPT
+SWGRVADPNPN*
+>NR_117221.1_Mycobacterium_arosiense_1 # 1 # 183 # -1 # ID=68_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+MRLKVLSGIRPSFPGLSRSAGQIAHVLLTRSPLEYPRRGLSVRLACVKHAASVRPEPGSN
+S
+>NR_117221.1_Mycobacterium_arosiense_2 # 155 # 301 # -1 # ID=68_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.612
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTNRHAPKGPIRY*
+>NR_117221.1_Mycobacterium_arosiense_3 # 255 # 359 # -1 # ID=68_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_117221.1_Mycobacterium_arosiense_4 # 361 # 519 # 1 # ID=68_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.597
+MGASLMQRRRVGDDGLRVVNLFHHRRRSGFSRIDGRWRRSTGQLRASSRGNT*
+>NR_117221.1_Mycobacterium_arosiense_5 # 564 # 728 # 1 # ID=68_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_117221.1_Mycobacterium_arosiense_6 # 701 # 808 # 1 # ID=68_6;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_117221.1_Mycobacterium_arosiense_7 # 992 # 1102 # -1 # ID=68_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_117221.1_Mycobacterium_arosiense_8 # 1117 # 1269 # 1 # ID=68_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.549
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAVRLSESF*
+>NR_117221.1_Mycobacterium_arosiense_9 # 1278 # 1493 # -1 # ID=68_9;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.565
+RLPCYDFVPIADPTFDSSLQKVRPLASGVTDFHDVTGGVYKARERIHRSVADLRLLATPT
+SWGRVADPNPN*
+>NR_117219.1_Mycobacterium_avium_1 # 1 # 183 # -1 # ID=69_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.557
+MRLEVLSGIRPSFPGLSRSAGQIAHVLLTRSPLEYLRRGLSVRLACVKHAASVRPEPGSN
+S
+>NR_117219.1_Mycobacterium_avium_2 # 173 # 301 # -1 # ID=69_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.636
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTRRHAS*
+>NR_117219.1_Mycobacterium_avium_3 # 255 # 359 # -1 # ID=69_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_117219.1_Mycobacterium_avium_4 # 361 # 519 # 1 # ID=69_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.597
+MGASLMQRRRVGDDGLRVVNLFHHRRRSGFSRIDGRWRRSTGQLRASSRGNT*
+>NR_117219.1_Mycobacterium_avium_5 # 564 # 728 # 1 # ID=69_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_117219.1_Mycobacterium_avium_6 # 701 # 808 # 1 # ID=69_6;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_117219.1_Mycobacterium_avium_7 # 992 # 1102 # -1 # ID=69_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_117219.1_Mycobacterium_avium_8 # 1117 # 1269 # 1 # ID=69_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.549
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAVRLSESF*
+>NR_117219.1_Mycobacterium_avium_9 # 1278 # 1391 # -1 # ID=69_9;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.579
+MTGGVYKARERIHRSVADLRLLATPTSWGRVADPNPN*
+>NR_115330.1_Mycobacterium_barrassiae_1 # 2 # 304 # -1 # ID=70_1;partial=10;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.604
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSPTRPCDQQGVFGIRPSFPGLSQSA
+GQITHVLLTRSPLEYPRKGLSVRLACVKHAASVRPEPGSNS
+>NR_115330.1_Mycobacterium_barrassiae_2 # 258 # 362 # -1 # ID=70_2;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_115330.1_Mycobacterium_barrassiae_3 # 449 # 577 # 1 # ID=70_3;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.566
+MTVGTEEAPANYVPAAAVIRRVRALSGITGRKELVGGLSRCS*
+>NR_115330.1_Mycobacterium_barrassiae_4 # 555 # 719 # 1 # ID=70_4;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.576
+MVCRVVRENSQLNCGRAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_115330.1_Mycobacterium_barrassiae_5 # 692 # 799 # 1 # ID=70_5;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_115330.1_Mycobacterium_barrassiae_6 # 953 # 1093 # -1 # ID=70_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.567
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNRHLCRRPVHVKPR*
+>NR_115330.1_Mycobacterium_barrassiae_7 # 1111 # 1347 # 1 # ID=70_7;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.582
+MGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAVRWSESFQSRSQFGSGSA
+TRPREVGVASNRRSATLR*
+>NR_115330.1_Mycobacterium_barrassiae_8 # 1269 # 1487 # -1 # ID=70_8;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.594
+RLPCYDFVPIADPTFDGSLPQGVRPPASGVTDFHDVTGGVYKARERIHRSVADLRLLATP
+TSRGRVADPDPN*
+>NR_115209.1_Mycobacterium_sherrisii_1 # 1 # 174 # -1 # ID=71_1;partial=10;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.563
+MVISGIRPSFPGLSRSAGQITHVLLTRSPLEYPRRGLSVRLACVKHAASVRPEPGSNS
+>NR_115209.1_Mycobacterium_sherrisii_2 # 155 # 301 # -1 # ID=71_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.633
+MAGHPLRPATRRRLGRPSPHQQADRPRVHPTPQKLSTTRHAPRGHIRY*
+>NR_115209.1_Mycobacterium_sherrisii_3 # 255 # 359 # -1 # ID=71_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_115209.1_Mycobacterium_sherrisii_4 # 361 # 507 # 1 # ID=71_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.612
+MGASLMQRRRVGDDGLRVVNLFQQGRSASDGTCRRSTGQLRASSRGNT*
+>NR_115209.1_Mycobacterium_sherrisii_5 # 446 # 574 # 1 # ID=71_5;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.574
+MTVPAEEAPANYVPAAAVIRRVRALSGITGRKELVGGLSRCS*
+>NR_115209.1_Mycobacterium_sherrisii_6 # 552 # 716 # 1 # ID=71_6;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.600
+MVCRVVRENRGLNPRRAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_115209.1_Mycobacterium_sherrisii_7 # 689 # 796 # 1 # ID=71_7;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_115209.1_Mycobacterium_sherrisii_8 # 950 # 1090 # -1 # ID=71_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.567
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNRHLCRRPVHVKPR*
+>NR_115209.1_Mycobacterium_sherrisii_9 # 1105 # 1257 # 1 # ID=71_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.556
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESF*
+>NR_115209.1_Mycobacterium_sherrisii_10 # 1266 # 1508 # -1 # ID=71_10;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.580
+EVIQPHLPVRLPCYDFVPIADPTFDSSLQKVRPLASGVTDFHDVTGGVYKARERIHRSVA
+DLRLLATPTSRGRVADPDPN*
+>NR_114894.1_Mycobacterium_celatum_1 # 2 # 157 # -1 # ID=72_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.551
+MHPMVLSGIRPSFPSLSRSAGQITHVLLTRSPLEHPQKGAFPFDLHVLSTPP
+>NR_114894.1_Mycobacterium_celatum_2 # 129 # 275 # -1 # ID=72_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.619
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTTRHASHGPIRY*
+>NR_114894.1_Mycobacterium_celatum_3 # 229 # 333 # -1 # ID=72_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_114894.1_Mycobacterium_celatum_4 # 335 # 493 # 1 # ID=72_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.610
+MGASLMQRRRVGDDGLRVVNLFHHRRSCRFSGGDGRWRRSTGQLRASSRGNT*
+>NR_114894.1_Mycobacterium_celatum_5 # 538 # 702 # 1 # ID=72_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.588
+MVCRVVREIPWLNWGRAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_114894.1_Mycobacterium_celatum_6 # 675 # 782 # 1 # ID=72_6;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_114894.1_Mycobacterium_celatum_7 # 936 # 1076 # -1 # ID=72_7;partial=00;start_type=ATG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.546
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGKPHLCSRPVHVKPR*
+>NR_114894.1_Mycobacterium_celatum_8 # 1088 # 1381 # 1 # ID=72_8;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.571
+MMAGTREXLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAVRFSESFKAGLSSDRG
+LQLDPVKSESLVIADQQCCGEYVPGPCTHRPSRHESR*
+>NR_114890.1_Mycobacterium_marinum_1 # 2 # 154 # -1 # ID=73_1;partial=10;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.575
+MVLSGIRPSFPGLSRSAGQIAHVLLTRSPLEYLRRDLSVRLACVKHAASVR
+>NR_114890.1_Mycobacterium_marinum_2 # 135 # 281 # -1 # ID=73_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.626
+MAGHPLRPATRRRLGRPLPHQQADRPRAHPTPQKLSTTGHESRGPIRY*
+>NR_114890.1_Mycobacterium_marinum_3 # 235 # 339 # -1 # ID=73_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_114890.1_Mycobacterium_marinum_4 # 341 # 499 # 1 # ID=73_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.591
+MGASLMQRRRVGDDGLRVVNLFHHRRRFGFSRIDGRWRRSTGQLRASSRGNT*
+>NR_114890.1_Mycobacterium_marinum_5 # 544 # 708 # 1 # ID=73_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_114890.1_Mycobacterium_marinum_6 # 681 # 788 # 1 # ID=73_6;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_114890.1_Mycobacterium_marinum_7 # 972 # 1082 # -1 # ID=73_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_114890.1_Mycobacterium_marinum_8 # 1100 # 1387 # 1 # ID=73_8;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.573
+MGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESFKAGLSSDRGLQ
+LDPVKSESLVIADQQRCGEYVPGPCTHRPSRHESR*
+>NR_114661.1_Mycobacterium_cookii_1 # 2 # 163 # -1 # ID=74_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.574
+MQSVVLSGIRPSFPGLSQSAGQITHVLLTRSPLEYPRKGLSVRLACVKHAASVR
+>NR_114661.1_Mycobacterium_cookii_2 # 135 # 281 # -1 # ID=74_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.626
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTTDHAVRSPIRY*
+>NR_114661.1_Mycobacterium_cookii_3 # 235 # 339 # -1 # ID=74_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_114661.1_Mycobacterium_cookii_4 # 341 # 568 # 1 # ID=74_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.592
+MGASLMQRRRVGDDGLRVVNLFHHRRSRELLFLVTVGGEEAPANYVPAAAVIRRVRALSG
+ITGRKELVGGLSRCP*
+>NR_114661.1_Mycobacterium_cookii_5 # 546 # 710 # 1 # ID=74_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.594
+MVCRVVREIPWLNWGRAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_114661.1_Mycobacterium_cookii_6 # 683 # 790 # 1 # ID=74_6;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_114661.1_Mycobacterium_cookii_7 # 944 # 1084 # -1 # ID=74_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.567
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNRHLCRRPVHVKPR*
+>NR_114661.1_Mycobacterium_cookii_8 # 1099 # 1389 # 1 # ID=74_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.577
+MAGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAVRLSESLKAGLSSDRGL
+QLDPVKSESLVIADQQRCGEYVPGPCTHRPSRHESR*
+>NR_113138.1_Mycobacterium_ulcerans_1 # 3 # 146 # -1 # ID=75_1;partial=10;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.562
+MVLSGIRPSFPGLSRSAGQIAHVLLTRSPLEYLRRDLSVRLACVKHAA
+>NR_113138.1_Mycobacterium_ulcerans_2 # 127 # 273 # -1 # ID=75_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.626
+MAGHPLRPATRRRLGRPLPHQQADRPRAHPTPQKLSTTGHESRGPIRY*
+>NR_113138.1_Mycobacterium_ulcerans_3 # 227 # 331 # -1 # ID=75_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_113138.1_Mycobacterium_ulcerans_4 # 333 # 491 # 1 # ID=75_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.591
+MGASLMQRRRVGDDGLRVVNLFHHRRRFGFSRIDGRWRRSTGQLRASSRGNT*
+>NR_113138.1_Mycobacterium_ulcerans_5 # 536 # 700 # 1 # ID=75_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_113138.1_Mycobacterium_ulcerans_6 # 673 # 780 # 1 # ID=75_6;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_113138.1_Mycobacterium_ulcerans_7 # 964 # 1074 # -1 # ID=75_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_113138.1_Mycobacterium_ulcerans_8 # 1092 # 1379 # 1 # ID=75_8;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.580
+MGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGAKGCDAARLSESFNAGLSSDRGLQ
+LDPVKSESLVIADQQRCGEYVPGPCTHRPSRHESR*
+>NR_113136.1_Mycobacterium_pseudoshottsii_1 # 3 # 146 # -1 # ID=76_1;partial=10;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.569
+MVLSGIRPSFPGLSRSAGQIAHVLLTRSPLECLRRDLSVRLACVKHAA
+>NR_113136.1_Mycobacterium_pseudoshottsii_2 # 127 # 273 # -1 # ID=76_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.626
+MAGHPLRPATRRRLGRPLPHQQADRPRAHPTPQKLSTTGHESRGPIRY*
+>NR_113136.1_Mycobacterium_pseudoshottsii_3 # 227 # 331 # -1 # ID=76_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_113136.1_Mycobacterium_pseudoshottsii_4 # 333 # 491 # 1 # ID=76_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.585
+MGASLMQRRRVGDDGLRVVNLFHHRRRFGFSRIDGRWRRSTGQLRASSRGNT*
+>NR_113136.1_Mycobacterium_pseudoshottsii_5 # 536 # 700 # 1 # ID=76_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_113136.1_Mycobacterium_pseudoshottsii_6 # 673 # 780 # 1 # ID=76_6;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_113136.1_Mycobacterium_pseudoshottsii_7 # 964 # 1074 # -1 # ID=76_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_113136.1_Mycobacterium_pseudoshottsii_8 # 1092 # 1379 # 1 # ID=76_8;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.576
+MGTRERLPGSTRRKVGMTSSHHAPYAQGFTHATMAGTKGCDAARLSESFKAGLSSDRGLQ
+LDPVKSESLVIADQQRCGEYVPGPCTHRPSRHESR*
+>NR_112623.1_Mycobacterium_shinjukuense_1 # 2 # 154 # -1 # ID=77_1;partial=10;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.582
+MVLSGIRPSFPGLSRCAGQITHVLLTRSPLECLRRDLSVRLACVKHAASVR
+>NR_112623.1_Mycobacterium_shinjukuense_2 # 135 # 281 # -1 # ID=77_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.619
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTTRHASRGPIRY*
+>NR_112623.1_Mycobacterium_shinjukuense_3 # 235 # 339 # -1 # ID=77_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_112623.1_Mycobacterium_shinjukuense_4 # 341 # 499 # 1 # ID=77_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.610
+MGASLMQRRRVGDDGLRVVNLFHHRRRSGFSRADGRWRRSTGQLRASSRGNT*
+>NR_112623.1_Mycobacterium_shinjukuense_5 # 544 # 708 # 1 # ID=77_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_112623.1_Mycobacterium_shinjukuense_6 # 681 # 788 # 1 # ID=77_6;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_112623.1_Mycobacterium_shinjukuense_7 # 972 # 1082 # -1 # ID=77_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_112623.1_Mycobacterium_shinjukuense_8 # 1100 # 1249 # 1 # ID=77_8;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.560
+MGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESF*
+>NR_112623.1_Mycobacterium_shinjukuense_9 # 1258 # 1371 # -1 # ID=77_9;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.596
+MTGGVYKARERIHRSVADLRLLATPTSRGRVADPDPN*
+>NR_104956.1_Mycobacterium_timonense_1 # 1 # 171 # -1 # ID=78_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.573
+MRLKVLSGIRPSFPGLSRSAGQIAHVLLTRSPLEYPRRGLSVRLACVKHAASVRPEP
+>NR_104956.1_Mycobacterium_timonense_2 # 143 # 289 # -1 # ID=78_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.605
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTKRHASKGPIRY*
+>NR_104956.1_Mycobacterium_timonense_3 # 243 # 347 # -1 # ID=78_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_104956.1_Mycobacterium_timonense_4 # 349 # 507 # 1 # ID=78_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.597
+MGASLMQRRRVGDDGLRVVNLFHHRRRFGFSRTDGRWRRSTGQLRASSRGNT*
+>NR_104956.1_Mycobacterium_timonense_5 # 552 # 716 # 1 # ID=78_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_104956.1_Mycobacterium_timonense_6 # 689 # 796 # 1 # ID=78_6;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_104956.1_Mycobacterium_timonense_7 # 980 # 1090 # -1 # ID=78_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_104956.1_Mycobacterium_timonense_8 # 1105 # 1257 # 1 # ID=78_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.556
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESF*
+>NR_104956.1_Mycobacterium_timonense_9 # 1266 # 1481 # -1 # ID=78_9;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.556
+WLPCYDFVPIADPTFDSSLQKVRPLASGVTDFHDVTGGVYKARERIHRSVADLRLLATPT
+SWGRVADPNPN*
+>NR_104909.1_Mycobacterium_interjectum_1 # 8 # 181 # -1 # ID=79_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.586
+MRLEVLSGIRPSFPGLSRSAGQITHVLLTRSPLEYPRRGLSVRLACVKHAASVRPEP*
+>NR_104909.1_Mycobacterium_interjectum_2 # 153 # 299 # -1 # ID=79_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.646
+MAGHPLRPATRRRLGRPSPHQLADRPRAHPTPQKLSTTRHAPRGPIRY*
+>NR_104909.1_Mycobacterium_interjectum_3 # 253 # 357 # -1 # ID=79_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_104909.1_Mycobacterium_interjectum_4 # 359 # 505 # 1 # ID=79_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.612
+MGASLMQRRRVGDDGLRVVNLFQQGRSASDGTCRRSTGQLRASSRGNT*
+>NR_104909.1_Mycobacterium_interjectum_5 # 444 # 572 # 1 # ID=79_5;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.574
+MTVPAEEAPANYVPAAAVIRRVRALSGITGRKELVGGLSRCS*
+>NR_104909.1_Mycobacterium_interjectum_6 # 550 # 714 # 1 # ID=79_6;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.576
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_104909.1_Mycobacterium_interjectum_7 # 687 # 794 # 1 # ID=79_7;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_104909.1_Mycobacterium_interjectum_8 # 948 # 1076 # -1 # ID=79_8;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.581
+MRSLRDLTQHLTTRADDSHAPPAHRPQGNRHLCRRPVHVKPR*
+>NR_104909.1_Mycobacterium_interjectum_9 # 1103 # 1255 # 1 # ID=79_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.556
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESF*
+>NR_104909.1_Mycobacterium_interjectum_10 # 1264 # 1431 # -1 # ID=79_10;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.583
+APSQRVRPLASGVTDFHDVTGGVYKARERIHRSVADLRLLATPTSRGRVADPDPN*
+>NR_104888.1_Mycobacterium_haemophilum_1 # 3 # 182 # -1 # ID=80_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.556
+MRLEVLSGIRPSFPGLSRSAGQITHVLLTRSPLEYLRRDLSVRLACVKHAASVRPEPGSN
+>NR_104888.1_Mycobacterium_haemophilum_2 # 255 # 359 # -1 # ID=80_2;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_104888.1_Mycobacterium_haemophilum_3 # 361 # 519 # 1 # ID=80_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.591
+MGASLMQRRRVGDDGLRVVNLFHHRRRFGFSRIDGRWRRSTGQLRASSRGNT*
+>NR_104888.1_Mycobacterium_haemophilum_4 # 564 # 728 # 1 # ID=80_4;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.576
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_104888.1_Mycobacterium_haemophilum_5 # 701 # 808 # 1 # ID=80_5;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_104888.1_Mycobacterium_haemophilum_6 # 992 # 1090 # -1 # ID=80_6;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.586
+MRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_104888.1_Mycobacterium_haemophilum_7 # 1117 # 1269 # 1 # ID=80_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.556
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESF*
+>NR_104888.1_Mycobacterium_haemophilum_8 # 1278 # 1517 # -1 # ID=80_8;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.592
+MIQPHLPVRLPCYDFVPIADPTFDSSLPRVRPLASGVTDFHDVTGGVYKARERIHRSVAD
+LRLLATPTSRGRVADPDPN*
+>NR_104876.1_Mycobacteroides_immunogenum_1 # 38 # 178 # -1 # ID=81_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.553
+MKHAVLSGIRPSFPGLSQSAGQITHVLLTRSPLEYPEGPFRSTCMC*
+>NR_104876.1_Mycobacteroides_immunogenum_2 # 150 # 296 # -1 # ID=81_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.612
+MAGHPLRPATRRRLGRPLPHQQADRPRAHPTPQKLCTTHHEACGPIRY*
+>NR_104876.1_Mycobacteroides_immunogenum_3 # 250 # 354 # -1 # ID=81_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRSPSQAGYPSSPW*
+>NR_104876.1_Mycobacteroides_immunogenum_4 # 441 # 569 # 1 # ID=81_4;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.566
+MTVPTEEGPANYVPAAAVIRRVRALSGITGRKELVGGLSRCS*
+>NR_104876.1_Mycobacteroides_immunogenum_5 # 547 # 711 # 1 # ID=81_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCRVVRENSQLNCGRAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_104876.1_Mycobacteroides_immunogenum_6 # 975 # 1133 # -1 # ID=81_6;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.579
+MTPAVSYESPALPAGNIGQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNTYL*
+>NR_104876.1_Mycobacteroides_immunogenum_7 # 1145 # 1390 # 1 # ID=81_7;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.553
+MGMTSSHHAPYVQGFTHATMASTEGCEAVRWSESLKAGLSSDWGLQLDPMKSESLVIADQ
+QRCGEYVPGPCTHRPSRHESR*
+>NR_044840.1_Mycobacterium_intermedium_1 # 3 # 116 # -1 # ID=82_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.588
+MRREVLSGIRPSFPGLSQCAGQITHVLLTRSPLEYPRR
+>NR_044840.1_Mycobacterium_intermedium_2 # 119 # 235 # -1 # ID=82_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.650
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTS*
+>NR_044840.1_Mycobacterium_intermedium_3 # 189 # 293 # -1 # ID=82_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_044840.1_Mycobacterium_intermedium_4 # 295 # 441 # 1 # ID=82_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.612
+MGASLMQRRRVGDDGLRVVNLFQQGRSASDGTCRRSTGQLRASSRGNT*
+>NR_044840.1_Mycobacterium_intermedium_5 # 380 # 508 # 1 # ID=82_5;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.574
+MTVPAEEAPANYVPAAAVIRRVRALSGITGRKELVGGLSRCS*
+>NR_044840.1_Mycobacterium_intermedium_6 # 486 # 650 # 1 # ID=82_6;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_044840.1_Mycobacterium_intermedium_7 # 623 # 730 # 1 # ID=82_7;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_044840.1_Mycobacterium_intermedium_8 # 914 # 1024 # -1 # ID=82_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_044840.1_Mycobacterium_intermedium_9 # 1039 # 1191 # 1 # ID=82_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.562
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESF*
+>NR_044840.1_Mycobacterium_intermedium_10 # 1200 # 1403 # -1 # ID=82_10;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.578
+YDFVPIADPTFDSSLPKVRPLASGVTDFHDVTGGVYKARERIHRSVADLRLLATPTSRGR
+VADPDPN*
+>NR_043989.1_Mycobacteroides_salmoniphilum_1 # 1 # 129 # -1 # ID=83_1;partial=10;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.566
+MVLSGIRPSFPGLSQSAGQITHVLLTRSPLEYPEGPFRSTCMC
+>NR_043989.1_Mycobacteroides_salmoniphilum_2 # 110 # 256 # -1 # ID=83_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.592
+MAGHPLRPATRRRLGELLPHQQADRPRAHPTPQKLCTTHHEVCGPIRY*
+>NR_043989.1_Mycobacteroides_salmoniphilum_3 # 210 # 314 # -1 # ID=83_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRSPSQAGYPSSPW*
+>NR_043989.1_Mycobacteroides_salmoniphilum_4 # 401 # 529 # 1 # ID=83_4;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.558
+MTVPTEEGPANYVPAAAVIRRVRALSGITGRKELVGGLSRCS*
+>NR_043989.1_Mycobacteroides_salmoniphilum_5 # 507 # 671 # 1 # ID=83_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCHVVRENPQLNCGRAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_043989.1_Mycobacteroides_salmoniphilum_6 # 935 # 1093 # -1 # ID=83_6;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.585
+MTPAVSYESPALPAGNIGQGLRSLRDLTQHLTTRADDSHAPPARRPQGNTYL*
+>NR_043989.1_Mycobacteroides_salmoniphilum_7 # 1105 # 1350 # 1 # ID=83_7;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.557
+MGMTSSHHAPYVQGFTHATMASTEGCEAARWSESLKAGLSSDWGLQLDPMKSESLVIADQ
+QRCGEYVPGPCTHRPSRHESR*
+>NR_042665.1_Mycobacterium_stomatepiae_1 # 2 # 154 # -1 # ID=84_1;partial=10;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.575
+MVISGIRPSFPGLSRSAGQITHVLLTRSPLEYPRRGLSVRLACVKHAASVR
+>NR_042665.1_Mycobacterium_stomatepiae_2 # 135 # 281 # -1 # ID=84_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.633
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTTRHAPRGHIRY*
+>NR_042665.1_Mycobacterium_stomatepiae_3 # 235 # 339 # -1 # ID=84_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_042665.1_Mycobacterium_stomatepiae_4 # 341 # 487 # 1 # ID=84_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.612
+MGASLMQRRRVGDDGLRVVNLFQQGRSASDGTCRRSTGQLRASSRGNT*
+>NR_042665.1_Mycobacterium_stomatepiae_5 # 426 # 554 # 1 # ID=84_5;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.574
+MTVPAEEAPANYVPAAAVIRRVRALSGITGRKELVGGLSRCS*
+>NR_042665.1_Mycobacterium_stomatepiae_6 # 532 # 696 # 1 # ID=84_6;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.600
+MVCRVVRENRGLNPRRAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_042665.1_Mycobacterium_stomatepiae_7 # 669 # 776 # 1 # ID=84_7;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_042665.1_Mycobacterium_stomatepiae_8 # 930 # 1070 # -1 # ID=84_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.567
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNRHLCRRPVHVKPR*
+>NR_042665.1_Mycobacterium_stomatepiae_9 # 1088 # 1237 # 1 # ID=84_9;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.547
+MGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMGGTKGCDAVRLSESL*
+>NR_042665.1_Mycobacterium_stomatepiae_10 # 1246 # 1470 # -1 # ID=84_10;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.578
+LPVRLPCYDFVPIADPTFDSSLQKVRPLASGVTDFHDVTGGVYKARERIHRSVADLRLLA
+TPTSRGRVADPDPN*
+>NR_042223.1_Mycobacterium_florentinum_1 # 2 # 166 # -1 # ID=85_1;partial=10;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.576
+MVISGIRPSFPGLSRSAGQITHVLLTRSPLEYPRRGLSVRLACVKHAASVRPEPG
+>NR_042223.1_Mycobacterium_florentinum_2 # 147 # 293 # -1 # ID=85_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.619
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTTRHASRGHIRY*
+>NR_042223.1_Mycobacterium_florentinum_3 # 247 # 351 # -1 # ID=85_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_042223.1_Mycobacterium_florentinum_4 # 353 # 499 # 1 # ID=85_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.612
+MGASLMQRRRVGDDGLRVVNLFQQGRSASDGTCRRSTGQLRASSRGNT*
+>NR_042223.1_Mycobacterium_florentinum_5 # 438 # 566 # 1 # ID=85_5;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.574
+MTVPAEEAPANYVPAAAVIRRVRALSGITGRKELVGGLSRCS*
+>NR_042223.1_Mycobacterium_florentinum_6 # 544 # 708 # 1 # ID=85_6;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.600
+MVCRVVRENRGLNPRRAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_042223.1_Mycobacterium_florentinum_7 # 681 # 788 # 1 # ID=85_7;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_042223.1_Mycobacterium_florentinum_8 # 942 # 1082 # -1 # ID=85_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.567
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNRHLCRRPVHVKPR*
+>NR_042223.1_Mycobacterium_florentinum_9 # 1100 # 1249 # 1 # ID=85_9;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.547
+MGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAVRLSESF*
+>NR_042223.1_Mycobacterium_florentinum_10 # 1258 # 1497 # -1 # ID=85_10;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.583
+MIQPHLPVRLPCYDFVPIADPTFDSSLQKVRPLASGVTDFHDVTGGVYKARERIHRSVAD
+LRLLATPTSRGRVADPDPN*
+>NR_042793.1_Mycobacterium_saskatchewanense_1 # 2 # 181 # -1 # ID=86_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.556
+MRLKVLSGIRPSFPGLSRSAGQIAHVLLTRSPLEYLRRDLSVRLACVKHAASVRPEPGSN
+>NR_042793.1_Mycobacterium_saskatchewanense_2 # 153 # 299 # -1 # ID=86_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.619
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTKRHAPKGPIRY*
+>NR_042793.1_Mycobacterium_saskatchewanense_3 # 253 # 357 # -1 # ID=86_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_042793.1_Mycobacterium_saskatchewanense_4 # 359 # 505 # 1 # ID=86_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.612
+MGASLMQRRRVGDDGLRVVNLFQQGRSASDGTCRRSTGQLRASSRGNT*
+>NR_042793.1_Mycobacterium_saskatchewanense_5 # 444 # 572 # 1 # ID=86_5;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.574
+MTVPAEEAPANYVPAAAVIRRVRALSGITGRKELVGGLSRCS*
+>NR_042793.1_Mycobacterium_saskatchewanense_6 # 550 # 714 # 1 # ID=86_6;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_042793.1_Mycobacterium_saskatchewanense_7 # 687 # 794 # 1 # ID=86_7;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_042793.1_Mycobacterium_saskatchewanense_8 # 948 # 1088 # -1 # ID=86_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.567
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNRHLCRRPVHVKPR*
+>NR_042793.1_Mycobacterium_saskatchewanense_9 # 1103 # 1255 # 1 # ID=86_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.556
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESF*
+>NR_041898.1_Mycobacterium_lentiflavum_1 # 2 # 163 # -1 # ID=87_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+MRQKVLSGIRPSFPGLSRSAGQITHVLLTRSPLEYLRRGLSVRLACVKHAASVR
+>NR_041898.1_Mycobacterium_lentiflavum_2 # 135 # 281 # -1 # ID=87_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.626
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTKRHAPKGPIRY*
+>NR_041898.1_Mycobacterium_lentiflavum_3 # 235 # 339 # -1 # ID=87_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_041898.1_Mycobacterium_lentiflavum_4 # 341 # 487 # 1 # ID=87_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.612
+MGASLMQRRRVGDDGLRVVNLFQQGRSASDGTCRRSTGQLRASSRGNT*
+>NR_041898.1_Mycobacterium_lentiflavum_5 # 426 # 554 # 1 # ID=87_5;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.574
+MTVPAEEAPANYVPAAAVIRRVRALSGITGRKELVGGLSRCS*
+>NR_041898.1_Mycobacterium_lentiflavum_6 # 532 # 696 # 1 # ID=87_6;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.600
+MVCRVVRENRGLNPRRAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_041898.1_Mycobacterium_lentiflavum_7 # 669 # 776 # 1 # ID=87_7;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_041898.1_Mycobacterium_lentiflavum_8 # 930 # 1070 # -1 # ID=87_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.567
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNRHLCRRPVHVKPR*
+>NR_041898.1_Mycobacterium_lentiflavum_9 # 1085 # 1237 # 1 # ID=87_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.549
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAVRLSESF*
+>NR_041898.1_Mycobacterium_lentiflavum_10 # 1246 # 1452 # -1 # ID=87_10;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.570
+CYDFVPIADPTFDSSLQKVRPLASGVTDFHDVTGGVYKARERIHRSVADLRLLATPTSRG
+RVADPDPN*
+>NR_041897.1_Mycobacterium_branderi_1 # 2 # 283 # -1 # ID=88_1;partial=10;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.589
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKSFPPHTMQHVVLSGIRPSFPSLSRSA
+GQITHVLLTRSPLECSRKNLSVRLACVKHAASVR
+>NR_041897.1_Mycobacterium_branderi_2 # 237 # 341 # -1 # ID=88_2;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_041897.1_Mycobacterium_branderi_3 # 441 # 569 # 1 # ID=88_3;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.574
+MTVGGEEAPANYVPAAAVIRRVRALSGITGRKELVGGLSRCS*
+>NR_041897.1_Mycobacterium_branderi_4 # 547 # 711 # 1 # ID=88_4;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.588
+MVCRVVREIPWLNWGRAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_041897.1_Mycobacterium_branderi_5 # 684 # 791 # 1 # ID=88_5;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_041897.1_Mycobacterium_branderi_6 # 975 # 1085 # -1 # ID=88_6;partial=00;start_type=ATG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.559
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGKHHL*
+>NR_041897.1_Mycobacterium_branderi_7 # 1097 # 1252 # 1 # ID=88_7;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.564
+MMAGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAVRFSESL*
+>NR_041897.1_Mycobacterium_branderi_8 # 1261 # 1467 # -1 # ID=88_8;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.585
+LRLRPNRRSHLRPLPPLRVRPWASGVTDFHDVTGGVYKARERIHRSIADLRLLATPTSRG
+RVADPDPN*
+>NR_029298.1_Mycobacterium_conspicuum_1 # 3 # 107 # -1 # ID=89_1;partial=10;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.571
+MVLSGIRPSFPGLSRSAGQITHVLLTRSPLEYPRR
+>NR_029298.1_Mycobacterium_conspicuum_2 # 188 # 292 # -1 # ID=89_2;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSEPW*
+>NR_029298.1_Mycobacterium_conspicuum_3 # 294 # 452 # 1 # ID=89_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.597
+MGASLMQRRRVGDDGLRVVNLFHHRRRSGFSRIDGRWRRSTGQLRASSRGNT*
+>NR_029298.1_Mycobacterium_conspicuum_4 # 497 # 661 # 1 # ID=89_4;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.576
+MVCRVVRENSRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_029298.1_Mycobacterium_conspicuum_5 # 634 # 741 # 1 # ID=89_5;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_029298.1_Mycobacterium_conspicuum_6 # 934 # 1035 # -1 # ID=89_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.569
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGN*
+>NR_029298.1_Mycobacterium_conspicuum_7 # 1050 # 1340 # 1 # ID=89_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.570
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESFKAGLSSDRGL
+QLDPVKSESLVIADQQRCGEYVPGPCTHRPSRHESR*
+>NR_029223.1_Mycobacterium_genavense_1 # 3 # 161 # -1 # ID=90_1;partial=10;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.566
+MVISGIRPSFPGLSRSAGQITHVLLTRSPLEYLRRGLSVRLACVKHAASVRPE
+>NR_029223.1_Mycobacterium_genavense_2 # 142 # 288 # -1 # ID=90_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.619
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTTKHAFRGHIRY*
+>NR_029223.1_Mycobacterium_genavense_3 # 242 # 346 # -1 # ID=90_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVXVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_029223.1_Mycobacterium_genavense_4 # 348 # 494 # 1 # ID=90_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.612
+MGASLMQRRRVGDDGLRVVNLFQQGRSASDGTCRRSTGQLRASSRGNT*
+>NR_029223.1_Mycobacterium_genavense_5 # 433 # 561 # 1 # ID=90_5;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.574
+MTVPAEEAPANYVPAAAVIRRVRALXGITGRKELVGGLSRCS*
+>NR_029223.1_Mycobacterium_genavense_6 # 539 # 703 # 1 # ID=90_6;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.600
+MVCRVVRENRGLNPRRAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_029223.1_Mycobacterium_genavense_7 # 676 # 783 # 1 # ID=90_7;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHXVNGGY*
+>NR_029223.1_Mycobacterium_genavense_8 # 937 # 1077 # -1 # ID=90_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.567
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNRHLCRRPVHVKPR*
+>NR_029223.1_Mycobacterium_genavense_9 # 1092 # 1244 # 1 # ID=90_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.536
+MPGTRERLPGSTRRKVRMTSSHHAPYVQGFTHATMASTKGCDAVRLSESF*
+>NR_029223.1_Mycobacterium_genavense_10 # 1253 # 1438 # -1 # ID=90_10;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.586
+ADPTFDSSLQKVRPLASGVTDFHDVTGGVYKARERIHRSVADLRLLATPTSRGRVADPDP
+N*
+>NR_028940.1_Mycobacterium_palustre_1 # 3 # 176 # -1 # ID=91_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.580
+MRLKVLSGIRPSFPGLSRSAGQITHVLLTRSPLEYPRRGLSVRLACVKHAASVRPEPG
+>NR_028940.1_Mycobacterium_palustre_2 # 148 # 294 # -1 # ID=91_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.626
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTKRHAPKGPIRY*
+>NR_028940.1_Mycobacterium_palustre_3 # 248 # 352 # -1 # ID=91_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_028940.1_Mycobacterium_palustre_4 # 354 # 500 # 1 # ID=91_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.612
+MGASLMQRRRVGDDGLRVVNLFQQGRSASDGTCRRSTGQLRASSRGNT*
+>NR_028940.1_Mycobacterium_palustre_5 # 439 # 567 # 1 # ID=91_5;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.574
+MTVPAEEAPANYVPAAAVIRRVRALSGITGRKELVGGLSRCS*
+>NR_028940.1_Mycobacterium_palustre_6 # 545 # 709 # 1 # ID=91_6;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.600
+MVCRVVRENRGLNPRRAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_028940.1_Mycobacterium_palustre_7 # 682 # 789 # 1 # ID=91_7;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_028940.1_Mycobacterium_palustre_8 # 973 # 1083 # -1 # ID=91_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_028940.1_Mycobacterium_palustre_9 # 1098 # 1388 # 1 # ID=91_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.570
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESFKAGLSSDRGL
+QLDPVKSESLVIADQQRCGEYVPGPCTHRPSRHESR*
+>NR_028878.1_Mycobacterium_botniense_1 # 2 # 157 # -1 # ID=92_1;partial=10;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.596
+MVLSGIRPSFPGLSRSAGQVTHVLLTRSPLEHPQRGLSVRLACVKHAASVRP
+>NR_028878.1_Mycobacterium_botniense_2 # 242 # 346 # -1 # ID=92_2;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_028878.1_Mycobacterium_botniense_3 # 348 # 506 # 1 # ID=92_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.616
+MGASLMQRRRVGDDGLRVVNLFQPRRSCGFSRGDGRGRRSTGQLRASSRGNT*
+>NR_028878.1_Mycobacterium_botniense_4 # 575 # 715 # 1 # ID=92_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.603
+MPQLNCGRAGDTGRLECCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_028878.1_Mycobacterium_botniense_5 # 688 # 795 # 1 # ID=92_5;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_028878.1_Mycobacterium_botniense_6 # 949 # 1137 # -1 # ID=92_6;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.593
+MTPAVSHESPPSRAGNMGQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNRHLCRRPVHVK
+PR*
+>NR_028878.1_Mycobacterium_botniense_7 # 1149 # 1394 # 1 # ID=92_7;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.561
+MGMTSSHHAPYVQGFTHATMAGTKGCDAVRFSESLKAGLSSDRGLQLDPVKSESLVIADQ
+QCCGEYVPGPCTHRPSRHESR*
+>NR_028808.1_Mycobacterium_montefiorense_1 # 1 # 177 # -1 # ID=93_1;partial=10;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.548
+MVIFGIRPSFPGLSRSAGQITHVLLTRSPLEYLRRGLSVRLACVKHAASVRPEPGSNSP
+>NR_028808.1_Mycobacterium_montefiorense_2 # 158 # 304 # -1 # ID=93_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.612
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTTRHASRGHIRY*
+>NR_028808.1_Mycobacterium_montefiorense_3 # 258 # 362 # -1 # ID=93_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_028808.1_Mycobacterium_montefiorense_4 # 364 # 510 # 1 # ID=93_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.612
+MGASLMQRRRVGDDGLRVVNLFQQGRSASDGTCRRSTGQLRASSRGNT*
+>NR_028808.1_Mycobacterium_montefiorense_5 # 449 # 577 # 1 # ID=93_5;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.574
+MTVPAEEAPANYVPAAAVIRRVRALSGITGRKELVGGLSRCS*
+>NR_028808.1_Mycobacterium_montefiorense_6 # 555 # 719 # 1 # ID=93_6;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.600
+MVCRVVRENRGLNPRRAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_028808.1_Mycobacterium_montefiorense_7 # 692 # 799 # 1 # ID=93_7;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_028808.1_Mycobacterium_montefiorense_8 # 992 # 1081 # -1 # ID=93_8;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.589
+MRSLRDLTQHLTTRADDSHAPPAHRPQGN*
+>NR_028808.1_Mycobacterium_montefiorense_9 # 1108 # 1260 # 1 # ID=93_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.549
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAVRLSESF*
+>NR_028808.1_Mycobacterium_montefiorense_10 # 1269 # 1508 # -1 # ID=93_10;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.583
+MIXPHLPVRLPCYDFVPIADPTFDSSLQKVRPLASGVTDFHDVTGGVYKARERIHRSVAD
+LRLLATPTSRGRVADPDPN*
+>NR_028759.1_Mycobacterium_heckeshornense_1 # 35 # 301 # -1 # ID=94_1;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.614
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPLPHAFHHTTCMARSYPVLDPVSQAYPEV
+QGRSPTCYSPVRHSSTHRSGPFRSTCMC*
+>NR_028759.1_Mycobacterium_heckeshornense_2 # 255 # 359 # -1 # ID=94_2;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_028759.1_Mycobacterium_heckeshornense_3 # 361 # 519 # 1 # ID=94_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.597
+MGASLMQRRRVGDDGLRVVNLFHHRRSRSFCCGDGRWRRSTGQLRASSRGNT*
+>NR_028759.1_Mycobacterium_heckeshornense_4 # 588 # 728 # 1 # ID=94_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.610
+MPQLNCGRAGDTGRLECCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_028759.1_Mycobacterium_heckeshornense_5 # 701 # 808 # 1 # ID=94_5;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_028759.1_Mycobacterium_heckeshornense_6 # 992 # 1150 # -1 # ID=94_6;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.591
+MTPAVSHESPPSRAGNMGQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_028759.1_Mycobacterium_heckeshornense_7 # 1162 # 1269 # 1 # ID=94_7;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.528
+MGMTSSHHAPYVQGFTHATMAGTKGCDAVRLSESL*
+>NR_025268.1_Mycobacterium_heidelbergense_1 # 2 # 160 # -1 # ID=95_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.547
+MRLEVLFGIRPSFPGLSRCAGQITHVLLTRSPLEYLRRDLSVRLACVKHAASV
+>NR_025268.1_Mycobacterium_heidelbergense_2 # 132 # 278 # -1 # ID=95_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.639
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTTRHAPRGPIRY*
+>NR_025268.1_Mycobacterium_heidelbergense_3 # 232 # 336 # -1 # ID=95_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_025268.1_Mycobacterium_heidelbergense_4 # 338 # 484 # 1 # ID=95_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.612
+MGASLMQRRRVGDDXLRVVNLFQQGRSASDGTCRRSTGQLRASSRGNT*
+>NR_025268.1_Mycobacterium_heidelbergense_5 # 423 # 551 # 1 # ID=95_5;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.574
+MTVPAEEAPANYVPAAAVIRRVRALSGITGRKELVGGLSRCS*
+>NR_025268.1_Mycobacterium_heidelbergense_6 # 529 # 693 # 1 # ID=95_6;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.600
+MVCRVVRENRGLNPRRAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_025268.1_Mycobacterium_heidelbergense_7 # 666 # 773 # 1 # ID=95_7;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_025268.1_Mycobacterium_heidelbergense_8 # 927 # 1067 # -1 # ID=95_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.567
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNRHLCRRPVHVKPR*
+>NR_025268.1_Mycobacterium_heidelbergense_9 # 1082 # 1234 # 1 # ID=95_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.556
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESF*
+>NR_025268.1_Mycobacterium_heidelbergense_10 # 1243 # 1443 # -1 # ID=95_10;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.587
+DFVPIADPTFDSSLPKVRPLASGVTDFHDVTGGVYKARERIHRSVADLRLLATPTSRGRV
+ADPDPN*
+>NR_025225.1_Mycobacterium_parmense_1 # 1 # 177 # -1 # ID=96_1;partial=10;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.548
+MVLSGIRPSFPGLSRSAGQIAHVLLTRSPLEYLRRDLSVRLACVKHAASVRPEPGSNSP
+>NR_025225.1_Mycobacterium_parmense_2 # 259 # 363 # -1 # ID=96_2;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_025225.1_Mycobacterium_parmense_3 # 365 # 511 # 1 # ID=96_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.612
+MGASLMQRRRVGDDGLRVVNLFQQGRSASDGTCRRSTGQLRASSRGNT*
+>NR_025225.1_Mycobacterium_parmense_4 # 450 # 578 # 1 # ID=96_4;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.574
+MTVPAEEAPANYVPAAAVIRRVRALSGITGRKELVGGLSRCS*
+>NR_025225.1_Mycobacterium_parmense_5 # 556 # 720 # 1 # ID=96_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.600
+MVCRVVRENRGLNPRRAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_025225.1_Mycobacterium_parmense_6 # 693 # 800 # 1 # ID=96_6;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_025225.1_Mycobacterium_parmense_7 # 954 # 1094 # -1 # ID=96_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.567
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNRHLCRRPVHVKPR*
+>NR_025225.1_Mycobacterium_parmense_8 # 1109 # 1261 # 1 # ID=96_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.556
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESF*
+>NR_025175.1_Mycobacterium_lacus_1 # 2 # 163 # -1 # ID=97_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.543
+MNLMVLSGIRPSFPGLSRSAGQITHVLLTRSPLEYLRRDLSVRLACVKHAASVR
+>NR_025175.1_Mycobacterium_lacus_2 # 135 # 281 # -1 # ID=97_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.605
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTTRHESHGPIRY*
+>NR_025175.1_Mycobacterium_lacus_3 # 235 # 339 # -1 # ID=97_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_025175.1_Mycobacterium_lacus_4 # 341 # 499 # 1 # ID=97_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.591
+MGASLMQRRRVGDDGLRVVNLFHHRRRSGFSRIDGRWRRSTGQLRASSRGNT*
+>NR_025175.1_Mycobacterium_lacus_5 # 544 # 708 # 1 # ID=97_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.576
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_025175.1_Mycobacterium_lacus_6 # 681 # 788 # 1 # ID=97_6;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_025175.1_Mycobacterium_lacus_7 # 972 # 1082 # -1 # ID=97_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_025175.1_Mycobacterium_lacus_8 # 1097 # 1249 # 1 # ID=97_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.562
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESF*
+>NR_025175.1_Mycobacterium_lacus_9 # 1258 # 1371 # -1 # ID=97_9;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.596
+MTGGVYKARERIHRSVADLRLLATPTSRGRVADPDPN*
+>NR_025000.1_Mycobacterium_kubicae_1 # 119 # 265 # -1 # ID=98_1;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.612
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTIRHASHGPIRY*
+>NR_025000.1_Mycobacterium_kubicae_2 # 219 # 323 # -1 # ID=98_2;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_025000.1_Mycobacterium_kubicae_3 # 325 # 471 # 1 # ID=98_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.612
+MGASLMQRRRVGDDGLRVVNLFQQGRSASDGTCRRSTGQLRASSRGNT*
+>NR_025000.1_Mycobacterium_kubicae_4 # 410 # 538 # 1 # ID=98_4;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.574
+MTVPAEEAPANYVPAAAVIRRVRALSGITGRKELVGGLSRCS*
+>NR_025000.1_Mycobacterium_kubicae_5 # 516 # 680 # 1 # ID=98_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.600
+MVCRVVRENRGLNPRRAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_025000.1_Mycobacterium_kubicae_6 # 653 # 760 # 1 # ID=98_6;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_025000.1_Mycobacterium_kubicae_7 # 944 # 1054 # -1 # ID=98_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_025000.1_Mycobacterium_kubicae_8 # 1069 # 1221 # 1 # ID=98_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.562
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESF*
+>NR_025000.1_Mycobacterium_kubicae_9 # 1230 # 1319 # -1 # ID=98_9;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.589
+RERIHRSVADLRLLATPTSRGRVADPDPN*
+>NR_026054.1_Mycobacterium_bohemicum_1 # 2 # 181 # -1 # ID=99_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.561
+MRLEVISGIRPSFPGLSRSAGQIAHVLLTRSPLEYLRRDLSVRLACVKHAASVRPEPGSN
+>NR_026054.1_Mycobacterium_bohemicum_2 # 153 # 299 # -1 # ID=99_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.633
+MAGHPLRPATRRRLGRPSPHQQADRPRAHPTPQKLSTTRHAPRGHIRY*
+>NR_026054.1_Mycobacterium_bohemicum_3 # 253 # 357 # -1 # ID=99_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_026054.1_Mycobacterium_bohemicum_4 # 359 # 517 # 1 # ID=99_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.604
+MGASLMQRRRVGDDGLRVVNLFHHRRRSGVSRIDGRWRRSTGQLRASSRGNT*
+>NR_026054.1_Mycobacterium_bohemicum_5 # 562 # 726 # 1 # ID=99_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_026054.1_Mycobacterium_bohemicum_6 # 699 # 806 # 1 # ID=99_6;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_026054.1_Mycobacterium_bohemicum_7 # 990 # 1100 # -1 # ID=99_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_026054.1_Mycobacterium_bohemicum_8 # 1115 # 1267 # 1 # ID=99_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.556
+MPGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESF*
+>NR_026054.1_Mycobacterium_bohemicum_9 # 1276 # 1389 # -1 # ID=99_9;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.596
+MTGGVYKARERIHRSVADLRLLATPTSRGRVADPDPN*
+>NR_025636.1_Mycobacterium_shottsii_1 # 1 # 171 # -1 # ID=100_1;partial=10;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.573
+MVLSGIRPSFPGLSRSAGQIAHVLLTRSPLEYLRGDLSVRLACVKHAASVRPEPGSN
+>NR_025636.1_Mycobacterium_shottsii_2 # 152 # 298 # -1 # ID=100_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.619
+MAGHPLRPATRRRLGRPLPHQQADRPRAHPTPQKLSTTGHESRGPIRY*
+>NR_025636.1_Mycobacterium_shottsii_3 # 252 # 356 # -1 # ID=100_3;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.619
+MQYSPLLPPVGVWAVSQSQCGRTPSQAGYPSSPW*
+>NR_025636.1_Mycobacterium_shottsii_4 # 358 # 516 # 1 # ID=100_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.591
+MGASLMQRRRVGDDGLRVVNLFHHRRRFGFSRIDGRWRRSTGQLRASSRGNT*
+>NR_025636.1_Mycobacterium_shottsii_5 # 561 # 725 # 1 # ID=100_5;partial=00;start_type=GTG;rbs_motif=CTGGGC;rbs_spacer=15bp;gc_cont=0.570
+MVCRVVREISRLNCERAGDTGRLEYCRGDWNSWCSGGMRRYQEEHRWRRRVSGQ*
+>NR_025636.1_Mycobacterium_shottsii_6 # 698 # 805 # 1 # ID=100_6;partial=00;start_type=GTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.593
+MAKAGLWAVTDAEERKRGERTGLDTLVVHAVNGGY*
+>NR_025636.1_Mycobacterium_shottsii_7 # 989 # 1099 # -1 # ID=100_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+MRQGLRSLRDLTQHLTTRADDSHAPPAHRPQGNAYL*
+>NR_025636.1_Mycobacterium_shottsii_8 # 1117 # 1404 # 1 # ID=100_8;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.573
+MGTRERLPGSTRRKVGMTSSHHAPYVQGFTHATMAGTKGCDAARLSESFKAGLSSDRGLQ
+LDPVKSESLVIADQQRCGEYVPGPCTHRPSRHESR*

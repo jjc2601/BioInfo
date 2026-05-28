@@ -1,0 +1,20 @@
+AOKDPPHH_03798	99.157	1543	11	1	0.0	2776	Stenotrophomonas forensis strain DFS-20110405 16S ribosomal RNA, complete sequence	gi|2962412342|ref|NR_199537.1|
+AOKDPPHH_03798	99.154	1536	13	0	0.0	2765	Stenotrophomonas maltophilia strain IAM 12423 16S ribosomal RNA, partial sequence	gi|343200890|ref|NR_041577.1|
+AOKDPPHH_03798	99.144	1519	13	0	0.0	2747	Stenotrophomonas hibiscicola strain ATCC 19867 16S ribosomal RNA, partial sequence	gi|219856890|ref|NR_024709.1|
+AOKDPPHH_03798	98.748	1517	19	0	0.0	2712	Stenotrophomonas beteli strain ATCC 19861 16S ribosomal RNA, partial sequence	gi|343200117|ref|NR_040804.1|
+AOKDPPHH_03798	99.133	1500	13	0	0.0	2700	Stenotrophomonas maltophilia strain LMG 958 16S ribosomal RNA, partial sequence	gi|645322481|ref|NR_119220.1|
+AOKDPPHH_03803	99.028	1543	13	1	0.0	2765	Stenotrophomonas forensis strain DFS-20110405 16S ribosomal RNA, complete sequence	gi|2962412342|ref|NR_199537.1|
+AOKDPPHH_03803	99.154	1536	13	0	0.0	2765	Stenotrophomonas maltophilia strain IAM 12423 16S ribosomal RNA, partial sequence	gi|343200890|ref|NR_041577.1|
+AOKDPPHH_03803	99.013	1519	15	0	0.0	2736	Stenotrophomonas hibiscicola strain ATCC 19867 16S ribosomal RNA, partial sequence	gi|219856890|ref|NR_024709.1|
+AOKDPPHH_03803	99.133	1500	13	0	0.0	2700	Stenotrophomonas maltophilia strain LMG 958 16S ribosomal RNA, partial sequence	gi|645322481|ref|NR_119220.1|
+AOKDPPHH_03803	98.616	1517	21	0	0.0	2700	Stenotrophomonas beteli strain ATCC 19861 16S ribosomal RNA, partial sequence	gi|343200117|ref|NR_040804.1|
+AOKDPPHH_04179	99.028	1543	13	1	0.0	2765	Stenotrophomonas forensis strain DFS-20110405 16S ribosomal RNA, complete sequence	gi|2962412342|ref|NR_199537.1|
+AOKDPPHH_04179	99.154	1536	13	0	0.0	2765	Stenotrophomonas maltophilia strain IAM 12423 16S ribosomal RNA, partial sequence	gi|343200890|ref|NR_041577.1|
+AOKDPPHH_04179	99.013	1519	15	0	0.0	2736	Stenotrophomonas hibiscicola strain ATCC 19867 16S ribosomal RNA, partial sequence	gi|219856890|ref|NR_024709.1|
+AOKDPPHH_04179	99.133	1500	13	0	0.0	2700	Stenotrophomonas maltophilia strain LMG 958 16S ribosomal RNA, partial sequence	gi|645322481|ref|NR_119220.1|
+AOKDPPHH_04179	98.616	1517	21	0	0.0	2700	Stenotrophomonas beteli strain ATCC 19861 16S ribosomal RNA, partial sequence	gi|343200117|ref|NR_040804.1|
+AOKDPPHH_04184	98.531	1498	18	3	0.0	2641	Stenotrophomonas forensis strain DFS-20110405 16S ribosomal RNA, complete sequence	gi|2962412342|ref|NR_199537.1|
+AOKDPPHH_04184	98.525	1492	20	2	0.0	2632	Stenotrophomonas maltophilia strain IAM 12423 16S ribosomal RNA, partial sequence	gi|343200890|ref|NR_041577.1|
+AOKDPPHH_04184	98.515	1481	20	2	0.0	2625	Stenotrophomonas hibiscicola strain ATCC 19867 16S ribosomal RNA, partial sequence	gi|219856890|ref|NR_024709.1|
+AOKDPPHH_04184	98.109	1481	26	2	0.0	2601	Stenotrophomonas geniculata ATCC 19374 = JCM 13324 16S ribosomal RNA, partial sequence	gi|219856889|ref|NR_024708.1|
+AOKDPPHH_04184	98.506	1473	20	2	0.0	2599	Stenotrophomonas pavanii strain LMG 25348 16S ribosomal RNA, partial sequence	gi|645320911|ref|NR_118008.1|

@@ -1,0 +1,101 @@
+n_sequences, cluster_id, query_id, %_identity, alignment_length, mismatches, gap_opens, evalue, bit_score, subject_titles
+BLAST_out_clusters
+10	280  94.737 209 9 2 8.57e	90 324 Misgurnus anguillicaudatus mitochondrion, complete genome gb|KC762740.1|
+106	357  100.000 166 0 0 8.43e	85 307 Awaous stamineus voucher PH_ref-5 small subunit ribosomal RNA gene, partial sequence; mitochondrial gb|MT656126.1|
+11	378  94.231 208 6 5 1.85e	86 313 Misgurnus anguillicaudatus mitochondrion, complete genome gb|HM856629.1|
+1126	3  99.517 207 1 0 6.51e	106 377 Hypostomus robinii isolate IPW012 small subunit ribosomal RNA gene, partial sequence; mitochondrial gb|MZ329656.1|
+12	176  98.058 206 1 3 3.03e	99 355 Hypostomus robinii isolate IPW012 small subunit ribosomal RNA gene, partial sequence; mitochondrial gb|MZ329656.1|
+12	250  100.000 198 0 0 1.42e	102 366 Hypostomus robinii isolate IPW012 small subunit ribosomal RNA gene, partial sequence; mitochondrial gb|MZ329656.1|
+12	321  99.024 205 1 1 1.39e	102 366 Ancistrus temminckii mitochondrion, complete genome gb|MT528234.1|
+12	74  98.661 224 1 2 1.91e	111 396 Clarias fuscus mitochondrion, complete genome gb|KJ819540.1|
+126	256  99.441 179 1 0 2.34e	90 326 Awaous stamineus voucher PH_ref-5 small subunit ribosomal RNA gene, partial sequence; mitochondrial gb|MT656126.1|
+13	262  97.129 209 2 2 1.40e	97 350 Clarias fuscus mitochondrion, complete genome gb|KJ819540.1|
+13	272  94.608 204 9 2 5.18e	87 315 Misgurnus anguillicaudatus mitochondrion, complete genome gb|KC762740.1|
+13	330  94.686 207 9 2 1.11e	88 320 Misgurnus anguillicaudatus mitochondrion, complete genome gb|KC762740.1|
+13	332  94.258 209 9 3 1.43e	87 316 Hypostomus robinii isolate IPW012 small subunit ribosomal RNA gene, partial sequence; mitochondrial gb|MZ329656.1|
+135	162  99.038 208 1 1 3.02e	104 372 Xiphophorus hellerii strain RR-B mitochondrion, complete genome gb|FJ234985.1|
+14	157  94.737 209 9 2 8.53e	90 324 Misgurnus anguillicaudatus mitochondrion, complete genome gb|KC762740.1|
+14	629  97.512 201 4 1 2.36e	95 342 Poecilia reticulata mitochondrion, complete genome gb|KJ013505.1|
+15	299  98.049 205 3 1 3.06e	99 355 Homo sapiens haplogroup H1J6 mitochondrion, complete genome gb|KM582873.1|
+15	323  94.231 208 6 6 1.84e	86 313 Misgurnus anguillicaudatus mitochondrion, complete genome gb|HM856629.1|
+154	184  99.524 210 0 1 5.09e	107 381 Xiphophorus hellerii strain RR-B mitochondrion, complete genome gb|FJ234985.1|
+17	148  100.000 205 0 0 1.78e	106 379 Hypostomus robinii isolate IPW012 small subunit ribosomal RNA gene, partial sequence; mitochondrial gb|MZ329656.1|
+17	168  99.537 216 1 0 6.69e	111 394 Trachemys scripta troostii mitochondrion, complete genome gb|MW122292.1|
+18	300  99.515 206 1 0 2.31e	105 375 Hypostomus robinii isolate IPW012 small subunit ribosomal RNA gene, partial sequence; mitochondrial gb|MZ329656.1|
+18	34  93.182 44 3 0 6.07e	12 65.8 Sphyraena barracuda mitochondrion, complete genome ref|NC_022484.1|
+185	196  100.000 206 0 0 4.99e	107 381 Ancistrus temminckii mitochondrion, complete genome gb|MT528234.1|
+19	115  99.123 114 1 0 3.43e	54 206 Ancistrus temminckii mitochondrion, complete genome gb|MT528234.1|
+197	217  100.000 206 0 0 4.97e	107 381 Hypostomus robinii isolate IPW012 small subunit ribosomal RNA gene, partial sequence; mitochondrial gb|MZ329656.1|
+20	192  98.454 194 1 2 8.31e	95 340 Hypostomus robinii isolate IPW012 small subunit ribosomal RNA gene, partial sequence; mitochondrial gb|MZ329656.1|
+20	195  100.000 206 0 0 4.95e	107 381 Ancistrus temminckii mitochondrion, complete genome gb|MT528234.1|
+20	224  100.000 196 0 0 1.79e	101 363 Ancistrus temminckii mitochondrion, complete genome gb|MT528234.1|
+20	305  94.762 210 9 2 2.38e	90 326 Clarias fuscus mitochondrion, complete genome gb|KJ819540.1|
+21	294  99.398 166 1 0 3.92e	83 302 Awaous stamineus voucher PH_ref-5 small subunit ribosomal RNA gene, partial sequence; mitochondrial gb|MT656126.1|
+21	416  94.737 209 9 2 8.60e	90 324 Misgurnus anguillicaudatus mitochondrion, complete genome gb|KC762740.1|
+214	235  100.000 205 0 0 1.80e	106 379 Ancistrus temminckii mitochondrion, complete genome gb|MT528234.1|
+22	191  98.544 206 3 0 5.01e	102 364 Hypostomus robinii isolate IPW012 small subunit ribosomal RNA gene, partial sequence; mitochondrial gb|MZ329656.1|
+22	21  100.000 204 0 0 6.43e	106 377 Hypostomus robinii isolate IPW012 small subunit ribosomal RNA gene, partial sequence; mitochondrial gb|MZ329656.1|
+23	73  100.000 206 0 0 4.95e	107 381 Ancistrus temminckii mitochondrion, complete genome gb|MT528234.1|
+23	83  99.130 115 1 0 9.60e	55 207 Clarias fuscus mitochondrion, complete genome gb|KF188424.1|
+235	239  100.000 206 0 0 4.99e	107 381 Hypostomus robinii isolate IPW012 small subunit ribosomal RNA gene, partial sequence; mitochondrial gb|MZ329656.1|
+24	108  100.000 217 0 0 4.00e	113 401 Trachemys scripta troostii mitochondrion, complete genome gb|MW122292.1|
+27	429  100.000 167 0 0 2.36e	85 309 Awaous stamineus voucher PH_ref-5 small subunit ribosomal RNA gene, partial sequence; mitochondrial gb|MT656126.1|
+29	106  100.000 197 0 0 5.05e	102 364 Hypostomus robinii isolate IPW012 small subunit ribosomal RNA gene, partial sequence; mitochondrial gb|MZ329656.1|
+301	39  99.522 209 1 0 5.03e	107 381 Clarias fuscus mitochondrion, complete genome gb|KJ819540.1|
+304	141  100.000 210 0 0 3.02e	109 388 Clarias fuscus mitochondrion, complete genome gb|KJ819540.1|
+32	139  100.000 206 0 0 5.01e	107 381 Hypostomus robinii isolate IPW012 small subunit ribosomal RNA gene, partial sequence; mitochondrial gb|MZ329656.1|
+323	0  99.515 206 1 0 2.25e	105 375 Ancistrus temminckii mitochondrion, complete genome gb|MT528234.1|
+34	152  98.454 194 1 2 8.41e	95 340 Ancistrus temminckii mitochondrion, complete genome gb|MT528234.1|
+35	371  94.686 207 9 2 1.12e	88 320 Misgurnus anguillicaudatus mitochondrion, complete genome gb|KC762740.1|
+37	189  99.524 210 1 0 1.42e	107 383 Clarias fuscus mitochondrion, complete genome gb|KJ819540.1|
+38	386  99.500 200 0 1 1.77e	101 363 Homo sapiens haplogroup H1J6 mitochondrion, complete genome gb|KM582873.1|
+49	77  100.000 165 0 0 3.03e	84 305 Awaous stamineus voucher PH_ref-5 small subunit ribosomal RNA gene, partial sequence; mitochondrial gb|MT656126.1|
+5	147  88.839 224 17 6 4.42e	73 268 Misgurnus anguillicaudatus mitochondrion, complete genome gb|KC762740.1|
+5	172  94.231 208 10 2 1.43e	87 316 Misgurnus anguillicaudatus mitochondrion, complete genome gb|KC762740.1|
+5	229  99.507 203 1 0 1.10e	103 370 Hypostomus robinii isolate IPW012 small subunit ribosomal RNA gene, partial sequence; mitochondrial gb|MZ329656.1|
+5	320  95.261 211 4 5 1.85e	91 329 Ancistrus temminckii mitochondrion, complete genome gb|MT528234.1|
+5	399  95.169 207 3 4 1.09e	88 320 Hypostomus robinii isolate IPW012 small subunit ribosomal RNA gene, partial sequence; mitochondrial gb|MZ329656.1|
+5	479  99.029 206 2 0 1.08e	103 370 Homo sapiens haplogroup H1J6 mitochondrion, complete genome gb|KM582873.1|
+5	482  90.521 211 7 10 1.45e	72 267 Ancistrus temminckii mitochondrion, complete genome gb|MT528234.1|
+5	611  97.044 203 5 1 8.51e	95 340 Poecilia reticulata mitochondrion, complete genome gb|KJ013505.1|
+5	625  98.352 182 0 2 1.43e	87 316 Awaous stamineus voucher PH_ref-5 small subunit ribosomal RNA gene, partial sequence; mitochondrial gb|MT656126.1|
+5	95  99.394 165 1 0 1.24e	82 300 Xiphophorus hellerii strain RR-B mitochondrion, complete genome gb|FJ234985.1|
+5	99  94.286 210 4 6 5.08e	87 315 Xiphophorus hellerii strain RR-B mitochondrion, complete genome gb|FJ234985.1|
+52	407  100.000 203 0 0 2.29e	105 375 Amatitlania nigrofasciata voucher AN15758 small subunit ribosomal RNA gene, partial sequence; mitochondrial OK576391.1
+524	140  99.512 205 1 0 8.36e	105 374 Ancistrus temminckii mitochondrion, complete genome gb|MT528234.1|
+56	225  99.515 206 1 0 2.31e	105 375 Ancistrus temminckii mitochondrion, complete genome gb|MT528234.1|
+6	1  94.286 210 6 4 1.42e	87 316 Clarias fuscus mitochondrion, complete genome gb|KJ819540.1|
+6	29  99.087 219 1 1 2.52e	110 392 Hypostomus robinii isolate IPW012 small subunit ribosomal RNA gene, partial sequence; mitochondrial gb|MZ329656.1|
+6	333  96.635 208 4 2 2.38e	95 342 Clarias fuscus mitochondrion, complete genome gb|KJ819540.1|
+6	394  99.020 204 0 2 5.15e	102 364 Micropterus dolomieu strain NEFC_F16-140 mitochondrion, complete genome gb|MF621710.1|
+6	451  94.146 205 6 4 8.43e	85 307 Ancistrus temminckii mitochondrion, complete genome gb|MT528234.1|
+6	718  95.906 171 3 2 8.75e	75 274 Awaous stamineus voucher PH_ref-5 small subunit ribosomal RNA gene, partial sequence; mitochondrial gb|MT656126.1|
+64	93  96.154 208 1 1 1.40e	92 333 Xiphophorus hellerii strain RR-B mitochondrion, complete genome gb|FJ234985.1|
+66	278  99.029 206 1 1 3.84e	103 368 Amatitlania nigrofasciata voucher AN15758 small subunit ribosomal RNA gene, partial sequence; mitochondrial OK576391.1
+7	130  97.653 213 3 2 5.17e	102 364 Clarias fuscus mitochondrion, complete genome gb|KJ819540.1|
+7	159  100.000 153 0 0 1.16e	77 283 Clarias fuscus mitochondrion, complete genome gb|KJ819540.1|
+7	277  98.551 207 1 2 4.99e	102 364 Ancistrus temminckii mitochondrion, complete genome gb|MT528234.1|
+7	423  93.301 209 11 3 3.12e	84 305 Clarias fuscus mitochondrion, complete genome gb|KJ819540.1|
+7	49  99.375 160 0 1 2.58e	79 289 Hypostomus robinii isolate IPW012 small subunit ribosomal RNA gene, partial sequence; mitochondrial gb|MZ329656.1|
+7	585  100.000 203 0 0 2.30e	105 375 Micropterus dolomieu strain NEFC_F16-140 mitochondrion, complete genome gb|MF621710.1|
+7	623  96.135 207 4 3 3.88e	93 335 Hypostomus robinii isolate IPW012 small subunit ribosomal RNA gene, partial sequence; mitochondrial gb|MZ329656.1|
+7	87  98.104 211 3 1 1.43e	102 366 Clarias fuscus mitochondrion, complete genome gb|KJ819540.1|
+71	63  100.000 206 0 0 4.93e	107 381 Hypostomus robinii isolate IPW012 small subunit ribosomal RNA gene, partial sequence; mitochondrial gb|MZ329656.1|
+8	216  98.068 207 3 1 2.39e	100 359 Ancistrus temminckii mitochondrion, complete genome gb|MT528234.1|
+8	376  93.532 201 11 2 5.05e	82 298 Ancistrus temminckii mitochondrion, complete genome gb|MT528234.1|
+8	71  100.000 204 0 0 6.36e	106 377 Ancistrus temminckii mitochondrion, complete genome gb|MT528234.1|
+8	98  98.261 115 1 1 1.61e	52 200 Hypostomus robinii isolate IPW012 small subunit ribosomal RNA gene, partial sequence; mitochondrial gb|MZ329656.1|
+84	136  100.000 202 0 0 8.36e	105 374 Hypostomus robinii isolate IPW012 small subunit ribosomal RNA gene, partial sequence; mitochondrial gb|MZ329656.1|
+87	282  100.000 206 0 0 4.97e	107 381 Ancistrus temminckii mitochondrion, complete genome gb|MT528234.1|
+9	119  91.304 46 4 0 2.13e	11 63.9 Sus scrofa mitochondrion, complete genome gb|MN624263.1|
+9	181  99.034 207 1 1 1.10e	103 370 Xiphophorus hellerii strain RR-B mitochondrion, complete genome gb|FJ234985.1|
+9	211  98.571 210 3 0 3.05e	104 372 Clarias fuscus mitochondrion, complete genome gb|KJ819540.1|
+9	352  99.034 207 1 1 1.09e	103 370 Ancistrus temminckii mitochondrion, complete genome gb|MT528234.1|
+9	37  99.543 219 1 0 1.50e	112 399 Hypostomus robinii isolate IPW012 small subunit ribosomal RNA gene, partial sequence; mitochondrial gb|MZ329656.1|
+9	460  93.659 205 9 4 1.11e	83 303 Misgurnus anguillicaudatus mitochondrion, complete genome gb|KC762740.1|
+9	489  100.000 204 0 0 6.46e	106 377 Hypostomus robinii isolate IPW012 small subunit ribosomal RNA gene, partial sequence; mitochondrial gb|MZ329656.1|
+9	545  98.537 205 3 0 1.80e	101 363 Poecilia reticulata mitochondrion, complete genome gb|KJ013505.1|
+9	587  99.441 179 1 0 2.31e	90 326 Awaous stamineus voucher PH_ref-5 small subunit ribosomal RNA gene, partial sequence; mitochondrial gb|MT656126.1|
+9	7  96.172 209 1 4 3.88e	93 335 Ancistrus temminckii mitochondrion, complete genome gb|MT528234.1|
+9	91  97.573 206 4 1 3.90e	98 351 Homo sapiens haplogroup H1J6 mitochondrion, complete genome gb|KM582873.1|
+ 

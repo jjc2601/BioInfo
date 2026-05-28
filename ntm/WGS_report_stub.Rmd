@@ -1,0 +1,337 @@
+---
+title: "WGS Unknown NTM_22-11 Investigation"
+output:
+     pdf_document: default
+     html_document: default
+header-includes:
+  - \usepackage{booktabs}
+  - \usepackage{array}
+  - \usepackage{xcolor}
+  - \usepackage{colortbl}
+---
+
+## Preface
+
+
+We have recieved unknown samples of Non-tuberculous mycobacteria (NTM) collected in Hawai'i, a region with the highest 
+reported incidence of NTM infection in the United States. NTMs are a diverse group of over 200 speicies of bacteria found in
+soil,freshwater,facuets and showerheads, where they can multiply. Exposure to these types of environments, particularly in Hawaii's humid environment, 
+promotes NTM survival and transimission, posing as a huge risk for the public. The National Institute of Health stated that Hawaii has two-fold
+greater than the national average risk of infection, causing issues in the lungs. Despite the dangers of NTMS, the diversity of NTMs
+in Hawai'i is still incompletely discovered. A clinical laboratory in Hawaii collected NTM_22-11 as a potentially novel NTM. 
+In order to confirm the identity of the samples, we have performed whole genome sequencing (WGS) on the samples using the Oxford Nanopore MinION sequencing platform.
+Samples were prepared using the rapid barcoding kit (SQK-RBK114.24) and sequenced on a MinION flow cell.
+Raw sequencing data were basecalled and demutiplexed with Doroado v0.8.2, where reads were filtered using Chopper.
+Draft genomes were assembled using Flye v2.8.3 and polished using Medaka v1.0.3. Genomic characterization of NTM_22-11 will help
+us discover potentially novel speicies that affect the public health.
+
+```{r warning=FALSE, message=FALSE}
+library(stringr)
+library(dplyr)
+library(ggplot2)
+library(knitr)
+library(kableExtra)
+library(ape)
+```
+
+## Completeness Check
+Here, we want to measure the genome completeness. Using Docker and CheckM, it allows us to estimate how much of the 
+expected bacterial genome is present by searching genes that should exsist in all bacteria. Where the clincial labatory in Hawaii
+collected samples, there is a possibility of other environmental bacteria present in the data. CheckM flags contamination so that
+genome size isn't inflated. Overall Checkm is used to make sure NTM_22-11 is accurately represented as a single bacteria.
+
+
+```{sh eval=FALSE}
+# Running checkM
+# Place the docker command for checkM here
+docker pull nanozoo/checkm
+docker run --name=checkm \
+--rm \
+--volume=$PWD:/home \
+--workdir=/home \
+-it nanozoo/checkm:latest
+
+checkm taxonomy_wf domain Bacteria -t 2 -x fasta ./ ./checkm_out
+
+checkm qa -o 2 --tab_table -t 2 \
+-f checkm_out/summary.tsv checkm_out/Bacteria.ms checkm_out
+
+```
+
+
+```{r}
+# Read in the checkM summary
+checkm <- read.csv("checkm_out/summary.tsv", sep = "\t")
+
+# Create tables for checkM completion and contamination
+# Make sure to include the following fields: Bin.Id, Marker.lineage, Completeness, Contamination
+# Make sure to rename the columns to ID, Lineage, Completeness, Contamination
+checkm_table <- data.frame(checkm)
+checkm_table_renamed <- checkm_table %>%
+  select(ID = Bin.Id, Lineage = Marker.lineage, Completeness = Completeness, Contamination = Contamination)
+
+# Create table for checkM additional summary stats
+# Make sure to include the following fields: Bin.Id, Genome.size..bp., GC, X..contigs, N50..contigs.
+# Make sure to rename the columns to ID, Genome Size (bp), GC, Contig #, N50
+checkm_stats <- checkm_table %>%
+select(Bin.Id, Genome.size..bp., GC, X..contigs, N50..contigs.) %>%
+rename(ID = Bin.Id, Genome_Size_bp = Genome.size..bp., Contigs = X..contigs, N50 = N50..contigs.)
+```
+
+```{r}
+# Print tables
+# checkm_table_renamed %>%
+#   kable("latex", booktabs = TRUE, caption = "CheckM Overview",
+#         col.names = "Overview stats") %>%
+#   kable_styling(latex_options = c("striped", "hold_position"))
+
+kable(checkm_table_renamed)
+
+# checkm_stats %>%
+#   kable("latex", booktabs = TRUE, caption = "CheckM Summary Stats",
+#         col.names = "Summary stats") %>%
+#   kable_styling(latex_options = c("striped", "hold_position"))
+
+kable(checkm_stats)
+```
+
+## Prokka Annotation
+The next step is to turn raw DNA sequences into something that is readable. The genome contain the string of "A","T","C","G". Prokka
+allows us to look at the tRNA, rRNA and other elements within the genome to conduct an analysis. Prokka also makes sure our NTM is novel since the gene content
+allows us to distinguish between different NTMs. 
+
+```{sh eval=FALSE}
+# Running Prokka
+# Place the docker command for Prokka here
+docker run --name=prokka \
+--rm \
+--volume=$PWD:/data \
+-it staphb/prokka:latest
+
+prokka --outdir prokka_out --prefix prokka_annotation \
+--cpus 8 NTM_22-11.fasta
+```
+
+
+```{r}
+# Read in the prokka annotation
+prokkat <- read.csv("prokka_out/prokka_annotation.tsv",sep = "\t")
+# Summarize the prokka annotation
+# You will need to count the number of CDS, tRNA, rRNA, and non-hypothetical CDS
+# Number of genes annotated
+#prokkat$ftype[1]
+CDS_count <- 0
+rRNA_count <- 0
+tRNA_count <- 0
+non_hypoCDS_count <- 0 
+for(i in 1:nrow(prokkat)){
+  if(prokkat$ftype[i] == "CDS"){
+    CDS_count <- CDS_count + 1
+  }else if(prokkat$ftype[i] == "rRNA"){
+    rRNA_count <- rRNA_count + 1
+  }else if(prokkat$ftype[i] == "tRNA"){
+    tRNA_count <- tRNA_count + 1
+  }
+}
+
+for(i in 1:nrow(prokkat)){
+if(prokkat$product[i] != "hypothetical protein"){
+non_hypoCDS_count <- non_hypoCDS_count + 1
+}
+
+}
+  CDS_count
+# Combine the counts into a table
+# Make sure to clear the rownames for clean formatting 
+prokka_summary <- data.frame(
+CDS = CDS_count,
+tRNA = tRNA_count,
+rRNA = rRNA_count,
+non_hypoCDS = non_hypoCDS_count
+)
+```
+
+```{r}
+# Print table
+kable(prokka_summary)
+# prokka_summary %>%
+#   kable("latex", booktabs = TRUE, caption = "Prokka Annotation Summary") %>%
+#   kable_styling(latex_options = c("striped", "hold_position"))
+```
+
+
+```{r}
+# Check to see if 16S is present & extract if present
+#use ape
+prokka <- read.FASTA("prokka_out/prokka_annotation.ffn")
+# class(prokka) 
+# str(prokka)
+# names(prokka)
+RNA <- prokka[grep("16S ribosomal", names(prokka))]
+write.FASTA(RNA, file = "16S_unkownNTM.fasta")
+
+```
+
+
+## BLAST 16S rRNA Identification
+The 16S rRNA gene is used for identifying bacterial because it is in almost all bacteria, has conserved regions that is unique to 
+each bacteria. Running BLASTn with our bacteria determines whether NTM_22-11's genomic representation is close to other
+bacteria speicies. When a result shows a high similarity to other bacteria but no exact matches, it tells us 
+that NTM_22-11 could be novel. 
+
+```{sh eval=FALSE}
+# Running BLAST
+# Place the docker command for BLAST here
+Docker build -t 16sblast:local .
+
+docker run --name=blastn \
+--rm \
+--volume=$PWD:/home \
+--workdir=/home \
+-it 16sblast:local
+```
+
+```{r}
+# Read in the BLAST results
+blast <- read.delim("blast_results.txt", header = FALSE)
+# Make sure to remove columns 4, 5, and 9
+# Make sure to parse species name from column V8 and add it as a new column
+# Make sure to rename the columns to Sample ID, Identity (%), Length, E-value, Bit Score, Species
+drops <- c(colnames(blast[4]),colnames(blast[5]), colnames(blast[9]))
+blast <- blast[, !names(blast) %in% drops]
+```
+
+```{r}
+# Create table
+kable(blast)
+# blast %>%
+#   kable("latex", booktabs = TRUE, caption = "16S BLAST Results",
+#         col.names = c("Sample ID", "Identity (%)", "Length", "E-value", "Bit Score", "Species"))
+```
+
+## Phylogenetic ID based on 16S rRNA
+Next, we map the similar bacteria on a Phylogenetic tree to understand the evolution of each bacteria, and how close it is 
+to NTM_22-11. THe tree will visually tell us whether NTM_22-11 groups with other bacterial speicies or formed a seperate branch 
+from an exsiting bacteria. Using MUSCLE in this process will allow us to align the 16s rRNA gene to create the phylogentic tree. IQ TREE allows us
+to test multiple models for the best fitted model when it comes to creating the phylogentic tree. BLAST on its own isn't the most accurate way to 
+tell if NTM_22-11 is novel since many bacterial speicies sharing almost the same 16S identity. The phylogentic tree gives us an representation of
+the evolution of bacterias that can be similar to NTM_22-11.
+```{r}
+one <- read.FASTA("16S_unkownNTM.fasta")
+two <- read.FASTA("modified_representative_seqs.fasta")
+three <- read.FASTA("outgroup.fasta")
+
+out <- c(one, two, three)
+write.FASTA(out, "combined_1.fasta")
+```
+
+```{sh eval=FALSE}
+# Running MUSCLE and IQ-TREE
+# Place the docker command for MUSCLE and IQ-TREE here
+#muscle
+docker run --name=muscle \
+    --rm \
+    -v $PWD:/data \
+    --workdir=/data \
+    pegi3s/muscle -in /data/combined_1.fasta -out /data/musclecombined.fasta 
+
+#tree
+docker run --name=iqtree2 \
+--rm \
+--volume=$PWD:/home \
+--workdir=/home \
+staphb/iqtree2:latest iqtree2 -s musclecombined.fasta -m TEST -B 1000 -T 8
+```
+
+
+```{r}
+# Read in the tree and root at outgroup
+tree <- read.tree("musclecombined.fasta.contree")
+# Use ?root for info
+tree$tip.label
+root <- root(tree, outgroup = "NR_044590.1_Hoyosella_altamirensis")
+# Define the name of the unknown sample
+unknown_sample1 <- "AOKDPPHH_03798"
+unknown_sample2 <- "AOKDPPHH_03803"
+unknown_sample3 <- "AOKDPPHH_04179"
+unknown_sample4 <- "AOKDPPHH_04184"
+
+# Create a vector of colors for the tips
+# Make the unknown sample a different color from the rest
+tip_colors <- "black"
+tip_colors[str_detect(tree$tip.label, unknown_sample1)] <- "red"
+tip_colors[str_detect(tree$tip.label, unknown_sample2)] <- "red"
+tip_colors[str_detect(tree$tip.label, unknown_sample3)] <- "red"
+tip_colors[str_detect(tree$tip.label, unknown_sample4)] <- "red"
+```
+
+```{r fig.width = 13, fig.height = 16, fig.cap = "Phylogenetic tree of the unknown NTM sample based on the 16S rRNA gene."}
+# Plot the tree
+plot(tree, tip.color = tip_colors, cex = 0.7)
+nodelabels(tree$node.label, cex = 0.7, frame = "none", adj = c(1, -0.5))
+```
+
+
+## Antimicrobial Resistance Gene Identification
+NTMs are usually resistant to many antibotics, thus infections are hard to treat. Using AMRFinderPLUs allows us to 
+detect known antimicrobial resistance genes in NTM_22-11. This could help reserachers understand what kinds of antibiotics 
+are ineffective against NTM_22-11 so that they can create an effective treatment. 
+```{sh eval=FALSE}
+# Running AMRFinderPlus
+# Place the docker command for AMRFinderPlus here
+docker pull ncbi/amr:latest
+
+docker run --name=amrfinder \
+--rm \
+--volume=$PWD:/home \
+--workdir=/home \
+ncbi/amr:latest amrfinder \
+    --threads 8 \
+    -a prokka \
+    -p ./prokka_out/prokka_annotation.faa \
+    -g ./prokka_out/prokka_annotation.gff --print_node \
+    --plus \
+    --protein_output ./amr_genes/amrfinder_pro.fasta >./amr_genes/amrfinder_pro_results.tsv
+
+```
+
+
+```{r}
+# Read in the AMR results
+# Extract the Protein.identifier, Gene.symbol, and Sequence.name columns into a new data frame
+# Rename the columns to Protein ID, Gene Symbol, and Sequence Name
+amrs <- read.csv("amr_genes/amrfinder_pro_results.tsv", sep = "\t")
+amr_summary <- data.frame(amrs) %>%
+select (Protein.id, Element.name, Element.symbol) %>%
+rename(Protein_ID = Protein.id, Gene_Symbol = Element.symbol, Sequence_Name = Element.name)
+
+```
+
+```{r}
+kable(amr_summary)
+# amr_summary %>%
+  # kable("latex", booktabs = TRUE, caption = "AMR Gene Summary",
+  #       col.names = c("Protein ID", "Gene Symbol", "Sequence Name")) %>%
+  # kable_styling(latex_options = c("striped", "hold_position"))
+
+```
+
+
+## Conclusions
+From observing the phylogentic tree, multiple Mycobacterium speicies could be found across the branches. 
+This means that across most Mycobacterium speicies, it is similar to the NTM_22-11 bacteria. 
+With four unkown speicies in red, they represent multiple 16s rRna gene copies from NTM_22-11 or similar contigs 
+from the same genome. We also observed that the phylogentic tree is compressed because the 16s rRNA 
+gene fits very closely to other Mycobacterium species, so it is hard to diffierinate NTM_22-11 from other NTMs. Thus,
+there is no final conclusion on whether NTM_22-11 is a novel speicies. More in depth analysis such as nucleotide identitfication
+may be used to further investigate whether NTM_22-11 is a novel bacteria species. Despite not having a defenitive answer,
+there are information on what antibiotics the potential NTM is resistant to. 
+
+## Source
+https://pmc.ncbi.nlm.nih.gov/articles/PMC5631500/
+
+```{r eval=FALSE, echo=FALSE}
+library(tinytex)
+library(rmarkdown)
+render("WGS_report_stub.Rmd", output_format = "pdf_document")
+```

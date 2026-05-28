@@ -1,0 +1,135 @@
+BLAST_out_clusters
+10	184		95.755	212	2	4	4.04e	93	335	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+10	262		99.522	209	1	0	5.03e	107	381	Clarias	fuscus	mitochondrion,	complete	genome	gb|KJ819540.1|
+10	303		97.087	206	2	4	6.50e	96	344	Ancistrus	temminckii	mitochondrion,	complete	genome	gb|MT528234.1|
+10	434		98.551	207	3	0	1.40e	102	366	Ancistrus	temminckii	mitochondrion,	complete	genome	gb|MT528234.1|
+10	519		98.058	206	1	1	2.99e	99	355	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+10	552		99.029	206	1	1	3.89e	103	368	Ancistrus	temminckii	mitochondrion,	complete	genome	gb|MT528234.1|
+10	86		97.115	208	6	0	3.93e	98	351	Ancistrus	temminckii	mitochondrion,	complete	genome	gb|MT528234.1|
+102	267		99.015	203	0	1	1.78e	101	363	Sus	scrofa	mitochondrion,	complete	genome	gb|MK251046.1|
+103	22		100.000	210	0	0	3.04e	109	388	Clarias	fuscus	mitochondrion,	complete	genome	gb|KJ819540.1|
+104	277		99.515	206	1	0	2.34e	105	375	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+104	281		100.000	202	0	0	8.32e	105	374	Micropterus	dolomieu	strain	NEFC_F16-140	mitochondrion,	complete	genome	gb|MF621710.1|
+1043	24		100.000	208	0	0	3.92e	108	385	Ancistrus	temminckii	mitochondrion,	complete	genome	gb|MT528234.1|
+107	10		99.517	207	1	0	6.54e	106	377	Clarias	fuscus	mitochondrion,	complete	genome	gb|KJ819540.1|
+11	111		99.123	114	1	0	3.40e	54	206	Ancistrus	temminckii	mitochondrion,	complete	genome	gb|MT528234.1|
+11	241		98.077	208	2	1	6.53e	101	361	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+11	444		98.068	207	3	1	2.36e	100	359	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+11	664		95.122	164	4	3	3.02e	69	255	Awaous	stamineus	voucher	PH_ref-5	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MT656126.1|
+11	800		97.826	184	1	1	4.87e	87	315	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+12	307		98.039	204	3	1	1.07e	98	353	Ancistrus	temminckii	mitochondrion,	complete	genome	gb|MT528234.1|
+12	399		99.510	204	0	1	1.07e	103	370	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+122	160		99.500	200	1	0	4.91e	102	364	Ancistrus	temminckii	mitochondrion,	complete	genome	gb|MT528234.1|
+138	209		99.524	210	0	1	5.01e	107	381	Xiphophorus	hellerii	strain	RR-B	mitochondrion,	complete	genome	gb|FJ234985.1|
+14	124		100.000	206	0	0	4.97e	107	381	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+14	291		100.000	201	0	0	2.98e	104	372	Micropterus	dolomieu	strain	NEFC_F16-140	mitochondrion,	complete	genome	gb|MF621710.1|
+14	426		98.058	206	4	0	2.33e	100	359	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+14	573		97.596	208	2	2	1.08e	98	353	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+144	81		100.000	204	0	0	6.38e	106	377	Micropterus	dolomieu	strain	NEFC_F16-140	mitochondrion,	complete	genome	gb|MF621710.1|
+149	169		99.519	208	1	0	1.83e	106	379	Xiphophorus	hellerii	strain	RR-B	mitochondrion,	complete	genome	gb|FJ234985.1|
+15	317		98.810	168	0	1	5.15e	82	298	Awaous	stamineus	voucher	PH_ref-5	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MT656126.1|
+15	337		98.515	202	2	1	2.97e	99	355	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+15	390		98.795	166	2	0	1.88e	81	296	Awaous	stamineus	voucher	PH_ref-5	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MT656126.1|
+15	450		98.068	207	2	1	2.32e	100	359	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+153	391		99.024	205	2	0	3.87e	103	368	Sus	scrofa	mitochondrion,	complete	genome	gb|MK251046.1|
+158	257		99.519	208	1	0	1.79e	106	379	Ancistrus	temminckii	mitochondrion,	complete	genome	gb|MT528234.1|
+16	216		99.029	206	1	1	3.86e	103	368	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+16	456		99.510	204	1	0	2.98e	104	372	Micropterus	dolomieu	strain	NEFC_F16-140	mitochondrion,	complete	genome	gb|MF621710.1|
+16	650		95.652	207	5	3	1.81e	91	329	Ancistrus	temminckii	mitochondrion,	complete	genome	gb|MT528234.1|
+166	85		99.502	201	0	1	4.95e	102	364	Micropterus	dolomieu	strain	NEFC_F16-140	mitochondrion,	complete	genome	gb|MF621710.1|
+169	295		99.507	203	1	0	1.07e	103	370	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+17	12		100.000	201	0	0	2.95e	104	372	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+17	356		97.487	199	1	2	1.04e	93	337	Ancistrus	temminckii	mitochondrion,	complete	genome	gb|MT528234.1|
+17	508		98.058	206	2	2	8.35e	100	357	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+182	71		99.512	205	1	0	8.36e	105	374	Ancistrus	temminckii	mitochondrion,	complete	genome	gb|MT528234.1|
+184	345		99.515	206	1	0	2.31e	105	375	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+186	3		99.515	206	1	0	2.31e	105	375	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+188	43		100.000	217	0	0	4.00e	113	401	Trachemys	scripta	troostii	mitochondrion,	complete	genome	gb|MW122292.1|
+19	230		99.519	208	1	0	1.82e	106	379	Xiphophorus	hellerii	strain	RR-B	mitochondrion,	complete	genome	gb|FJ234985.1|
+20	34		99.515	206	0	1	8.32e	105	374	Homo	sapiens	haplogroup	H1J6	mitochondrion,	complete	genome	gb|KM582873.1|
+21	377		100.000	206	0	0	5.01e	107	381	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+21	44		97.087	206	4	2	1.81e	96	346	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+211	202		99.517	207	1	0	6.46e	106	377	Ancistrus	temminckii	mitochondrion,	complete	genome	gb|MT528234.1|
+214	65		99.517	207	1	0	6.46e	106	377	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+218	28		99.526	211	1	0	3.95e	108	385	Clarias	fuscus	mitochondrion,	complete	genome	gb|KJ819540.1|
+219	205		100.000	204	0	0	6.43e	106	377	Homo	sapiens	haplogroup	H1J6	mitochondrion,	complete	genome	gb|KM582873.1|
+22	371		100.000	198	0	0	1.35e	102	366	Micropterus	dolomieu	strain	NEFC_F16-140	mitochondrion,	complete	genome	gb|MF621710.1|
+22	48		98.544	206	2	1	1.80e	101	363	Ancistrus	temminckii	mitochondrion,	complete	genome	gb|MT528234.1|
+222	68		100.000	210	0	0	3.03e	109	388	Clarias	fuscus	mitochondrion,	complete	genome	gb|KJ819540.1|
+23	69		100.000	170	0	0	4.39e	87	315	Homo	sapiens	haplogroup	H1J6	mitochondrion,	complete	genome	gb|KM582873.1|
+24	378		100.000	205	0	0	1.78e	106	379	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+25	469		99.517	207	1	0	6.46e	106	377	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+255	1		100.000	206	0	0	4.97e	107	381	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+26	91		99.515	206	1	0	2.31e	105	375	Ancistrus	temminckii	mitochondrion,	complete	genome	gb|MT528234.1|
+27	4		98.630	219	1	2	1.15e	108	387	Ancistrus	temminckii	mitochondrion,	complete	genome	gb|MT528234.1|
+285	5		98.611	216	1	1	5.25e	107	381	Trachemys	scripta	troostii	mitochondrion,	complete	genome	gb|MW122292.1|
+298	186		100.000	206	0	0	4.97e	107	381	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+30	164		98.095	210	2	2	5.07e	102	364	Clarias	fuscus	mitochondrion,	complete	genome	gb|KJ819540.1|
+33	507		100.000	167	0	0	2.37e	85	309	Awaous	stamineus	voucher	PH_ref-5	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MT656126.1|
+353	235		99.029	206	1	1	3.86e	103	368	Ancistrus	temminckii	mitochondrion,	complete	genome	gb|MT528234.1|
+38	215		99.517	207	1	0	6.46e	106	377	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+40	105		99.512	205	1	0	8.36e	105	374	Ancistrus	temminckii	mitochondrion,	complete	genome	gb|MT528234.1|
+40	587		99.034	207	1	1	1.08e	103	370	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+401	171		98.492	199	3	0	3.87e	98	351	Homo	sapiens	haplogroup	H1J6	mitochondrion,	complete	genome	gb|KM582873.1|
+42	83		99.497	199	1	0	1.78e	101	363	Clarias	fuscus	mitochondrion,	complete	genome	gb|KJ819540.1|
+44	148		99.515	206	1	0	2.31e	105	375	Ancistrus	temminckii	mitochondrion,	complete	genome	gb|MT528234.1|
+45	104		99.517	207	1	0	6.48e	106	377	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+46	219		100.000	205	0	0	1.79e	106	379	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+480	55		100.000	167	0	0	2.36e	85	309	Awaous	stamineus	voucher	PH_ref-5	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MT656126.1|
+49	517		99.517	207	1	0	6.48e	106	377	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+5	1226	
+5	223		98.571	210	2	1	1.09e	103	370	Clarias	fuscus	mitochondrion,	complete	genome	gb|KJ819540.1|
+5	322		94.907	216	5	5	1.49e	92	333	Clarias	fuscus	mitochondrion,	complete	genome	gb|KJ819540.1|
+5	338		95.261	211	4	5	1.85e	91	329	Ancistrus	temminckii	mitochondrion,	complete	genome	gb|MT528234.1|
+5	341	
+5	349		80.734	109	17	4	5.72e	17	82.4	Sus	scrofa	mitochondrion,	complete	genome	gb|MN624263.1|
+5	369		93.720	207	8	4	3.08e	84	305	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+5	398		98.095	210	1	3	1.85e	101	363	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+5	411		94.258	209	9	3	1.43e	87	316	Clarias	fuscus	mitochondrion,	complete	genome	gb|KJ819540.1|
+5	506		97.024	168	1	3	1.88e	76	279	Awaous	stamineus	voucher	PH_ref-5	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MT656126.1|
+5	78		95.714	210	2	4	5.12e	92	331	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+5	806		96.429	168	2	2	8.65e	75	274	Awaous	stamineus	voucher	PH_ref-5	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MT656126.1|
+5	87		97.717	219	2	3	8.16e	105	374	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+57	417		100.000	205	0	0	1.80e	106	379	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+6	130		96.262	214	3	5	1.86e	96	346	Clarias	fuscus	mitochondrion,	complete	genome	gb|KJ819540.1|
+6	144		96.842	190	0	5	1.80e	86	313	Ancistrus	temminckii	mitochondrion,	complete	genome	gb|MT528234.1|
+6	146		99.130	115	1	0	9.64e	55	207	Clarias	fuscus	mitochondrion,	complete	genome	gb|KF188424.1|
+6	324		98.592	213	1	1	2.39e	105	375	Xiphophorus	hellerii	mitochondrion,	complete	genome	gb|FJ226476.1|
+6	346		98.068	207	3	1	2.38e	100	359	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+6	358		98.969	194	1	1	1.74e	96	346	Ancistrus	temminckii	mitochondrion,	complete	genome	gb|MT528234.1|
+6	359		99.515	206	1	0	2.32e	105	375	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+6	379		99.505	202	1	0	3.92e	103	368	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+6	455		96.135	207	3	2	1.39e	92	333	Ancistrus	temminckii	mitochondrion,	complete	genome	gb|MT528234.1|
+6	465		99.029	206	1	1	3.87e	103	368	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+6	484		95.192	208	5	5	8.50e	90	324	Ancistrus	temminckii	mitochondrion,	complete	genome	gb|MT528234.1|
+6	531		97.561	205	2	1	5.06e	97	348	Micropterus	dolomieu	strain	NEFC_F16-140	mitochondrion,	complete	genome	gb|MF621710.1|
+6	758		97.512	201	4	1	2.31e	95	342	Poecilia	reticulata	mitochondrion,	complete	genome	gb|KJ013505.1|
+6	9		97.260	219	3	2	4.24e	103	368	Homo	sapiens	haplogroup	H1J6	mitochondrion,	complete	genome	gb|KM582873.1|
+60	452		99.515	206	1	0	2.32e	105	375	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+605	58		100.000	159	0	0	6.43e	81	294	Awaous	stamineus	voucher	PH_ref-5	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MT656126.1|
+631	120		99.441	179	1	0	2.33e	90	326	Awaous	stamineus	voucher	PH_ref-5	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MT656126.1|
+7	229		97.006	167	3	2	1.84e	76	279	Awaous	stamineus	voucher	PH_ref-5	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MT656126.1|
+7	305		99.505	202	1	0	3.83e	103	368	Ancistrus	temminckii	mitochondrion,	complete	genome	gb|MT528234.1|
+7	342		98.969	194	1	1	1.79e	96	346	Ancistrus	temminckii	mitochondrion,	complete	genome	gb|MT528234.1|
+7	354		97.596	208	3	2	3.10e	99	355	Sus	scrofa	mitochondrion,	complete	genome	gb|MK251046.1|
+7	36		99.441	179	1	0	2.60e	90	326	Awaous	stamineus	voucher	PH_ref-5	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MT656126.1|
+7	365		93.780	209	8	4	2.39e	85	309	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+7	420		99.029	206	2	0	1.08e	103	370	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+7	448		97.468	158	1	1	1.46e	72	267	Awaous	stamineus	voucher	PH_ref-5	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MT656126.1|
+8	220		95.775	213	5	3	8.57e	95	340	Clarias	fuscus	mitochondrion,	complete	genome	gb|KJ819540.1|
+8	392		99.000	200	0	1	8.35e	100	357	Micropterus	dolomieu	strain	NEFC_F16-140	mitochondrion,	complete	genome	gb|MF621710.1|
+8	395		100.000	206	0	0	4.99e	107	381	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+8	422		100.000	206	0	0	4.95e	107	381	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+8	521		98.930	187	2	0	3.77e	93	335	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+8	701		96.552	203	4	1	1.38e	92	333	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+9	131		100.000	207	0	0	1.42e	107	383	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+9	27		99.543	219	1	0	1.51e	112	399	Ancistrus	temminckii	mitochondrion,	complete	genome	gb|MT528234.1|
+9	299		98.058	206	4	0	2.34e	100	359	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+9	33		99.401	167	1	0	1.05e	83	303	Awaous	stamineus	voucher	PH_ref-5	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MT656126.1|
+9	432		99.515	206	1	0	2.33e	105	375	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+9	489		96.172	209	2	4	1.09e	93	337	Ancistrus	temminckii	mitochondrion,	complete	genome	gb|MT528234.1|
+9	543		95.238	210	6	3	1.86e	91	329	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+9	633		100.000	192	0	0	2.98e	99	355	Hypostomus	robinii	isolate	IPW012	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MZ329656.1|
+91	273		99.515	206	1	0	2.32e	105	375	Ancistrus	temminckii	mitochondrion,	complete	genome	gb|MT528234.1|
+92	128		99.029	206	1	1	3.81e	103	368	Ancistrus	temminckii	mitochondrion,	complete	genome	gb|MT528234.1|
+	

@@ -1,0 +1,277 @@
+---
+title: "16S for Red40 Report Stub"
+output:
+    pdf_document: default
+    html_document: default
+---
+## Overview
+Participants in a controlled study have been consuming diets containing Red 40, a common synthetic food dye. 
+Since some food dyes are processed by the gut bacteria, researchers have collected
+fecal samples from people with different level of Red 40 exposure and gut bacteria. In this study, there will
+be two stages: a baseline(pre-exposure) and after a period of Red 40 consumption. This is an important study
+as synthetic dyes impact the health of many people and alter the microbiome in the gut since specific enzymes 
+will increase to break down food dye. 
+
+## Data preprocessing
+The study aims to investiagte if gut microbiome change significantly from baseline to 
+after Red 40 consumption. First, we preprocessed DNA by extracting fecal material using the Macherey-Nagel Stool Kit, following the
+manufacturer’s protocol. The 16S rRNA gene was amplified using universal V1–V9 primers (27F + 1492R).
+PCR amplification and sample barcoding were simultaneously performed using the Oxford Nanopore SQK-
+16S024 library preparation kit. DNA concentration was quantified using a Qubit Fluorometer with the Qubit
+High Sensitivity Assay Kit. Barcoded DNA samples were normalized based on concentration and pooled in
+equimolar amounts. The pooled library was sequenced across multiple Oxford Nanopore Flongle flowcells
+(FLO-FLG001) for a total sequencing time of 72 hours. Basecalling was performed using the GUPPY
+v3.2.2 high-accuracy model. Adapter and barcode trimming were conducted during the basecalling process.
+Taxonomic classification of the reads was carried out using the EPI2ME 16S workflow (Oxford Nanopore
+Technologies), which employs reference-based alignment for microbial identification. The resulting classified
+datasets served as the starting point for downstream microbiome analysis.
+## Cleaning Data
+We were given a dataset of barcodes with multiple fastq files containing raw sequence data for bacteria. For each fastq file, we 
+converted it to fasta files which made it possible to be searched through the BLAST database. Using the BLAST database, we 
+determined the bacterias taxonomic and OTU data for further analysis.
+```{r, eval = FALSE}
+# # Set the base image to Ubuntu 20.04 LTS
+# #FROM --platform=linux/amd64 ubuntu:jammy
+
+# # My authorship
+# LABEL maintainer="Johnny Chen"
+# LABEL version="0.1.0"
+# LABEL description="docker_project"
+
+# # Disable prompts during package installation
+# ENV DEBIAN_FRONTEND=noninteractive
+
+# RUN apt update
+# RUN apt install -y curl git g++ wget nano zlib1g-dev make bsdmainutils gawk bcftools libopenblas-base
+
+# # Install Miniconda package manager
+# RUN cd tmp
+# RUN curl https://repo.anaconda.com/miniconda/Miniconda3-py310_23.3.1-0-Linux-x86_64.sh --output miniconda.sh
+# RUN bash miniconda.sh -bu
+# ENV PATH="/root/miniconda3/bin:$PATH"
+# RUN conda update -y conda
+
+# # Update conda and install bioconda packages
+# RUN conda update -y conda && \
+#     conda install -y -c bioconda blast=2.11.0 && \
+#     conda install bioconda::seqtk && \
+#     conda clean -a -y
+
+# RUN mkdir blastdb
+# RUN cd blastdb &&\
+#     wget ftp://ftp.ncbi.nlm.nih.gov/blast/db/16S_ribosomal_RNA.tar.gz &&\
+#     tar -xvf 16S_ribosomal_RNA.tar.gz &&\
+#     rm 16S_ribosomal_RNA.tar.gz
+
+# RUN cd blastdb &&\
+#     wget https://ftp.ncbi.nlm.nih.gov/refseq/TargetedLoci/Bacteria/bacteria.16SrRNA.fna.gz &&\
+#     gunzip bacteria.16SrRNA.fna.gz &&\
+#     makeblastdb -in ./bacteria.16SrRNA.fna -dbtype nucl -title 16SMicrobial -out 16SMicrobial -parse_seqids
+
+```
+```{r, eval = FALSE}
+# cd Docker
+
+# docker build --platform=linux/amd64 -t docker_project:0.1.0 .
+
+# docker run --platform=linux/amd64 -it docker_project:0.1.0 bash
+
+# docker run --platform=linux/amd64 -v "$(pwd)":/data -it docker_project:0.1.0 bash
+
+
+# cd /data/fastq_pass
+
+# for folder in barcode*/; do
+#     for file in "$folder"*.fastq; do
+#         seqtk seq -a "$file" > "${file%.fastq}.fasta"
+#     done
+# done
+
+# cd /data/fastq_pass
+
+# for file in barcode*/*.fasta; do
+#     out_file="${file%.fasta}_blast_results.txt"
+    
+#     blastn -query "$file" \
+#            -db /blastdb/16SMicrobial \
+#            -out "$out_file" \
+#            -outfmt 6 \
+#            -max_target_seqs 3 \
+#            -num_threads 8   
+# done
+
+
+```
+## Loading in the data
+First, we will load the required packages and classification data
+```{r}
+library(phyloseq)
+library(ggplot2)
+library(dplyr)
+library(tidyr)
+library(purrr)
+library(vegan)
+library(microbiome)
+
+meta <- read.csv("./metadata.csv")
+dat <- read.csv("./stuff.csv")
+
+```
+```{r, eval = FALSE}
+names(meta)
+str(meta)
+names(dat)
+str(dat)
+```
+##Cleaning the data
+Next, the feature table obtained after decontamination was cleaned and divided into two components: an
+OTU table and a taxonomy table. The OTU table contains the barcodes(number of DNA sequences) and
+the tax table links the OTU to its taxanomic classification. Both tables have different data for different
+analysis
+```{r}
+otu_dat <- dat[, c(2:14)]
+otu_dat <- otu_table(otu_dat, taxa_are_rows = TRUE)
+otu_dat <- t(otu_dat)
+
+tax_dat <- dat[, c(16:21, 1)]
+tax_dat <- tax_table(tax_dat)
+```
+Now that the OTU and taxonomy tables are created, we must make sure the names are consistent between
+the two tables. This makes sure that it is easy to read each table.
+```{r}
+taxa_names(otu_dat) <- rownames(tax_dat)
+rownames(meta) <- meta$barcode
+```
+Lastly, a phyloseq object was constructed to integrate the OTU, taxonomy, and metadata information. We
+do this so that everything is linked by sample and OTU barcode. This is important for graphing and analysis
+later on.
+```{r}
+ps <- phyloseq(otu_dat, tax_dat, sample_data(meta))
+
+colnames(ps@tax_table) <- c("genus","superkingdom","kingdom","phylum","class","order","family")
+```
+```{r, eval = FALSE}
+head(ps@otu_table)
+head(ps@tax_table)
+```
+## Exploratory analysis: Rarefaction curve
+In order to see if the sequencing depth is sufficient, we will first create a rarefaction curve of the data.
+This will show how the number of observed OTUs changes with increasing sequencing depth. This ensures
+that we collect a sufficient amount unique samples so that the total diversity is reasonable. We conduct the
+rarefaction analysis by sampling the taxa at different sequencing depths and plotting the number of observed
+OTUs. In this case we will sample the data at intervals of 1 read and remove any taxanomic unit with less than 10 reads.
+```{r}
+ps.rare <- prune_taxa(taxa_sums(ps) > 10, ps)
+rare_table <- otu_table(ps.rare)
+rare_table <- as.data.frame(otu_table(ps.rare))
+sample_names <- rownames(rare_table)
+raredat <- rarecurve(rare_table, step = 1, label = TRUE, tidy = TRUE)
+rareplot <- ggplot(raredat, aes(x = Sample, y = Species, color =
+Site)) +
+labs(caption = "Figure 1: Rarefaction of Sampled Bacteria Species")+
+geom_point()
+```
+```{r}
+rareplot
+```
+The rarefaction curve shows that the sequencing depth is enough for majority of the samples. As the number
+of barcodes from the OTU begin to plateau, that means that most of the unique species have been gathered,
+making total diversity as accurate as possible. ## Exploratory analysis: Relative abundance
+We will now conduct an exploratory analysis of the data to determine the relative abundance of the bacterial
+taxa in the samples. To clean up the data, we will first remove any taxa contain <100 reads since they
+are regarded as “noise.” This can skew data and make patterns harder to detect. We will first calculate
+the relative abundance of the taxa in the samples.Since different samples have different sequencing depths.
+Calculating the relative abundance will allow us to compare microbiome composition proportionally. We
+will then plot the relative abundance of the taxa in the samples to visually see the abundance of species in 
+the humans intestines.
+```{r}
+ps.prune <- prune_taxa(taxa_sums(ps) > 100, ps)
+cfam <- tax_glom(ps.prune, taxrank = rank_names(ps.prune)[5])
+cfam <- transform_sample_counts(cfam,function(x) x / sum(x) * 100)
+
+
+melt <- psmelt(cfam)
+melt <- melt %>%
+group_by(barcode, timepoint, class) %>%  
+summarize(RelativeAbundance = sum(Abundance))
+
+```
+```{r}
+plot <- ggplot(melt, aes(x = barcode, y = RelativeAbundance, fill = class)) +
+geom_bar(stat = 'identity', position = 'stack') +
+labs(caption = "Figure 2: Relative Abundance of Gut Bacteria in each ID ")
+```
+```{r}
+plot
+```
+From looking at this relative abundance barplot, we can see that barcodes 19-24 had a higher relative abundnace of Veillionellales(pink) and
+Neisseriasles, while it decreased the relative abundance of Lactibacillales(dark green) and Pseudomonadales(purple).
+To get further evidence that Red 40 synthetic food dye really affects human gut micobiome,we will need to conduct a more rigorous
+analysis to determine if the samples are actually different from each other.
+
+## Alpha diversity analysis
+In order to quantify the diversity within the samples, we will calculate the alpha diversity of each sample.
+We will find the observed species and Simpson diversity indices for the samples. The observed species
+index measures the number of unique species present in the samples, while the Simpson index indicates the
+diversity of the sample. We will then plot the alpha diversity indices for the samples. Using both the observed species index and simpson, we can create hypothesize that 
+lower diveristy means synthetic food does decrease human gut microbiome since it produces more of a specific enzyme to break down Red 40.
+```{r}
+alpha_indiv1 <- plot_richness(ps, x = "samples", measures = "Observed")+
+labs(caption = "Figure 3: bserved species index of Samples")+
+geom_boxplot(aes(color = samples))
+
+alpha_indiv2 <- plot_richness(ps, x = "samples", measures = "Simpson")+
+labs(caption = "Figure 4: Simpson index of Samples") +
+geom_boxplot(aes(color = samples))
+
+```
+```{r}
+alpha_indiv1
+alpha_indiv2
+```
+When looking at the Observed index, a higher index indicts a high amount of diversity. The simpson index
+tells us how evenly distrbuted the sample is. For the observed index, we can see a cluster of samples where there are 13
+unique species and another cluster where there are 12 unique species. This tells us that each sample have high amounts of unique species
+with the amount of unique speicies hovering around 12 and 13. When taking a look at the simpson index of samples graph, we can see that 
+the diversity of bacteria species vary between all the barcodes. You can argue that there is a cluter in the top right where there is a higher diversity.
+With the observed index and simpson index taken into account, the barcodes after the Red 40 was consumed had a high alpha diversity. 
+
+## Explanatory Analysis: PCoA
+We will now conduct a principle coordinate analysis (PCoA) of the samples to detect similarites in bacterial
+composition at the genus/species level. This is important because it provides further proof of whether consuming synthetic food dye
+contributes to the diversity of bacteria in the humna gut. We will first convert the data to compositional data and then create
+a distance matrix based on bray-curtis dissimilarity. The distance matrix will then be used to conduct the
+PCoA. The results of the PCoA will be plotted.
+```{r}
+sample_variables(ps)
+ord <- ordinate(ps,method="MDS")
+pcoa_plot <- plot_ordination(ps,ord,color="barcode")+
+labs(caption = "Figure 5: pCoA plot of bacteria species")
+
+
+```
+```{r}
+pcoa_plot
+
+```
+From the PCoA plot, we can see a cluster of dots in the middle right and another cluster in the bottom right. Just by looking at the colors of the dots,
+the most of the dots in the middle right are between 19-24 while the bottom right contains barcodes 12-18. This indicates that for barcodes 12-18, they
+have similar bacteria diveristy and barcodes 19-24 have similar bacteria diversity. 
+
+# Conclusion
+From the analysis, we can conclude that the consumption of Red 40 or synthetic food dye contributes to a higher diversity of bacteria in the human gut micobiome. Through the pre-processing stage, we determined
+that barcodes 12-18 were baseline(pre-Red40 consumption) while barcodes 19-24 were after Red40 consumption.
+Through the refaction curve, we know that the sampling depth for all samples is sufficient. With the relative abundance graph of each barcode, the consumption of Red 40 added
+more abundance of a certain speicies while decreasing another when comparing barcodes between baseline and Red40. There is more convicing evidence of higher diveristy
+when we examined the observed species index and the simpson index of the samples. Based on the figures, there was a high amount of obsered unique species from all barcodes ranigng from 12-13. 
+When looking at the simpson index, we found that barcodes 19-24 clustering at the top symbolzing a higher diversity among the gut microbiome. To furthur explain this phenomenon, we graphed the 
+PCoa graph to take a deeper look of the similarity of genus and class in each barcode. We comfirmed that barcodes 19-24 and barcodes 12-18 had similar gut microbiome makeup. We can therefore conclude that
+consuming Red40 will produce more unique bacteria in the human gut while remaining relatively diverse amongst the bacteria before Red 40 was consumed. This could've happened because
+the intestine created more enzymes to break down the synthetic food dye consumed. As a result, there were more unique bacteria in the human gut microbiome without completely dominating
+the bacteria population before Red 40 was consumed. This study can provide key reserach for scientists looking to determine if synthetic food dye is an acutal threat to human health. 
+A deeper look into the type of bacteria being produced by syntheitc food dye could generate more interesting findings.
+
+library(rmarkdown)
+library(tinytex)
+render("sigma.Rmd", output_format = "pdf_document")
+

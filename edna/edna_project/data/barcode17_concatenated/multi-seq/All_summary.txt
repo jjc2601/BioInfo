@@ -1,0 +1,37 @@
+n_sequences, cluster_id, query_id, %_identity, alignment_length, mismatches, gap_opens, evalue, bit_score, subject_titles
+BLAST_out_clusters
+10	739  97.706 218 2 2 5.28e	105 372 Amatitlania nigrofasciata voucher AN15758 small subunit ribosomal RNA gene, partial sequence; mitochondrial OK576391.1
+10	749  98.636 220 1 2 5.27e	110 388 Ancistrus temminckii mitochondrion, complete genome ref|NC_051963.1|
+10	769  98.148 216 2 1 4.16e	106 375 Ancistrus temminckii mitochondrion, complete genome ref|NC_051963.1|
+11	1081  98.157 217 2 2 1.13e	106 377 Ancistrus temminckii mitochondrion, complete genome ref|NC_051963.1|
+11	1197  97.596 208 1 4 1.79e	99 353 Ancistrus temminckii mitochondrion, complete genome ref|NC_051963.1|
+11	794  98.174 219 1 3 3.19e	107 379 Amatitlania nigrofasciata voucher AN15758 small subunit ribosomal RNA gene, partial sequence; mitochondrial OK576391.1
+13	868  98.624 218 2 1 6.88e	109 385 Amatitlania nigrofasciata voucher AN15758 small subunit ribosomal RNA gene, partial sequence; mitochondrial OK576391.1
+15	51  97.537 203 2 3 1.06e	96 344 Ancistrus temminckii mitochondrion, complete genome ref|NC_051963.1|
+16	271  98.618 217 1 2 2.43e	108 383 Amatitlania nigrofasciata voucher AN15758 small subunit ribosomal RNA gene, partial sequence; mitochondrial OK576391.1
+17	684  98.165 218 1 2 1.16e	106 377 Ancistrus temminckii mitochondrion, complete genome ref|NC_051963.1|
+18	278  99.507 203 1 0 1.77e	104 370 Ancistrus temminckii mitochondrion, complete genome ref|NC_051963.1|
+18	790  96.833 221 4 3 2.48e	103 366 Ancistrus temminckii mitochondrion, complete genome ref|NC_051963.1|
+24	211  99.087 219 1 1 4.07e	111 392 Ancistrus temminckii mitochondrion, complete genome ref|NC_051963.1|
+24	503  99.476 191 1 0 7.70e	98 348 Ancistrus temminckii mitochondrion, complete genome ref|NC_051963.1|
+32	143  98.507 201 0 2 6.26e	99 351 Amatitlania nigrofasciata voucher AN15758 small subunit ribosomal RNA gene, partial sequence; mitochondrial OK576391.1
+33	39  98.529 204 1 2 3.88e	101 359 Ancistrus temminckii mitochondrion, complete genome ref|NC_051963.1|
+44	100  99.539 217 1 0 3.16e	112 396 Ancistrus temminckii mitochondrion, complete genome ref|NC_051963.1|
+5	1011  96.396 222 2 4 1.15e	101 361 Ancistrus temminckii mitochondrion, complete genome ref|NC_051963.1|
+5	609  97.561 205 3 2 2.28e	98 350 Ancistrus temminckii mitochondrion, complete genome ref|NC_051963.1|
+5	871  97.895 190 1 3 3.82e	91 326 Ancistrus temminckii mitochondrion, complete genome ref|NC_051963.1|
+5	981  97.087 206 2 3 1.10e	96 344 Ancistrus temminckii mitochondrion, complete genome ref|NC_051963.1|
+6	1  98.477 197 1 1 2.90e	97 346 Amatitlania nigrofasciata voucher AN15758 small subunit ribosomal RNA gene, partial sequence; mitochondrial OK576391.1
+6	385  96.364 220 4 4 4.17e	101 359 Amatitlania nigrofasciata voucher AN15758 small subunit ribosomal RNA gene, partial sequence; mitochondrial OK576391.1
+6	657  98.068 207 1 3 1.37e	100 357 Ancistrus temminckii mitochondrion, complete genome ref|NC_051963.1|
+7	1568  98.788 165 2 0 1.07e	81 294 Awaous stamineus voucher PH_ref-5 small subunit ribosomal RNA gene, partial sequence; mitochondrial gb|MT656126.1|
+7	797  97.248 218 3 2 2.46e	103 366 Amatitlania nigrofasciata voucher AN15758 small subunit ribosomal RNA gene, partial sequence; mitochondrial OK576391.1
+7	985  97.738 221 1 3 1.14e	106 377 Ancistrus temminckii mitochondrion, complete genome ref|NC_051963.1|
+8	574  98.643 221 1 2 1.48e	110 390 Ancistrus temminckii mitochondrion, complete genome ref|NC_051963.1|
+8	837  97.235 217 2 3 9.01e	103 364 Amatitlania nigrofasciata voucher AN15758 small subunit ribosomal RNA gene, partial sequence; mitochondrial OK576391.1
+8	911  97.727 220 2 3 4.08e	106 375 Ancistrus temminckii mitochondrion, complete genome ref|NC_051963.1|
+8	933  96.020 201 3 5 4.94e	90 322 Ancistrus temminckii mitochondrion, complete genome ref|NC_051963.1|
+9	1058  97.717 219 4 1 4.08e	106 375 Ancistrus temminckii mitochondrion, complete genome ref|NC_051963.1|
+9	771  99.005 201 0 2 3.72e	101 359 Ancistrus temminckii mitochondrion, complete genome ref|NC_051963.1|
+9	788  97.727 220 4 1 1.15e	106 377 Ancistrus temminckii mitochondrion, complete genome ref|NC_051963.1|
+ 

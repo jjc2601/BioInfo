@@ -1,0 +1,15 @@
+BLAST_out_clusters
+11	54	
+113	63		96.067	178	4	3	1.58e	79	287	Poecilia	sphenops	mitochondrial	DNA,	complete	genome	ref|NC_026579.1|
+15	361		88.158	76	7	2	6.22e	20	89.8	Sarotherodon	melanotheron	mitochondrion,	complete	genome	ref|NC_015611.1|
+21	798		85.000	80	12	0	9.76e	18	82.4	Kuhlia	xenura	voucher	USNM:FISH:442289	mitochondrion,	complete	genome	OP035202.1
+32	124		97.073	205	5	1	1.08e	96	344	Poecilia	sphenops	mitochondrial	DNA,	complete	genome	ref|NC_026579.1|
+5	350		85.366	82	10	2	2.89e	18	84.2	Kuhlia	xenura	voucher	USNM:FISH:442289	mitochondrion,	complete	genome	OP035202.1
+5	489		96.262	214	5	3	9.12e	98	348	Poecilia	sphenops	mitochondrial	DNA,	complete	genome	ref|NC_026579.1|
+6	563		85.000	80	12	0	1.00e	17	82.4	Kuhlia	xenura	voucher	USNM:FISH:442289	mitochondrion,	complete	genome	OP035202.1
+7	413		88.158	76	7	2	6.28e	20	89.8	Sarotherodon	melanotheron	mitochondrion,	complete	genome	ref|NC_015611.1|
+7	431	
+7	84		85.000	80	12	0	1.02e	17	82.4	Kuhlia	xenura	voucher	USNM:FISH:442289	mitochondrion,	complete	genome	OP035202.1
+8	409	
+9	565		96.714	213	5	2	1.96e	99	353	Poecilia	sphenops	mitochondrial	DNA,	complete	genome	ref|NC_026579.1|
+	

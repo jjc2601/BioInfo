@@ -1,0 +1,175 @@
+n_sequences,	cluster_id,	query_id,	%_identity,	alignment_length,	mismatches,	gap_opens,	evalue,	bit_score,	subject_titles
+#	BLASTN	2.11.0+
+#	Query:	polished-11-54.fasta
+#	Database:	/home/data/BLASTdatabase/sequence-2.fasta
+#	0	hits	found
+#	BLASTN	2.11.0+
+#	Query:	polished-113-63.fasta
+#	Database:	/home/data/BLASTdatabase/sequence-2.fasta
+#	Fields:	query	id,	%	identity,	alignment	length,	mismatches,	gap	opens,	evalue,	bit	score,	subject	titles,	subject	ids
+#	11	hits	found
+polished-113-63.fasta	96.067	178	4	3	1.58e-79	287	Poecilia	sphenops	mitochondrial	DNA,	complete	genome	ref|NC_026579.1|
+polished-113-63.fasta	88.202	178	18	3	3.51e-56	209	Poecilia	reticulata	mitochondrion,	complete	genome	ref|NC_024238.1|
+polished-113-63.fasta	87.349	166	17	4	1.64e-49	187	Xiphophorus	hellerii	mitochondrion,	complete	genome	ref|NC_013089.1|
+polished-113-63.fasta	81.564	179	30	3	1.00e-36	145	Gambusia	affinis	CBM:ZF:21873	mitochondrial	genes	for	12S	rRNA,	tRNA-Val,	16S	rRNA,	partial	and	complete	sequence	dbj|LC669499.1|
+polished-113-63.fasta	80.745	161	27	3	4.70e-30	122	Micropterus	dolomieu	mitochondrion,	complete	genome	ref|NC_011361.1|
+polished-113-63.fasta	80.124	161	29	3	2.19e-28	117	Amatitlania	nigrofasciata	voucher	AN15758	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	OK576391.1
+polished-113-63.fasta	80.247	162	26	6	2.19e-28	117	Oreochromis	mossambicus	mitochondrion,	complete	genome	gb|AY597335.1|
+polished-113-63.fasta	86.170	94	11	2	2.20e-23	100	Kuhlia	xenura	voucher	USNM:FISH:442289	mitochondrion,	complete	genome	OP035202.1
+polished-113-63.fasta	87.838	74	8	1	6.17e-19	86.1	Sicyopterus	stimpsoni	isolate	4507	mitochondrion,	complete	genome	gb|MK496983.1|
+polished-113-63.fasta	86.842	76	8	2	2.22e-18	84.2	Corydoras	aeneus	mitochondrion,	complete	genome	gb|MZ571336.1|
+polished-113-63.fasta	84.211	76	10	2	4.80e-15	73.1	Ancistrus	temminckii	mitochondrion,	complete	genome	ref|NC_051963.1|
+#	BLASTN	2.11.0+
+#	Query:	polished-15-361.fasta
+#	Database:	/home/data/BLASTdatabase/sequence-2.fasta
+#	Fields:	query	id,	%	identity,	alignment	length,	mismatches,	gap	opens,	evalue,	bit	score,	subject	titles,	subject	ids
+#	10	hits	found
+polished-15-361.fasta	88.158	76	7	2	6.22e-20	89.8	Sarotherodon	melanotheron	mitochondrion,	complete	genome	ref|NC_015611.1|
+polished-15-361.fasta	86.420	81	10	1	2.24e-19	87.9	Kuhlia	xenura	voucher	USNM:FISH:442289	mitochondrion,	complete	genome	OP035202.1
+polished-15-361.fasta	86.667	75	8	2	1.04e-17	82.4	Amatitlania	nigrofasciata	voucher	AN15758	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	OK576391.1
+polished-15-361.fasta	86.667	75	8	2	1.04e-17	82.4	Andinoacara	rivulatus	mitochondrion,	complete	genome	ref|NC_025671.1|
+polished-15-361.fasta	85.333	75	9	2	4.84e-16	76.8	Caranx	sexfasciatus	CBM:ZF:24250	mitochondrial	genes	for	12S	rRNA,	tRNA-Val,	16S	rRNA,	partial	and	complete	sequence	dbj|LC848708.1|
+polished-15-361.fasta	85.135	74	11	0	4.84e-16	76.8	Sphyraena	barracuda	mitochondrion,	complete	genome	ref|NC_022484.1|
+polished-15-361.fasta	85.135	74	11	0	4.84e-16	76.8	Micropterus	dolomieu	mitochondrion,	complete	genome	ref|NC_011361.1|
+polished-15-361.fasta	85.333	75	9	2	4.84e-16	76.8	Oreochromis	mossambicus	mitochondrion,	complete	genome	gb|AY597335.1|
+polished-15-361.fasta	84.000	75	11	1	2.25e-14	71.3	Cyprinus	carpio	isolate	2WK10	tRNA-Pro	gene,	partial	sequence;	D-loop	and	tRNA-Phe	gene,	complete	sequence;	and	12S	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MG786483.1|
+polished-15-361.fasta	84.000	75	11	1	2.25e-14	71.3	Carassius	auratus	isolate	CES025	tRNA-Phe	gene,	partial	sequence;	12S	ribosomal	RNA	and	tRNA-Val	genes,	complete	sequence;	and	16S	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|KY798482.1|
+#	BLASTN	2.11.0+
+#	Query:	polished-21-798.fasta
+#	Database:	/home/data/BLASTdatabase/sequence-2.fasta
+#	Fields:	query	id,	%	identity,	alignment	length,	mismatches,	gap	opens,	evalue,	bit	score,	subject	titles,	subject	ids
+#	10	hits	found
+polished-21-798.fasta	85.000	80	12	0	9.76e-18	82.4	Kuhlia	xenura	voucher	USNM:FISH:442289	mitochondrion,	complete	genome	OP035202.1
+polished-21-798.fasta	83.117	77	13	0	2.11e-14	71.3	Amatitlania	nigrofasciata	voucher	AN15758	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	OK576391.1
+polished-21-798.fasta	84.286	70	11	0	7.60e-14	69.4	Sarotherodon	melanotheron	mitochondrion,	complete	genome	ref|NC_015611.1|
+polished-21-798.fasta	81.818	77	14	0	9.83e-13	65.8	Oreochromis	mossambicus	mitochondrion,	complete	genome	gb|AY597335.1|
+polished-21-798.fasta	82.857	70	12	0	3.54e-12	63.9	Andinoacara	rivulatus	mitochondrion,	complete	genome	ref|NC_025671.1|
+polished-21-798.fasta	82.857	70	12	0	3.54e-12	63.9	Micropterus	dolomieu	mitochondrion,	complete	genome	ref|NC_011361.1|
+polished-21-798.fasta	81.429	70	13	0	1.65e-10	58.4	Sphyraena	barracuda	mitochondrion,	complete	genome	ref|NC_022484.1|
+polished-21-798.fasta	94.286	35	2	0	2.13e-09	54.7	Caranx	sexfasciatus	CBM:ZF:24250	mitochondrial	genes	for	12S	rRNA,	tRNA-Val,	16S	rRNA,	partial	and	complete	sequence	dbj|LC848708.1|
+polished-21-798.fasta	94.286	35	2	0	2.13e-09	54.7	Cyprinus	carpio	isolate	2WK10	tRNA-Pro	gene,	partial	sequence;	D-loop	and	tRNA-Phe	gene,	complete	sequence;	and	12S	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MG786483.1|
+polished-21-798.fasta	94.286	35	2	0	2.13e-09	54.7	Carassius	auratus	isolate	CES025	tRNA-Phe	gene,	partial	sequence;	12S	ribosomal	RNA	and	tRNA-Val	genes,	complete	sequence;	and	16S	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|KY798482.1|
+#	BLASTN	2.11.0+
+#	Query:	polished-32-124.fasta
+#	Database:	/home/data/BLASTdatabase/sequence-2.fasta
+#	Fields:	query	id,	%	identity,	alignment	length,	mismatches,	gap	opens,	evalue,	bit	score,	subject	titles,	subject	ids
+#	12	hits	found
+polished-32-124.fasta	97.073	205	5	1	1.08e-96	344	Poecilia	sphenops	mitochondrial	DNA,	complete	genome	ref|NC_026579.1|
+polished-32-124.fasta	90.244	205	19	1	2.41e-73	267	Poecilia	reticulata	mitochondrion,	complete	genome	ref|NC_024238.1|
+polished-32-124.fasta	85.915	213	20	4	6.84e-59	219	Xiphophorus	hellerii	mitochondrion,	complete	genome	ref|NC_013089.1|
+polished-32-124.fasta	83.981	206	32	1	3.21e-52	196	Gambusia	affinis	CBM:ZF:21873	mitochondrial	genes	for	12S	rRNA,	tRNA-Val,	16S	rRNA,	partial	and	complete	sequence	dbj|LC669499.1|
+polished-32-124.fasta	82.692	208	31	4	3.23e-47	180	Osteomugil	engeli	voucher	USNM:FISH:439840	mitochondrion,	complete	genome	OP035222.1
+polished-32-124.fasta	82.039	206	33	3	5.40e-45	172	Micropterus	dolomieu	mitochondrion,	complete	genome	ref|NC_011361.1|
+polished-32-124.fasta	82.126	207	30	7	1.94e-44	171	Oreochromis	mossambicus	mitochondrion,	complete	genome	gb|AY597335.1|
+polished-32-124.fasta	81.553	206	36	2	6.99e-44	169	Amatitlania	nigrofasciata	voucher	AN15758	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	OK576391.1
+polished-32-124.fasta	80.676	207	34	6	5.44e-40	156	Caranx	sexfasciatus	CBM:ZF:24250	mitochondrial	genes	for	12S	rRNA,	tRNA-Val,	16S	rRNA,	partial	and	complete	sequence	dbj|LC848708.1|
+polished-32-124.fasta	80.097	206	37	4	2.53e-38	150	Andinoacara	rivulatus	mitochondrion,	complete	genome	ref|NC_025671.1|
+polished-32-124.fasta	80.097	206	36	4	9.11e-38	148	Sarotherodon	melanotheron	mitochondrion,	complete	genome	ref|NC_015611.1|
+polished-32-124.fasta	88.158	76	8	1	5.60e-20	89.8	Cyprinus	carpio	isolate	2WK10	tRNA-Pro	gene,	partial	sequence;	D-loop	and	tRNA-Phe	gene,	complete	sequence;	and	12S	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MG786483.1|
+#	BLASTN	2.11.0+
+#	Query:	polished-5-350.fasta
+#	Database:	/home/data/BLASTdatabase/sequence-2.fasta
+#	Fields:	query	id,	%	identity,	alignment	length,	mismatches,	gap	opens,	evalue,	bit	score,	subject	titles,	subject	ids
+#	10	hits	found
+polished-5-350.fasta	85.366	82	10	2	2.89e-18	84.2	Kuhlia	xenura	voucher	USNM:FISH:442289	mitochondrion,	complete	genome	OP035202.1
+polished-5-350.fasta	87.013	77	7	3	2.89e-18	84.2	Sarotherodon	melanotheron	mitochondrion,	complete	genome	ref|NC_015611.1|
+polished-5-350.fasta	85.526	76	8	3	4.84e-16	76.8	Caranx	sexfasciatus	CBM:ZF:24250	mitochondrial	genes	for	12S	rRNA,	tRNA-Val,	16S	rRNA,	partial	and	complete	sequence	dbj|LC848708.1|
+polished-5-350.fasta	85.526	76	8	3	4.84e-16	76.8	Amatitlania	nigrofasciata	voucher	AN15758	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	OK576391.1
+polished-5-350.fasta	85.526	76	8	3	4.84e-16	76.8	Andinoacara	rivulatus	mitochondrion,	complete	genome	ref|NC_025671.1|
+polished-5-350.fasta	85.526	76	8	3	4.84e-16	76.8	Oreochromis	mossambicus	mitochondrion,	complete	genome	gb|AY597335.1|
+polished-5-350.fasta	84.000	75	11	1	2.25e-14	71.3	Sphyraena	barracuda	mitochondrion,	complete	genome	ref|NC_022484.1|
+polished-5-350.fasta	84.000	75	11	1	2.25e-14	71.3	Micropterus	dolomieu	mitochondrion,	complete	genome	ref|NC_011361.1|
+polished-5-350.fasta	82.895	76	11	2	2.91e-13	67.6	Cyprinus	carpio	isolate	2WK10	tRNA-Pro	gene,	partial	sequence;	D-loop	and	tRNA-Phe	gene,	complete	sequence;	and	12S	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MG786483.1|
+polished-5-350.fasta	82.895	76	11	2	2.91e-13	67.6	Carassius	auratus	isolate	CES025	tRNA-Phe	gene,	partial	sequence;	12S	ribosomal	RNA	and	tRNA-Val	genes,	complete	sequence;	and	16S	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|KY798482.1|
+#	BLASTN	2.11.0+
+#	Query:	polished-5-489.fasta
+#	Database:	/home/data/BLASTdatabase/sequence-2.fasta
+#	Fields:	query	id,	%	identity,	alignment	length,	mismatches,	gap	opens,	evalue,	bit	score,	subject	titles,	subject	ids
+#	15	hits	found
+polished-5-489.fasta	96.262	214	5	3	9.12e-98	348	Poecilia	sphenops	mitochondrial	DNA,	complete	genome	ref|NC_026579.1|
+polished-5-489.fasta	89.720	214	19	3	2.03e-74	270	Poecilia	reticulata	mitochondrion,	complete	genome	ref|NC_024238.1|
+polished-5-489.fasta	86.036	222	19	6	1.24e-61	228	Xiphophorus	hellerii	mitochondrion,	complete	genome	ref|NC_013089.1|
+polished-5-489.fasta	83.721	215	32	3	2.70e-53	200	Gambusia	affinis	CBM:ZF:21873	mitochondrial	genes	for	12S	rRNA,	tRNA-Val,	16S	rRNA,	partial	and	complete	sequence	dbj|LC669499.1|
+polished-5-489.fasta	83.410	217	29	6	1.26e-51	195	Osteomugil	engeli	voucher	USNM:FISH:439840	mitochondrion,	complete	genome	OP035222.1
+polished-5-489.fasta	82.949	217	28	9	2.10e-49	187	Oreochromis	mossambicus	mitochondrion,	complete	genome	gb|AY597335.1|
+polished-5-489.fasta	82.407	216	34	4	7.56e-49	185	Amatitlania	nigrofasciata	voucher	AN15758	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	OK576391.1
+polished-5-489.fasta	82.407	216	32	5	2.72e-48	183	Micropterus	dolomieu	mitochondrion,	complete	genome	ref|NC_011361.1|
+polished-5-489.fasta	81.106	217	33	8	2.74e-43	167	Caranx	sexfasciatus	CBM:ZF:24250	mitochondrial	genes	for	12S	rRNA,	tRNA-Val,	16S	rRNA,	partial	and	complete	sequence	dbj|LC848708.1|
+polished-5-489.fasta	81.019	216	34	6	9.86e-43	165	Sarotherodon	melanotheron	mitochondrion,	complete	genome	ref|NC_015611.1|
+polished-5-489.fasta	80.556	216	36	6	1.27e-41	161	Andinoacara	rivulatus	mitochondrion,	complete	genome	ref|NC_025671.1|
+polished-5-489.fasta	80.275	218	35	5	1.65e-40	158	Sphyraena	barracuda	mitochondrion,	complete	genome	ref|NC_022484.1|
+polished-5-489.fasta	82.456	114	14	6	1.31e-21	95.3	Stenogobius	hawaiiensis	voucher	PH_ref-35	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MT656157.1|
+polished-5-489.fasta	90.385	52	4	1	2.86e-13	67.6	Rhinella	marina	voucher	KU	202274	tRNA-Phe	gene,	partial	sequence;	12S	ribosomal	RNA	and	tRNA-Val	genes,	complete	sequence;	and	16S	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|AY680259.1|
+polished-5-489.fasta	96.774	31	1	0	8.01e-09	52.8	Pelodiscus	sinensis	12S	ribosomal	RNA	gene,	complete	sequence;	mitochondrial	gb|AY743420.2|
+#	BLASTN	2.11.0+
+#	Query:	polished-6-563.fasta
+#	Database:	/home/data/BLASTdatabase/sequence-2.fasta
+#	Fields:	query	id,	%	identity,	alignment	length,	mismatches,	gap	opens,	evalue,	bit	score,	subject	titles,	subject	ids
+#	10	hits	found
+polished-6-563.fasta	85.000	80	12	0	1.00e-17	82.4	Kuhlia	xenura	voucher	USNM:FISH:442289	mitochondrion,	complete	genome	OP035202.1
+polished-6-563.fasta	83.117	77	13	0	2.17e-14	71.3	Amatitlania	nigrofasciata	voucher	AN15758	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	OK576391.1
+polished-6-563.fasta	84.286	70	11	0	7.79e-14	69.4	Sarotherodon	melanotheron	mitochondrion,	complete	genome	ref|NC_015611.1|
+polished-6-563.fasta	81.818	77	14	0	1.01e-12	65.8	Oreochromis	mossambicus	mitochondrion,	complete	genome	gb|AY597335.1|
+polished-6-563.fasta	82.857	70	12	0	3.63e-12	63.9	Andinoacara	rivulatus	mitochondrion,	complete	genome	ref|NC_025671.1|
+polished-6-563.fasta	82.857	70	12	0	3.63e-12	63.9	Micropterus	dolomieu	mitochondrion,	complete	genome	ref|NC_011361.1|
+polished-6-563.fasta	81.429	70	13	0	1.69e-10	58.4	Sphyraena	barracuda	mitochondrion,	complete	genome	ref|NC_022484.1|
+polished-6-563.fasta	94.286	35	2	0	2.18e-09	54.7	Caranx	sexfasciatus	CBM:ZF:24250	mitochondrial	genes	for	12S	rRNA,	tRNA-Val,	16S	rRNA,	partial	and	complete	sequence	dbj|LC848708.1|
+polished-6-563.fasta	94.286	35	2	0	2.18e-09	54.7	Cyprinus	carpio	isolate	2WK10	tRNA-Pro	gene,	partial	sequence;	D-loop	and	tRNA-Phe	gene,	complete	sequence;	and	12S	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MG786483.1|
+polished-6-563.fasta	94.286	35	2	0	2.18e-09	54.7	Carassius	auratus	isolate	CES025	tRNA-Phe	gene,	partial	sequence;	12S	ribosomal	RNA	and	tRNA-Val	genes,	complete	sequence;	and	16S	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|KY798482.1|
+#	BLASTN	2.11.0+
+#	Query:	polished-7-413.fasta
+#	Database:	/home/data/BLASTdatabase/sequence-2.fasta
+#	Fields:	query	id,	%	identity,	alignment	length,	mismatches,	gap	opens,	evalue,	bit	score,	subject	titles,	subject	ids
+#	10	hits	found
+polished-7-413.fasta	88.158	76	7	2	6.28e-20	89.8	Sarotherodon	melanotheron	mitochondrion,	complete	genome	ref|NC_015611.1|
+polished-7-413.fasta	86.420	81	10	1	2.26e-19	87.9	Kuhlia	xenura	voucher	USNM:FISH:442289	mitochondrion,	complete	genome	OP035202.1
+polished-7-413.fasta	86.667	75	8	2	1.05e-17	82.4	Amatitlania	nigrofasciata	voucher	AN15758	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	OK576391.1
+polished-7-413.fasta	86.667	75	8	2	1.05e-17	82.4	Andinoacara	rivulatus	mitochondrion,	complete	genome	ref|NC_025671.1|
+polished-7-413.fasta	85.333	75	9	2	4.89e-16	76.8	Caranx	sexfasciatus	CBM:ZF:24250	mitochondrial	genes	for	12S	rRNA,	tRNA-Val,	16S	rRNA,	partial	and	complete	sequence	dbj|LC848708.1|
+polished-7-413.fasta	85.135	74	11	0	4.89e-16	76.8	Sphyraena	barracuda	mitochondrion,	complete	genome	ref|NC_022484.1|
+polished-7-413.fasta	85.135	74	11	0	4.89e-16	76.8	Micropterus	dolomieu	mitochondrion,	complete	genome	ref|NC_011361.1|
+polished-7-413.fasta	85.333	75	9	2	4.89e-16	76.8	Oreochromis	mossambicus	mitochondrion,	complete	genome	gb|AY597335.1|
+polished-7-413.fasta	84.000	75	11	1	2.27e-14	71.3	Cyprinus	carpio	isolate	2WK10	tRNA-Pro	gene,	partial	sequence;	D-loop	and	tRNA-Phe	gene,	complete	sequence;	and	12S	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MG786483.1|
+polished-7-413.fasta	84.000	75	11	1	2.27e-14	71.3	Carassius	auratus	isolate	CES025	tRNA-Phe	gene,	partial	sequence;	12S	ribosomal	RNA	and	tRNA-Val	genes,	complete	sequence;	and	16S	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|KY798482.1|
+#	BLASTN	2.11.0+
+#	Query:	polished-7-431.fasta
+#	Database:	/home/data/BLASTdatabase/sequence-2.fasta
+#	0	hits	found
+#	BLASTN	2.11.0+
+#	Query:	polished-7-84.fasta
+#	Database:	/home/data/BLASTdatabase/sequence-2.fasta
+#	Fields:	query	id,	%	identity,	alignment	length,	mismatches,	gap	opens,	evalue,	bit	score,	subject	titles,	subject	ids
+#	10	hits	found
+polished-7-84.fasta	85.000	80	12	0	1.02e-17	82.4	Kuhlia	xenura	voucher	USNM:FISH:442289	mitochondrion,	complete	genome	OP035202.1
+polished-7-84.fasta	83.117	77	13	0	2.21e-14	71.3	Amatitlania	nigrofasciata	voucher	AN15758	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	OK576391.1
+polished-7-84.fasta	84.286	70	11	0	7.95e-14	69.4	Sarotherodon	melanotheron	mitochondrion,	complete	genome	ref|NC_015611.1|
+polished-7-84.fasta	81.818	77	14	0	1.03e-12	65.8	Oreochromis	mossambicus	mitochondrion,	complete	genome	gb|AY597335.1|
+polished-7-84.fasta	82.857	70	12	0	3.70e-12	63.9	Andinoacara	rivulatus	mitochondrion,	complete	genome	ref|NC_025671.1|
+polished-7-84.fasta	82.857	70	12	0	3.70e-12	63.9	Micropterus	dolomieu	mitochondrion,	complete	genome	ref|NC_011361.1|
+polished-7-84.fasta	81.429	70	13	0	1.72e-10	58.4	Sphyraena	barracuda	mitochondrion,	complete	genome	ref|NC_022484.1|
+polished-7-84.fasta	94.286	35	2	0	2.23e-09	54.7	Caranx	sexfasciatus	CBM:ZF:24250	mitochondrial	genes	for	12S	rRNA,	tRNA-Val,	16S	rRNA,	partial	and	complete	sequence	dbj|LC848708.1|
+polished-7-84.fasta	94.286	35	2	0	2.23e-09	54.7	Cyprinus	carpio	isolate	2WK10	tRNA-Pro	gene,	partial	sequence;	D-loop	and	tRNA-Phe	gene,	complete	sequence;	and	12S	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MG786483.1|
+polished-7-84.fasta	94.286	35	2	0	2.23e-09	54.7	Carassius	auratus	isolate	CES025	tRNA-Phe	gene,	partial	sequence;	12S	ribosomal	RNA	and	tRNA-Val	genes,	complete	sequence;	and	16S	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|KY798482.1|
+#	BLASTN	2.11.0+
+#	Query:	polished-8-409.fasta
+#	Database:	/home/data/BLASTdatabase/sequence-2.fasta
+#	0	hits	found
+#	BLASTN	2.11.0+
+#	Query:	polished-9-565.fasta
+#	Database:	/home/data/BLASTdatabase/sequence-2.fasta
+#	Fields:	query	id,	%	identity,	alignment	length,	mismatches,	gap	opens,	evalue,	bit	score,	subject	titles,	subject	ids
+#	13	hits	found
+polished-9-565.fasta	96.714	213	5	2	1.96e-99	353	Poecilia	sphenops	mitochondrial	DNA,	complete	genome	ref|NC_026579.1|
+polished-9-565.fasta	90.141	213	19	2	4.36e-76	276	Poecilia	reticulata	mitochondrion,	complete	genome	ref|NC_024238.1|
+polished-9-565.fasta	85.973	221	20	5	4.46e-61	226	Xiphophorus	hellerii	mitochondrion,	complete	genome	ref|NC_013089.1|
+polished-9-565.fasta	84.112	214	32	2	5.81e-55	206	Gambusia	affinis	CBM:ZF:21873	mitochondrial	genes	for	12S	rRNA,	tRNA-Val,	16S	rRNA,	partial	and	complete	sequence	dbj|LC669499.1|
+polished-9-565.fasta	82.870	216	31	5	5.85e-50	189	Osteomugil	engeli	voucher	USNM:FISH:439840	mitochondrion,	complete	genome	OP035222.1
+polished-9-565.fasta	81.614	223	32	7	4.55e-46	176	Micropterus	dolomieu	mitochondrion,	complete	genome	ref|NC_011361.1|
+polished-9-565.fasta	81.614	223	31	9	4.55e-46	176	Oreochromis	mossambicus	mitochondrion,	complete	genome	gb|AY597335.1|
+polished-9-565.fasta	80.631	222	38	4	2.74e-43	167	Amatitlania	nigrofasciata	voucher	AN15758	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	OK576391.1
+polished-9-565.fasta	80.269	223	35	8	4.59e-41	159	Caranx	sexfasciatus	CBM:ZF:24250	mitochondrial	genes	for	12S	rRNA,	tRNA-Val,	16S	rRNA,	partial	and	complete	sequence	dbj|LC848708.1|
+polished-9-565.fasta	80.702	114	15	7	1.02e-17	82.4	Stenogobius	hawaiiensis	voucher	PH_ref-35	small	subunit	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|MT656157.1|
+polished-9-565.fasta	84.416	77	10	1	1.71e-15	75.0	Elops	hawaiensis	mitochondrial	DNA,	complete	genome	dbj|AB051070.1|
+polished-9-565.fasta	86.275	51	7	0	6.19e-10	56.5	Rhinella	marina	voucher	KU	202274	tRNA-Phe	gene,	partial	sequence;	12S	ribosomal	RNA	and	tRNA-Val	genes,	complete	sequence;	and	16S	ribosomal	RNA	gene,	partial	sequence;	mitochondrial	gb|AY680259.1|
+polished-9-565.fasta	96.774	31	1	0	8.01e-09	52.8	Pelodiscus	sinensis	12S	ribosomal	RNA	gene,	complete	sequence;	mitochondrial	gb|AY743420.2|
+#	BLAST	processed	13	queries

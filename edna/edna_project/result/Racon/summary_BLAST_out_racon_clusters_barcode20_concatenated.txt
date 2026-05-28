@@ -1,0 +1,24 @@
+BLAST_out_clusters
+10	668		98.611	216	1	2	8.73e	108	381	Micropterus	dolomieu	mitochondrion,	complete	genome	ref|NC_011361.1|
+10	699		98.611	216	1	2	8.73e	108	381	Micropterus	dolomieu	mitochondrion,	complete	genome	ref|NC_011361.1|
+11	224		99.535	215	1	0	4.19e	111	392	Micropterus	dolomieu	mitochondrion,	complete	genome	ref|NC_011361.1|
+17	354		99.535	215	1	0	4.03e	111	392	Micropterus	dolomieu	mitochondrion,	complete	genome	ref|NC_011361.1|
+18	466		98.000	200	1	2	1.06e	96	344	Micropterus	dolomieu	mitochondrion,	complete	genome	ref|NC_011361.1|
+18	567		98.165	218	1	3	1.15e	106	377	Micropterus	dolomieu	mitochondrion,	complete	genome	ref|NC_011361.1|
+19	130		99.519	208	1	0	3.06e	107	379	Micropterus	dolomieu	mitochondrion,	complete	genome	ref|NC_011361.1|
+21	617		99.526	211	1	0	6.58e	109	385	Micropterus	dolomieu	mitochondrion,	complete	genome	ref|NC_011361.1|
+23	462		97.573	206	4	1	6.43e	99	351	Micropterus	dolomieu	mitochondrion,	complete	genome	ref|NC_011361.1|
+25	605		99.029	206	1	1	6.45e	104	368	Micropterus	dolomieu	mitochondrion,	complete	genome	ref|NC_011361.1|
+35	243		99.010	202	1	1	1.06e	101	361	Micropterus	dolomieu	mitochondrion,	complete	genome	ref|NC_011361.1|
+38	413		87.838	74	9	0	2.13e	19	87.9	Caranx	sexfasciatus	CBM:ZF:24250	mitochondrial	genes	for	12S	rRNA,	tRNA-Val,	16S	rRNA,	partial	and	complete	sequence	dbj|LC848708.1|
+5	178		95.455	220	2	6	1.16e	96	344	Micropterus	dolomieu	mitochondrion,	complete	genome	ref|NC_011361.1|
+5	208		82.716	81	13	1	2.11e	14	71.3	Kuhlia	xenura	voucher	USNM:FISH:442289	mitochondrion,	complete	genome	OP035202.1
+5	215		97.170	212	2	4	5.24e	100	355	Micropterus	dolomieu	mitochondrion,	complete	genome	ref|NC_011361.1|
+5	554		98.049	205	2	2	4.95e	100	355	Micropterus	dolomieu	mitochondrion,	complete	genome	ref|NC_011361.1|
+5	785		95.631	206	1	6	1.39e	90	324	Micropterus	dolomieu	mitochondrion,	complete	genome	ref|NC_011361.1|
+6	114		97.143	210	2	3	6.71e	99	351	Micropterus	dolomieu	mitochondrion,	complete	genome	ref|NC_011361.1|
+6	138		95.098	204	2	4	8.44e	88	315	Micropterus	dolomieu	mitochondrion,	complete	genome	ref|NC_011361.1|
+6	764	
+7	61		98.131	214	3	1	5.20e	105	372	Micropterus	dolomieu	mitochondrion,	complete	genome	ref|NC_011361.1|
+9	700		96.714	213	1	3	2.41e	98	350	Micropterus	dolomieu	mitochondrion,	complete	genome	ref|NC_011361.1|
+	

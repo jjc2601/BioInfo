@@ -1,0 +1,2 @@
+barcode03_concatenated/report_barcode03_concatenated 11444 9540	(83.36%)
+barcode04_concatenated/report_barcode04_concatenated 6948 5473	(78.77%)

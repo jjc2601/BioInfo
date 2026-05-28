@@ -1,0 +1,464 @@
+---
+title: "eDNA Analysis of Biodiversity in Manoa Stream"
+output:
+     pdf_document: default
+     html_document: default
+
+---
+## Introduction
+This eDNA analyses was conducted on a sample of stream water collected by a stream biologist who wants to determine if eDNA can provide an alternative to manual stream surveys.
+Water was collected from Manoa stream near Manoa Marketplace. In this project in particular, we used the primer, 12S rDNA, to serach for samples of the Rainbow Guppy(Poecillia Reticulata). The
+Rainbow Guppy is a freshwater fish that lives in small springs and streams across the islands on Hawaii. Introduced in Hawaii through fish farms in 1922, it became an invasive species
+that eats the eggs of native animals, such as damselfies on O'ahu(DLNR, 2021). Because of the introduction of invasive species, it also introduces the threat of a declining ecosystem where
+it becomes susceptible to collasping. One survey found that 50-90% of the fish community in sampled wetland sites were invasive speices from the family, Poeciliidae, which includes guppies.(CTAHR,2009).
+This shows how invasive species are able to reproduce quickly to outcompete native species food and habitat. It is therefore important to find out the extent of the Rainbow Guppy's impact on the 
+biodiversity of streams in Hawaii. It will give reserachers an idea of what must be done to protect the biodiversity of ecosystems in Hawaii. 
+
+## Sample collection and sequencing preperation
+To sample the biodiversity in the Manoa stream, 1L of water was collected and split into 2 replicates of 400mL of and centrifuged at 4500 rpm for 15 minutes to pellet the organic material.
+DNA was extracted from each replicate using the NEB Monarch kit following the manufacturer's protocol and eluted in 30uL of elution buffer. 
+The 12S region of fish species was amplified through PCR using the MiFish primers developed by Miya et al. (2015). 
+Following PCR amplification, the sequences were prepared for sequencing using the Native Barcoding kit (SQK-NBD-104).
+Barcoded libraries quantified using a Qubit fluorometer, normalized based on DNA concentration and pooled in equimolar amounts.
+The pooled library was then sequenced on a single Oxford Nanopore MinION Flongle (FLO-FLG001) for 72 hours.
+Reads were basecalled and adaptors and barcodes were trimmed using the GUPPY v3.2.2 high accuracy model. 
+
+## Classification of eDNA reads
+First, we filtered the survey data for vertebrates and compiled a list of all unique vertebrate sequences detected in the sample. To identify each sequence, we located the corresponding 12S rDNA accession numbers through GenBank and used these for analyses.
+All bioinformatic processing was completed using the Decona pipeline (Oosterbroek et al., preprint; https://github.com/Saskia-Oosterbroek/decona) within a Docker environment, in combination with NCBI-BLAST 2.9.0+ for taxonomic assignment.
+Amplicon reads were initially quality-filtered with NanoFilt v2.7.1, retaining only those with a minimum Q-score >10 and lengths between 170–300 bp (De Coster et al., 2018). Sequences appearing more than five times and sharing >95% identity based on a k-mer length of 5 were clustered using CD-HIT (Fu et al., 2018).
+Clustered sequences were then aligned using Minimap2 v2.17-r941 (Li, 2018). Initial consensus sequences were generated with Racon v1.4.21 (Vaser et al., 2017) and polished using Medaka v1.1.2 (Oxford Nanopore Technologies, 2018).
+Final consensus sequences were compared against a custom local BLAST database consisting of publicly available fish 12S and full mitochondrial sequences downloaded from GenBank (accessed September 15, 2022). Sequences returning >95% identity were assigned to the corresponding fish species, while sequences <95% identity were designated as unclassified.
+
+
+```{bash eval = FALSE}
+# pull the docker image
+docker pull ethill/decona:latest
+# run the docker image
+docker run \
+    --name= \
+    --volume=:/home/data \
+# change to the directory with the data
+
+# command for the decona pipeline
+decona 
+# -f = input file
+# -l = minimum length of read
+# -m = maximum length of read
+# -q = minimum quality score
+# -c = minimum percent identity
+# -n = minimum number of clustered reads to call a consensus
+# -k = kmer length
+# -T = number of threads
+# -B = blast database
+```
+
+## Making the environment
+To begin this analysis we will load the packages required for our maninpulations and visualizations.
+Then a accessory function was created to check if an integer is of 0 length. In additon, we created a function that found the number of species in a sample. 
+
+```{r message=FALSE, warning=FALSE}
+# Load the required packages
+library(stringr)
+library(ggplot2)
+library(dplyr)
+library(reshape2)
+ #setwd("edna_project")
+# Accessory function:
+# Checks if an integer is of 0 length, you need to complete this function!
+is.integer0 <- function(x){
+if(length(x) == 0L){
+  return(TRUE)
+}else{
+  return(FALSE)
+}
+}
+
+# Rarefaction function, you need to complete this function!
+rare_sample <- function(x, y) {
+  x <- x[sample(nrow(x), y, replace = FALSE), ]
+  # how to remove duplicates?
+  #x <- x[!duplicated(x$gensp), ]
+
+  unique_x <- unique(x$gensp)
+  # how do we find the number of unique species?
+  num_unique <- length(unique_x)
+  # what do we want to return?
+  return(num_unique)
+}
+```
+```{r}
+all <- read.csv("./all.csv")
+
+# str(me)
+
+
+filtered_all <- all[all$OrganismType == "Vertebrate" ,]
+
+filtered_all <- filtered_all[!is.numeric(filtered_all) ,]
+
+#head(filtered_all)
+
+unique_species <- unique(filtered_all$Species)
+
+#unique_species
+
+
+```
+## Ingesting the data
+We then loaded our eDNA classification as well as the survey data collected from the same date as the eDNA sample.
+We combined the two barcodes and removed any rows that did not have any data and fixed a typo in the survey data before it caused any probems downstream. The typo, "Xiphophorus helleri"
+was changed to "Xiphophorus hellerii".
+
+```{r}
+# How do we read in the data considering we have to read in multiple files?
+decona_out <- list.files("./result/Racon")
+#read.csv("file.txt",sep = "\t")
+blast_out <- decona_out[grep("summary_BLAST", decona_out)]
+# decona_out
+
+# blast_out
+
+# Prep the data frame
+sdat <- data.frame()
+
+#raw text output
+for(i in blast_out){
+dat <- read.delim(file.path("result/Racon", i), sep = "\t", header = FALSE, skip = 1, col.names = paste0( "V", seq_len(100)), fill = TRUE)
+
+check <- grep("TRUE", is.na(dat$V1))
+
+#if there is not clusters, return an empty data frame
+if(is.integer0(check)== TRUE){
+dat <- dat[-c(grep ("TRUE", is.na(dat$V1))) ,]
+temp <- dat[, c(1,4,8,11,12)]
+}else {
+temp <- dat[, c(1,4,8,11,12)]
+}
+
+# Read in the classification tables from decona
+
+# HINT: you will need to pad table with additional columns to ensure all tables have the same number of columns
+# HINT: what programming construct can you use to loop through the files? What object will you be looping through?
+# HINT: below is the general outline of what you will need to do
+
+ # dat <- # Reads in the data, use ?read.delim
+  #check <- # How can we check if there are any NA values in the first column?
+
+names(temp) <- c("reads", "percent_id", "e_value", "genus", "species")
+temp$percent_id[grep("TRUE", is.na(temp$percent_id))] <- 0
+
+#names(temp) <- paste(temp$genus, temp$species, sep = "_")
+temp$barcode <- str_extract(i, "barcode[0-9]+")
+
+sdat <- rbind(sdat, temp)
+}
+
+sdat$gensp <- paste(sdat$genus, sdat$species, sep = "_")
+
+
+  # If there are no clusters, return an empty data frame
+  # How can we write a test to ID clusters of length 0 and remove the row?
+  # HINT: you will need to use the is.integer0 function
+  # HINT: The columns you are going to keep are 1, 4, 8, 11, 12.
+  #       if a cluster is of length zero, we will want to remove the row
+
+  # Rename the columns to the following:
+  # "reads", "percent_id", "e_value", "genus", "species"
+  # Any clusters with a NA percent_id should be replaced with 0
+
+  # Add column for gensp and barcode
+  #temp$gensp <- 
+  # Add column for barcode
+  # HINT: use ?str_extract
+  #temp$barcode <-
+
+  # Combine the dataframes
+ # sdat <- rbind(sdat, temp)
+
+# Read in the survey data
+sur <- read.csv("./me.csv", sep =",", header = TRUE)
+# Fix a typo HERE BEFORE I FORGET
+sur$Species[sur$Species == "Xiphophorus helleri"] <- "Xiphophorus hellerii"
+
+```
+
+Once the data was cleaned up, we renamed the columns to be more descriptive and removed any rows that were not of interest.
+Specifically, the rows that were identified as humans, pigs and turtles were removed since we are only looking at a sample of fish in the Manoa Stream.
+Classifications that were returned with a percent identity of less than 95 were removed because a lower percent identity indicates a less reliable match to 
+a known sequence in the database. Additionally, we also created a new column that combined the genus and species columns to make it easier to work with downstream.
+
+```{r}
+# Remove non-fish classifications
+# HINT: non-fish are Homo sapiens, Sus scrofa, and Trachemys scripta
+#sdat <- 
+
+# Only keep the rows with a percent identity greater than 95
+idat <-sdat[sdat$percent_id > 95, ]
+# idat
+# Create a new column with the genus and species called gensp
+# HINT: use ?paste
+idat$gensp <- paste(idat$genus, idat$species)
+
+```
+
+## Rarefaction of samples
+
+In order to assess the sampling depth of the eDNA sequencing run, we will first conduct a rarefaction analysis. 
+First, we will want to sum all of the unique combinations of barcodes and gensp. Then we will create a dataframe where each row represents 1 "read" in the dataset. 
+We will then randomly sample the dataframe and calculate the number of unique species for each sample. Finally, we will plot the rarefaction curve by barcode. 
+
+```{r}
+# Consolidate unique gensp + barcode combinations
+# HINT: you will be working with the idat dataframe
+#       use ?group_by, ?summarize ?arrange, ?mutate
+rare <- idat %>%
+  group_by(barcode, gensp) %>%
+  summarize(reads = sum(reads)) %>%
+  arrange(barcode, desc(reads))
+
+# Create a dataframe where each row corresponds to a read
+# HINT: what programming construct can you use to do this?
+#       how can we do this on a per-barcode basis?
+#       what steps do we need to complete to do this?
+#       use ?rep to get started
+
+rarea <- data.frame()
+for (i in 1:length(rare$barcode)) {
+  newrows <- data.frame(
+  barcode <- c(rep(rare$barcode[i], rare$reads[i])),
+  gensp <- c(rep(rare$gensp[i], rare$reads[i]))
+  )
+  rarea <- rbind(rarea, newrows)
+}
+  # rarea
+# Randomly sample dataframe and calculate the number of unique species
+# for each sample
+# HINT: a nested for loop will be useful here...
+rarefaction <- data.frame()
+steps <- 10 
+minreads <- 0
+for (barcode in unique(rarea$barcode)){
+  barcode_reads <- rarea[rarea$barcode == barcode, ]
+  numrows_barcode_reads <- nrow(barcode_reads)
+  for (i in seq(1, numrows_barcode_reads, steps)){
+    sample <- rare_sample(barcode_reads, i)
+    rarefaction <- rbind(rarefaction, data.frame(
+# Rename the columns to the following: "unique_species", "reads", "barcode"
+        barcode = barcode,
+        reads = i,
+        unique_species = sample)
+  )
+  }
+}
+rareplot <- ggplot(rarefaction, aes(x = reads, y= unique_species, color = barcode)) + 
+        geom_point() +
+        geom_line()+
+        ggtitle("Figure 1: Rarefaction Curve of Barcodes")
+# Plot the rarefaction curve by barcode
+
+```
+
+```{r fig.cap = ""}
+# Display the rarefaction curve
+rareplot
+```
+
+## Comparing relative abundance and unique species identified between site replicates
+To compare the consistency of the replicates of the same site, we grouped the data by barcode and species and calculated the sum of reads for each group.
+Then, we calculated the relative abundance of each species within each barcode group and stored the results in a new data frame called `relab`. Relative abundance in this case is
+the specific species divided by the total number of species sampled. Finally, we generated a stacked bar plot using `ggplot2` library, where the x-axis represents the barcode, the y-axis represents the relative abundance of each species, 
+and the fill color represents the species/genus.
+
+```{r}
+# Calculate relative abundance
+# Combine rows with the same genus and species
+# HINT: you will want to group by barcode and gensp
+#       use ?group_by, ?summarise
+idat <-  idat %>%
+  group_by(barcode, gensp) %>%
+  summarise(reads = sum(reads)) %>%
+  arrange(barcode, desc(reads))
+
+  idat
+# Calculate the total number of reads
+# HINT: we will want do this on a per-barcode basis
+bc <- c()
+for(barcode in unique(idat$barcode)){
+bc <- c(bc, sum(idat[idat$barcode == barcode,]$reads))
+}
+names(bc) <- unique(idat$barcode)
+bc
+
+# Calculate the relative abuZndance
+# HINT: what programming construct can you use to do this?
+relab <- data.frame()
+for(i in 1:nrow(idat)){
+relab[i ,"barcode"] <- idat$barcode[i]
+relab[i ,"gensp"] <- idat$gensp[i]
+relab[i ,"relative_abundance"] <- idat$reads[i]/ bc[idat$barcode[i]]
+}
+
+relab
+# Plot the relative abundance
+relab_plot <- ggplot(data = relab, aes(x = barcode, y = relative_abundance, fill = gensp)) +
+  geom_bar(stat = "identity", position = "stack") +
+  xlab("barcode")+ 
+  ylab("relative abundance")+
+  ggtitle("Figure 2:Relative Abundance of Stream Data")
+
+```
+
+```{r fig.cap=""}
+# Display the relative abundance plot
+relab_plot
+```
+
+## Comparing relative abundance and unique species of pooled site replicates to the survey data
+To compare the sequncing data to the survey data, we first created a new dataframe for the counts from survey data and the reads from sequencing data.
+However, instead of keeping the sequencing data as seperate replicates we combined them into a single group.
+We then generated a stacked bar plot using `ggplot2` library, where the x-axis represents the sampling method, the y-axis represents the relative abundance of each species, and the fill color represents the species.
+
+```{r}
+# Make new dataframe for compaison to survey data
+# HINT: you will want to group by gensp
+#       use ?group_by, ?summarise
+sc <- idat %>%
+  group_by(gensp) %>%
+  summarise(reads = sum(reads)) %>%
+  arrange(barcode, desc(reads))
+
+# Add a column for the method
+sc$method <- "sequencing"
+
+# Prepare the survey data
+# HINT: we will want to replace the spaces in the species names with underscores
+#       and create a new column for the gensp
+#       use ?str_replace_all
+
+sc$gensp <- str_replace_all(sc$gensp," ", "_" )
+sc$gensp
+
+# Summarize the survey data
+# HINT: we will want to group by gensp
+#       use ?group_by, ?summarise
+sur$gensp <- str_replace_all(sur$Species, " ", "_")
+sur$gensp
+
+
+# Add a column for the method
+sur$method <- "surveying"
+surdat <- subset(sur, select = c(gensp, Count, method))
+surdat <- surdat %>%
+rename( reads = Count)
+surdat
+
+# Combine the two dataframes
+relab_compare <- rbind(surdat,sc)
+arrange(relab_compare, desc(reads))
+# Calculate the relative abundance for the survey data and sequencing data
+# HINT: what programming construct can you use to do this?
+
+total_reads <- c()
+for(i in unique(relab_compare$method)){
+total_reads <- c(total_reads, sum(relab_compare[relab_compare$method == i, ]$reads))
+}
+names(total_reads) <- unique(relab_compare$method)
+
+relab_abundance <- data.frame()
+
+for(i in 1:nrow(relab_compare)){
+relab_abundance[i, "gensp"] <- relab_compare$gensp[i]
+relab_abundance[i, "method"] <- relab_compare$method[i]
+if(relab_compare[i,"method"] == "surveying"){
+relab_abundance[i, "relative_abundance"] <- relab_compare$reads[i]/total_reads[1]
+}else{
+  relab_abundance[i, "relative_abundance"] <- relab_compare$reads[i]/total_reads[2]
+}
+}
+relab_abundance
+
+# # Plot the relative abundance
+# relab_plot <- ggplot(data = relab, aes(x = barcode, y = relative_abundance, fill = gensp)) +
+#   geom_bar(stat = "identity", position = "stack") +
+#   xlab("barcode")+ 
+#   ylab("relative abundance")
+
+# Plot the relative abundance
+relab_compare_plot <- ggplot(data = relab_abundance, aes(x = method, y= relative_abundance, fill = gensp))+
+geom_bar(stat = "identity", position = "stack")+
+xlab("method")+
+ylab("relative abundance")+
+ggtitle("Figure 3: Relative Abundance of Species in each method of Sampling")
+
+
+```
+
+```{r fig.cap="Relative abundance of species between sequencing reads and survey counts."}
+# Display the relative abundance comparison plot
+relab_compare_plot
+```
+
+# Determining relationships between sequencing reads and survey counts
+To determine the relationship between the sequencing reads and survey counts, we first created a new dataframe for the counts from survey data and the reads from sequencing data.
+We then created a linear model to compare the counts from survey data and the reads from sequencing data.
+Finally, we generated a scatter plot using `ggplot2` library, where the x-axis represents the survey counts, the y-axis represents the sequencing reads, and the color represents the species.
+
+```{r}
+# Make 2 new dataframes for the counts from survey data and the reads from sequencing data
+# Assign the names reads and counts to the numeric columns
+survey_counts <- data.frame(gensp = surdat$gensp, count = surdat$reads, method = "surveying")
+
+# Merge the two dataframes
+# HINT: use ?merge
+comb3 <- merge(sc,survey_counts, by = c("gensp", "method"), all = TRUE)
+
+# Replace NA values with 0
+comb3$reads[is.na(comb3$reads)] = 0
+comb3$count[is.na(comb3$count)] = 0
+# Create linear model to compare the counts from survey data and the reads from
+# sequencing data
+# All of the code below is a function that will generate the equation for the linear model
+# HINT: you will need to complete the function
+lm_eqn <- function(df) {
+    m <- lm(reads ~ count , df);
+    eq <- substitute(italic(y) == a + b %.% italic(x)*","~~italic(r)^2~"="~r2,
+         list(a = format(unname(coef(m)[1]), digits = 2),
+              b = format(unname(coef(m)[2]), digits = 2),
+             r2 = format(summary(m)$r.squared, digits = 3)))
+    as.character(as.expression(eq));
+}
+
+# Plot the counts from survey data and the reads from sequencing data
+seqvsur_lm_plot <- ggplot(data = comb3, aes(x = count, y = reads))+
+  geom_text(x = 35, y = 4000, label = lm_eqn(comb3), parse = TRUE)+
+  geom_point(aes(color = gensp))+
+  coord_fixed(ratio = 0.2)+
+  geom_smooth(method = "lm", se = FALSE)+
+  ggtitle("Figure 4: Relationship between eDNA reads and survey count")
+
+# lm_model <- lm(reads~count, data = comb3)
+# summary(lm_model)
+```
+
+```{r fig.cap="Relationship between sequencing reads and survey counts."}
+# Display the linear model plot
+seqvsur_lm_plot
+```
+
+## Conclusions
+The primary findings of the analysis are as follows:
+The database generated for this analysis must be robust enough to identify all species of interest; if the database is not robust it may result in misclassifications.
+That is why we filtered the data to include speicies with a percent idenetity of higher than 95%. In addtion, we used a rarefaction curve so that we know how much times the data needs to be sampled 
+to have an accurate representation of the stream population(Figure 1). In the relative abundance graph(Figure 2), it tells us the species composition in the Manoa Stream where Micropeterus dolomieu and Poecilia sphenops 
+have highest relative abundance. This means that the stream population has a high composition of both invasive species and constantly compete agianst other native and invasive speiceis in the same population. The relative abundance
+graph in (Figure 3) determines the difference in sampling between a mannual survey and uisng eDNA. We can see a high relative abundance for Poecilia Reticulata when mannual surveying the Manoa stream as opposeed to sampling via eDNA.
+This difference could've happened because we are randomly sampling a large body of water where it could contain more eDNA of a certain species. Similarly, this could happen when manually surveying the population since the biologist is only 
+surveying a fraction of the stream. The graph from (Figure 4) shows the counts for survey vs the reads from the eDNA sampling. An r^2 value of -0.05 means that the 5% of the variability in the counts is explained by the reads. This proves
+that they are not correlated to each other. We can conclude that eDNA cannot be used as a replacement for manual surveys. However, it be used as a supplement to manual surveys and as a tool to determine if a species is present in a given area 
+and allows for detection of species that were not captured in the manual survey.
+
+## Sources
+https://www.ctahr.hawaii.edu/brulandg/whatsnew/HawaiiWetlandMonitor200904.pdf
+
+https://dlnr.hawaii.gov/ais/other-ais/guppies/#:~:text=Guppies%20(Poecilia%20reticulata)%20are%20small%20freshwater%20fish,while%20females%20and%20juveniles%20are%20uniformly%20silver.
